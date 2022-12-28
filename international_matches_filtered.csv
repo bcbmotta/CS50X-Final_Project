@@ -1,0 +1,1976 @@
+date;home_team;away_team;home_team_fifa_rank;away_team_fifa_rank;home_team_total_fifa_points;away_team_total_fifa_points;home_team_score;away_team_score;tournament;country;home_team_result;home_team_goalkeeper_score;away_team_goalkeeper_score;home_team_mean_defense_score;home_team_mean_offense_score;home_team_mean_midfield_score;away_team_mean_defense_score;away_team_mean_offense_score;away_team_mean_midfield_score
+14/06/2022;Netherlands;Wales;10;18;1658;1588;3;2;UEFA Nations League;Netherlands;Win;81.0;74.0;85.2;83.0;83.5;75.0;73.0;78.5
+14/06/2022;Poland;Belgium;26;2;1544;1827;0;1;UEFA Nations League;Poland;Lose;87.0;89.0;75.2;84.7;75.8;80.8;85.7;85.5
+14/06/2022;Japan;Tunisia;23;35;1553;1499;0;3;Kirin Cup;Japan;Lose;73.0;;75.2;75.0;77.5;70.8;72.3;74.0
+13/06/2022;France;Croatia;3;16;1789;1621;0;1;UEFA Nations League;France;Lose;87.0;82.0;84.2;88.3;86.8;77.8;76.7;84.2
+12/06/2022;Switzerland;Portugal;14;8;1635;1674;1;0;UEFA Nations League;Switzerland;Win;85.0;82.0;78.5;76.7;79.5;85.2;86.0;84.5
+11/06/2022;Wales;Belgium;18;2;1588;1827;1;1;UEFA Nations League;Wales;Draw;74.0;89.0;75.0;73.0;78.5;80.8;85.7;85.5
+11/06/2022;Netherlands;Poland;10;26;1658;1544;2;2;UEFA Nations League;Netherlands;Draw;81.0;87.0;85.2;83.0;83.5;75.2;84.7;75.8
+10/06/2022;Denmark;Croatia;11;16;1653;1621;0;1;UEFA Nations League;Denmark;Lose;85.0;82.0;80.2;77.7;80.2;77.8;76.7;84.2
+10/06/2022;Japan;Ghana;23;60;1553;1387;4;1;Kirin Cup;Japan;Win;73.0;74.0;75.2;75.0;77.5;75.5;76.0;78.2
+09/06/2022;Switzerland;Spain;14;7;1635;1709;0;1;UEFA Nations League;Switzerland;Lose;85.0;84.0;78.5;76.7;79.5;86.5;85.0;86.0
+08/06/2022;Wales;Netherlands;18;10;1588;1658;1;2;UEFA Nations League;Wales;Lose;74.0;81.0;75.0;73.0;78.5;85.2;83.0;83.5
+08/06/2022;Belgium;Poland;2;26;1827;1544;6;1;UEFA Nations League;Belgium;Win;89.0;87.0;80.8;85.7;85.5;75.2;84.7;75.8
+07/06/2022;Germany;England;12;5;1650;1761;1;1;UEFA Nations League;Germany;Draw;90.0;83.0;84.0;82.7;87.8;85.0;88.0;84.0
+06/06/2022;Croatia;France;16;3;1621;1789;1;1;UEFA Nations League;Croatia;Draw;82.0;87.0;77.8;76.7;84.2;84.2;88.3;86.8
+06/06/2022;Japan;Brazil;23;1;1553;1832;0;1;Friendly;Japan;Lose;73.0;89.0;75.2;75.0;77.5;84.8;86.3;85.5
+05/06/2022;Portugal;Switzerland;8;14;1674;1635;4;0;UEFA Nations League;Portugal;Win;82.0;85.0;85.2;86.0;84.5;78.5;76.7;79.5
+05/06/2022;Mexico;Ecuador;9;46;1658;1452;0;0;Friendly;USA;Draw;80.0;71.0;76.8;82.7;78.2;73.5;76.0;74.5
+05/06/2022;USA;Uruguay;15;13;1633;1635;0;0;Friendly;USA;Draw;77.0;80.0;75.8;77.7;75.8;81.2;84.3;80.0
+03/06/2022;France;Denmark;3;11;1789;1653;1;2;UEFA Nations League;France;Lose;87.0;85.0;84.2;88.3;86.8;80.2;77.7;80.2
+03/06/2022;Belgium;Netherlands;2;10;1827;1658;1;4;UEFA Nations League;Belgium;Lose;89.0;81.0;80.8;85.7;85.5;85.2;83.0;83.5
+02/06/2022;Spain;Portugal;7;8;1709;1674;1;1;UEFA Nations League;Spain;Draw;84.0;82.0;86.5;85.0;86.0;85.2;86.0;84.5
+02/06/2022;South Korea;Brazil;29;1;1519;1832;1;5;Friendly;South Korea;Lose;75.0;89.0;73.0;80.0;73.8;84.8;86.3;85.5
+02/06/2022;Mexico;Uruguay;9;13;1658;1635;0;3;Friendly;USA;Lose;80.0;80.0;76.8;82.7;78.2;81.2;84.3;80.0
+01/06/2022;Poland;Wales;26;18;1544;1588;2;1;UEFA Nations League;Poland;Win;87.0;74.0;75.2;84.7;75.8;75.0;73.0;78.5
+01/06/2022;USA;Morocco;15;24;1633;1551;3;0;Friendly;USA;Win;77.0;82.0;75.8;77.7;75.8;81.2;81.7;76.2
+30/03/2022;Costa Rica;USA;42;13;1464;1643;2;0;FIFA World Cup qualification;Costa Rica;Win;88.0;77.0;71.5;70.3;69.2;75.8;77.7;75.8
+29/03/2022;Saudi Arabia;Australia;53;37;1433;1486;1;0;FIFA World Cup qualification;Saudi Arabia;Win;70.0;77.0;72.8;67.7;72.8;72.0;72.3;73.5
+29/03/2022;Ecuador;Argentina;44;4;1458;1766;1;1;FIFA World Cup qualification;Ecuador;Draw;71.0;84.0;73.5;76.0;74.5;82.2;89.0;84.0
+29/03/2022;Denmark;Serbia;9;25;1654;1547;3;0;Friendly;Denmark;Win;85.0;80.0;80.2;77.7;80.2;75.8;80.3;81.8
+29/03/2022;Netherlands;Germany;10;11;1653;1648;1;1;Friendly;Netherlands;Draw;81.0;90.0;85.2;83.0;83.5;84.0;82.7;87.8
+26/03/2022;England;Switzerland;5;14;1755;1642;2;1;Friendly;England;Win;83.0;85.0;85.0;88.0;84.0;78.5;76.7;79.5
+26/03/2022;Netherlands;Denmark;10;9;1653;1654;4;2;Friendly;Netherlands;Win;81.0;85.0;85.2;83.0;83.5;80.2;77.7;80.2
+24/03/2022;Mexico;USA;12;13;1647;1643;0;0;FIFA World Cup qualification;Mexico;Draw;80.0;77.0;76.8;82.7;78.2;75.8;77.7;75.8
+24/03/2022;Costa Rica;Canada;42;33;1464;1497;1;0;FIFA World Cup qualification;Costa Rica;Win;88.0;76.0;71.5;70.3;69.2;69.2;73.0;78.0
+24/03/2022;South Korea;Iran;29;21;1522;1572;2;0;FIFA World Cup qualification;South Korea;Win;75.0;73.0;73.0;80.0;73.8;69.0;75.3;69.0
+24/03/2022;Australia;Japan;37;23;1486;1549;0;2;FIFA World Cup qualification;Australia;Lose;77.0;73.0;72.0;72.3;73.5;75.2;75.0;77.5
+01/02/2022;Japan;Saudi Arabia;26;51;1531;1434;2;0;FIFA World Cup qualification;Japan;Win;73.0;70.0;75.2;75.0;77.5;72.8;67.7;72.8
+30/01/2022;Canada;USA;40;11;1462;1648;2;0;FIFA World Cup qualification;Canada;Win;76.0;77.0;69.2;73.0;78.0;75.8;77.7;75.8
+30/01/2022;Mexico;Costa Rica;14;49;1638;1437;0;0;FIFA World Cup qualification;Mexico;Draw;80.0;88.0;76.8;82.7;78.2;71.5;70.3;69.2
+27/01/2022;Ecuador;Brazil;46;2;1448;1826;1;1;FIFA World Cup qualification;Ecuador;Draw;71.0;89.0;73.5;76.0;74.5;84.8;86.3;85.5
+10/01/2022;Morocco;Ghana;28;52;1529;1428;1;0;African Cup of Nations;Cameroon;Win;82.0;74.0;81.2;81.7;76.2;75.5;76.0;78.2
+07/12/2021;Morocco;Saudi Arabia;28;48;1525;1441;1;0;Arab Cup;Qatar;Win;82.0;70.0;81.2;81.7;76.2;72.8;67.7;72.8
+16/11/2021;Canada;Mexico;48;9;1432;1672;2;1;FIFA World Cup qualification;Canada;Win;76.0;80.0;69.2;73.0;78.0;76.8;82.7;78.2
+16/11/2021;Wales;Belgium;19;1;1566;1832;1;1;FIFA World Cup qualification;Wales;Draw;74.0;89.0;75.0;73.0;78.5;80.8;85.7;85.5
+16/11/2021;Argentina;Brazil;6;2;1738;1820;0;0;FIFA World Cup qualification;Argentina;Draw;84.0;89.0;82.2;89.0;84.0;84.8;86.3;85.5
+14/11/2021;Portugal;Serbia;8;25;1681;1527;1;2;FIFA World Cup qualification;Portugal;Lose;82.0;80.0;85.2;86.0;84.5;75.8;80.3;81.8
+12/11/2021;Canada;Costa Rica;48;45;1432;1439;1;0;FIFA World Cup qualification;Canada;Win;76.0;88.0;69.2;73.0;78.0;71.5;70.3;69.2
+12/11/2021;USA;Mexico;13;9;1639;1672;2;0;FIFA World Cup qualification;USA;Win;77.0;80.0;75.8;77.7;75.8;76.8;82.7;78.2
+12/11/2021;Uruguay;Argentina;15;6;1625;1738;0;1;FIFA World Cup qualification;Uruguay;Lose;80.0;84.0;81.2;84.3;80.0;82.2;89.0;84.0
+11/11/2021;Serbia;Qatar;25;46;1527;1437;4;0;Friendly;Serbia;Win;80.0;;75.8;80.3;81.8;;;
+11/11/2021;Australia;Saudi Arabia;34;49;1489;1432;0;0;FIFA World Cup qualification;Australia;Draw;77.0;70.0;72.0;72.3;73.5;72.8;67.7;72.8
+27/10/2021;Mexico;Ecuador;9;55;1672;1416;2;3;Friendly;USA;Lose;80.0;71.0;76.8;82.7;78.2;73.5;76.0;74.5
+14/10/2021;Brazil;Uruguay;2;12;1811;1645;4;1;FIFA World Cup qualification;Brazil;Win;89.0;80.0;84.8;86.3;85.5;81.2;84.3;80.0
+13/10/2021;USA;Costa Rica;13;44;1643;1438;2;1;FIFA World Cup qualification;USA;Win;77.0;88.0;75.8;77.7;75.8;71.5;70.3;69.2
+12/10/2021;Iran;South Korea;22;36;1538;1479;1;1;FIFA World Cup qualification;Iran;Draw;73.0;75.0;69.0;75.3;69.0;73.0;80.0;73.8
+12/10/2021;Japan;Australia;26;32;1520;1493;2;1;FIFA World Cup qualification;Japan;Win;73.0;77.0;75.2;75.0;77.5;72.0;72.3;73.5
+10/10/2021;Argentina;Uruguay;6;12;1725;1645;3;0;FIFA World Cup qualification;Argentina;Win;84.0;80.0;82.2;89.0;84.0;81.2;84.3;80.0
+10/10/2021;Spain;France;8;4;1673;1754;1;2;UEFA Nations League;Italy;Lose;84.0;87.0;86.5;85.0;86.0;84.2;88.3;86.8
+09/10/2021;Portugal;Qatar;7;43;1674;1445;3;0;Friendly;Portugal;Win;82.0;;85.2;86.0;84.5;;;
+07/10/2021;Saudi Arabia;Japan;56;26;1406;1520;1;0;FIFA World Cup qualification;Saudi Arabia;Win;70.0;73.0;72.8;67.7;72.8;75.2;75.0;77.5
+07/10/2021;Mexico;Canada;9;51;1666;1416;1;1;FIFA World Cup qualification;Mexico;Draw;80.0;76.0;76.8;82.7;78.2;69.2;73.0;78.0
+07/10/2021;Belgium;France;1;4;1832;1754;2;3;UEFA Nations League;Italy;Lose;89.0;87.0;80.8;85.7;85.5;84.2;88.3;86.8
+09/09/2021;Uruguay;Ecuador;13;55;1634;1405;1;0;FIFA World Cup qualification;Uruguay;Win;80.0;71.0;81.2;84.3;80.0;73.5;76.0;74.5
+08/09/2021;Poland;England;27;4;1516;1752;1;1;FIFA World Cup qualification;Poland;Draw;87.0;83.0;75.2;84.7;75.8;85.0;88.0;84.0
+05/09/2021;Costa Rica;Mexico;44;9;1449;1658;0;1;FIFA World Cup qualification;Costa Rica;Lose;88.0;80.0;71.5;70.3;69.2;76.8;82.7;78.2
+05/09/2021;USA;Canada;10;59;1647;1399;1;1;FIFA World Cup qualification;USA;Draw;77.0;76.0;75.8;77.7;75.8;69.2;73.0;78.0
+04/09/2021;Qatar;Portugal;42;8;1455;1661;1;3;Friendly;Hungary;Lose;;82.0;;;;85.2;86.0;84.5
+01/09/2021;Qatar;Serbia;42;29;1455;1507;0;4;Friendly;Hungary;Lose;;80.0;;;;75.8;80.3;81.8
+01/08/2021;USA;Mexico;20;11;1555;1629;1;0;Gold Cup;USA;Win;76.0;79.0;75.5;76.7;75.2;76.8;83.7;78.2
+29/07/2021;Mexico;Canada;11;70;1629;1340;2;1;Gold Cup;USA;Win;79.0;75.0;76.8;83.7;78.2;71.2;70.7;74.2
+29/07/2021;USA;Qatar;20;58;1555;1397;1;0;Gold Cup;USA;Win;76.0;;75.5;76.7;75.2;;;
+25/07/2021;Costa Rica;Canada;50;70;1423;1340;0;2;Gold Cup;USA;Lose;87.0;75.0;71.0;68.7;68.5;71.2;70.7;74.2
+18/07/2021;USA;Canada;20;70;1555;1340;1;0;Gold Cup;USA;Win;76.0;75.0;75.5;76.7;75.2;71.2;70.7;74.2
+10/07/2021;Brazil;Argentina;3;8;1742;1641;0;1;Copa América;Brazil;Lose;90.0;82.0;84.8;87.3;86.0;80.0;90.0;82.5
+07/07/2021;England;Denmark;4;10;1686;1631;2;1;UEFA Euro;England;Win;82.0;84.0;84.5;87.7;83.8;79.0;77.7;80.5
+03/07/2021;Argentina;Ecuador;8;53;1641;1413;3;0;Copa América;Brazil;Win;82.0;74.0;80.0;90.0;82.5;76.8;78.0;75.5
+02/07/2021;Switzerland;Spain;13;6;1606;1648;1;1;UEFA Euro;Russia;Lose;86.0;86.0;78.2;75.0;80.5;86.8;83.7;85.8
+29/06/2021;England;Germany;4;12;1686;1609;2;0;UEFA Euro;England;Win;82.0;90.0;84.5;87.7;83.8;83.5;85.0;86.8
+28/06/2021;Croatia;Spain;14;6;1605;1648;3;5;UEFA Euro;Denmark;Lose;80.0;86.0;78.8;78.7;84.0;86.8;83.7;85.8
+28/06/2021;France;Switzerland;2;13;1757;1606;3;3;UEFA Euro;Romania;Lose;87.0;86.0;85.5;86.7;87.0;78.2;75.0;80.5
+27/06/2021;Belgium;Portugal;1;5;1783;1666;1;0;UEFA Euro;Spain;Win;89.0;84.0;81.0;86.0;85.2;83.8;84.3;85.2
+27/06/2021;Brazil;Ecuador;3;53;1742;1413;1;1;Copa América;Brazil;Draw;90.0;74.0;84.8;87.3;86.0;76.8;78.0;75.5
+26/06/2021;Wales;Denmark;17;10;1570;1631;0;4;UEFA Euro;Netherlands;Lose;75.0;84.0;75.2;70.0;79.8;79.0;77.7;80.5
+23/06/2021;Portugal;France;5;2;1666;1757;2;2;UEFA Euro;Hungary;Draw;84.0;87.0;83.8;84.3;85.2;85.5;86.7;87.0
+19/06/2021;Spain;Poland;6;21;1648;1549;1;1;UEFA Euro;Spain;Draw;86.0;87.0;86.8;83.7;85.8;77.0;83.3;77.5
+19/06/2021;Germany;Portugal;12;5;1609;1666;4;2;UEFA Euro;Germany;Win;90.0;84.0;83.5;85.0;86.8;83.8;84.3;85.2
+18/06/2021;Argentina;Uruguay;8;9;1641;1639;1;0;Copa América;Brazil;Win;82.0;82.0;80.0;90.0;82.5;82.5;82.3;81.0
+17/06/2021;Denmark;Belgium;10;1;1631;1783;1;2;UEFA Euro;Denmark;Lose;84.0;89.0;79.0;77.7;80.5;81.0;86.0;85.2
+15/06/2021;Germany;France;12;2;1609;1757;0;1;UEFA Euro;Germany;Lose;90.0;87.0;83.5;85.0;86.8;85.5;86.7;87.0
+13/06/2021;England;Croatia;4;14;1686;1605;1;0;UEFA Euro;England;Win;82.0;80.0;84.5;87.7;83.8;78.8;78.7;84.0
+12/06/2021;Wales;Switzerland;17;13;1570;1606;1;1;UEFA Euro;Wales;Draw;75.0;86.0;75.2;70.0;79.8;78.2;75.0;80.5
+11/06/2021;Japan;Serbia;28;25;1509;1512;1;0;Kirin Challenge Cup;Japan;Win;72.0;81.0;75.5;75.7;76.8;79.0;80.0;82.0
+09/06/2021;USA;Costa Rica;20;50;1555;1423;4;0;Friendly;USA;Win;76.0;87.0;75.5;76.7;75.2;71.0;68.7;68.5
+08/06/2021;Morocco;Ghana;34;49;1479;1425;1;0;Friendly;Morocco;Win;76.0;67.0;77.5;80.7;79.2;74.8;76.3;78.2
+06/06/2021;Belgium;Croatia;1;14;1783;1605;1;0;Friendly;Belgium;Win;89.0;80.0;81.0;86.0;85.2;78.8;78.7;84.0
+06/06/2021;USA;Mexico;20;11;1555;1629;3;2;CONCACAF Nations League;USA;Win;76.0;79.0;75.5;76.7;75.2;76.8;83.7;78.2
+04/06/2021;Spain;Portugal;6;5;1648;1666;0;0;Friendly;Spain;Draw;86.0;84.0;86.8;83.7;85.8;83.8;84.3;85.2
+04/06/2021;Brazil;Ecuador;3;53;1742;1413;2;0;FIFA World Cup qualification;Brazil;Win;90.0;74.0;84.8;87.3;86.0;76.8;78.0;75.5
+03/06/2021;Mexico;Costa Rica;11;50;1629;1423;0;0;CONCACAF Nations League;USA;Win;79.0;87.0;76.8;83.7;78.2;71.0;68.7;68.5
+02/06/2021;France;Wales;2;17;1757;1570;3;0;Friendly;France;Win;87.0;75.0;85.5;86.7;87.0;75.2;70.0;79.8
+02/06/2021;Germany;Denmark;12;10;1609;1631;1;1;Friendly;Austria;Draw;90.0;84.0;83.5;85.0;86.8;79.0;77.7;80.5
+30/05/2021;Switzerland;USA;13;20;1606;1555;2;1;Friendly;Switzerland;Win;86.0;76.0;78.2;75.0;80.5;75.5;76.7;75.2
+31/03/2021;England;Poland;4;19;1670;1559;2;1;FIFA World Cup qualification;England;Win;82.0;87.0;84.5;87.7;83.8;77.0;83.3;77.5
+30/03/2021;Costa Rica;Mexico;50;9;1427;1632;0;1;Friendly;Austria;Lose;87.0;79.0;71.0;68.7;68.5;76.8;83.7;78.2
+27/03/2021;Wales;Mexico;18;9;1562;1632;1;0;Friendly;Wales;Win;75.0;79.0;75.2;70.0;79.8;76.8;83.7;78.2
+27/03/2021;Serbia;Portugal;30;5;1492;1662;2;2;FIFA World Cup qualification;Serbia;Draw;81.0;84.0;79.0;80.0;82.0;83.8;84.3;85.2
+25/03/2021;Japan;South Korea;27;38;1502;1465;3;0;Friendly;Japan;Win;72.0;75.0;75.5;75.7;76.8;72.5;75.7;77.0
+24/03/2021;Belgium;Wales;1;18;1780;1562;3;1;FIFA World Cup qualification;Belgium;Win;89.0;75.0;81.0;86.0;85.2;75.2;70.0;79.8
+18/11/2020;Poland;Netherlands;18;15;1568;1596;1;2;UEFA Nations League;Poland;Lose;87.0;81.0;77.0;83.3;77.5;85.2;82.3;84.0
+18/11/2020;Belgium;Denmark;1;13;1765;1610;4;2;UEFA Nations League;Belgium;Win;89.0;84.0;81.0;86.0;85.2;79.0;77.7;80.5
+17/11/2020;Croatia;Portugal;9;5;1634;1661;2;3;UEFA Nations League;Croatia;Lose;80.0;84.0;78.8;78.7;84.0;83.8;84.3;85.2
+17/11/2020;Spain;Germany;6;14;1639;1607;6;0;UEFA Nations League;Spain;Win;86.0;90.0;86.8;83.7;85.8;83.5;85.0;86.8
+17/11/2020;Japan;Mexico;27;11;1503;1625;0;2;Friendly;Austria;Lose;72.0;79.0;75.5;75.7;76.8;76.8;83.7;78.2
+17/11/2020;South Korea;Qatar;38;57;1464;1391;2;1;Friendly;Austria;Win;75.0;;72.5;75.7;77.0;;;
+17/11/2020;Uruguay;Brazil;7;3;1637;1725;0;2;FIFA World Cup qualification;Uruguay;Lose;82.0;90.0;82.5;82.3;81.0;84.8;87.3;86.0
+15/11/2020;Belgium;England;1;4;1765;1669;2;0;UEFA Nations League;Belgium;Win;89.0;82.0;81.0;86.0;85.2;84.5;87.7;83.8
+14/11/2020;Portugal;France;5;2;1661;1752;0;1;UEFA Nations League;Portugal;Lose;84.0;87.0;83.8;84.3;85.2;85.5;86.7;87.0
+14/11/2020;Switzerland;Spain;16;6;1589;1639;1;1;UEFA Nations League;Switzerland;Draw;86.0;86.0;78.2;75.0;80.5;86.8;83.7;85.8
+14/11/2020;Mexico;South Korea;11;38;1625;1464;3;2;Friendly;Austria;Win;79.0;75.0;76.8;83.7;78.2;72.5;75.7;77.0
+13/11/2020;Costa Rica;Qatar;50;57;1427;1391;1;1;Friendly;Austria;Draw;87.0;;71.0;68.7;68.5;;;
+12/11/2020;Wales;USA;20;22;1550;1542;0;0;Friendly;Wales;Draw;75.0;76.0;75.2;70.0;79.8;75.5;76.7;75.2
+11/11/2020;Belgium;Switzerland;1;16;1765;1589;2;1;Friendly;Belgium;Win;89.0;86.0;81.0;86.0;85.2;78.2;75.0;80.5
+11/11/2020;Netherlands;Spain;15;6;1596;1639;1;1;Friendly;Netherlands;Draw;81.0;86.0;85.2;82.3;84.0;86.8;83.7;85.8
+14/10/2020;England;Denmark;4;16;1664;1593;0;1;UEFA Nations League;England;Lose;82.0;84.0;84.5;87.7;83.8;79.0;77.7;80.5
+14/10/2020;Croatia;France;8;2;1628;1744;1;2;UEFA Nations League;Croatia;Lose;80.0;87.0;78.8;78.7;84.0;85.5;86.7;87.0
+13/10/2020;Germany;Switzerland;14;15;1602;1600;3;3;UEFA Nations League;Germany;Draw;90.0;86.0;83.5;85.0;86.8;78.2;75.0;80.5
+13/10/2020;Ecuador;Uruguay;64;6;1368;1645;4;2;FIFA World Cup qualification;Ecuador;Win;74.0;82.0;76.8;78.0;75.5;82.5;82.3;81.0
+12/10/2020;Ghana;Qatar;46;55;1439;1396;5;1;Friendly;Turkey;Win;67.0;;74.8;76.3;78.2;;;
+11/10/2020;England;Belgium;4;1;1664;1773;2;1;UEFA Nations League;England;Win;82.0;89.0;84.5;87.7;83.8;81.0;86.0;85.2
+11/10/2020;France;Portugal;2;5;1744;1653;0;0;UEFA Nations League;France;Draw;87.0;84.0;85.5;86.7;87.0;83.8;84.3;85.2
+10/10/2020;Spain;Switzerland;7;15;1642;1600;1;0;UEFA Nations League;Spain;Win;86.0;86.0;86.8;83.7;85.8;78.2;75.0;80.5
+09/10/2020;Japan;Cameroon;28;53;1500;1413;0;0;Friendly;Netherlands;Draw;72.0;84.0;75.5;75.7;76.8;78.2;77.0;75.8
+09/10/2020;Morocco;Senegal;43;20;1456;1555;3;1;Friendly;Morocco;Win;76.0;79.0;77.5;80.7;79.2;79.2;81.3;79.2
+08/10/2020;England;Wales;4;21;1664;1550;3;0;Friendly;England;Win;82.0;75.0;84.5;87.7;83.8;75.2;70.0;79.8
+08/10/2020;Argentina;Ecuador;9;64;1623;1368;1;0;FIFA World Cup qualification;Argentina;Win;82.0;74.0;80.0;90.0;82.5;76.8;78.0;75.5
+07/10/2020;Netherlands;Mexico;13;11;1603;1621;0;1;Friendly;Netherlands;Lose;81.0;79.0;85.2;82.3;84.0;76.8;83.7;78.2
+07/10/2020;Portugal;Spain;5;7;1653;1642;0;0;Friendly;Portugal;Draw;84.0;86.0;83.8;84.3;85.2;86.8;83.7;85.8
+07/10/2020;Switzerland;Croatia;15;8;1600;1628;1;2;Friendly;Switzerland;Lose;86.0;80.0;78.2;75.0;80.5;78.8;78.7;84.0
+08/09/2020;Denmark;England;16;4;1598;1661;0;0;UEFA Nations League;Denmark;Draw;84.0;82.0;79.0;77.7;80.5;84.5;87.7;83.8
+08/09/2020;France;Croatia;2;6;1733;1642;4;2;UEFA Nations League;France;Win;87.0;80.0;85.5;86.7;87.0;78.8;78.7;84.0
+06/09/2020;Switzerland;Germany;12;15;1608;1602;1;1;UEFA Nations League;Switzerland;Draw;86.0;90.0;78.2;75.0;80.5;83.5;85.0;86.8
+05/09/2020;Denmark;Belgium;16;1;1598;1765;0;2;UEFA Nations League;Denmark;Lose;84.0;89.0;79.0;77.7;80.5;81.0;86.0;85.2
+05/09/2020;Portugal;Croatia;7;6;1639;1642;4;1;UEFA Nations League;Portugal;Win;84.0;80.0;83.8;84.3;85.2;78.8;78.7;84.0
+04/09/2020;Netherlands;Poland;14;19;1604;1559;1;0;UEFA Nations League;Netherlands;Win;81.0;87.0;85.2;82.3;84.0;77.0;83.3;77.5
+03/09/2020;Germany;Spain;15;8;1602;1636;1;1;UEFA Nations League;Germany;Draw;90.0;86.0;83.5;85.0;86.8;86.8;83.7;85.8
+01/02/2020;USA;Costa Rica;22;46;1540;1442;1;0;Friendly;USA;Win;76.0;87.0;76.5;74.7;76.8;74.0;69.7;70.8
+18/12/2019;South Korea;Japan;41;28;1459;1500;1;0;EAFF Championship;South Korea;Win;74.0;73.0;72.5;73.0;78.5;77.0;77.0;77.2
+05/12/2019;Qatar;Saudi Arabia;55;67;1398;1351;0;1;Gulf Cup;Qatar;Lose;;72.0;;;;71.5;66.3;72.2
+19/11/2019;Brazil;South Korea;3;39;1715;1466;3;0;Friendly;United Arab Emirates;Win;89.0;74.0;85.8;87.3;86.2;72.5;73.0;78.5
+18/11/2019;Argentina;Uruguay;9;5;1617;1642;2;2;Friendly;Israel;Draw;81.0;81.0;82.0;90.3;84.2;84.2;86.0;81.2
+15/11/2019;Brazil;Argentina;3;9;1715;1617;0;1;Superclásico de las Américas;Saudi Arabia;Lose;89.0;81.0;85.8;87.3;86.2;82.0;90.3;84.2
+15/11/2019;USA;Canada;23;69;1530;1339;4;1;CONCACAF Nations League;USA;Win;76.0;74.0;76.5;74.7;76.8;67.8;73.0;74.0
+15/10/2019;Canada;USA;75;21;1322;1545;2;0;CONCACAF Nations League;Canada;Win;74.0;76.0;67.8;73.0;74.0;76.5;74.7;76.8
+13/10/2019;Wales;Croatia;23;8;1522;1625;1;1;UEFA Euro qualification;Wales;Draw;75.0;80.0;75.2;72.7;80.0;80.5;82.3;85.5
+13/10/2019;Ecuador;Argentina;65;10;1370;1614;1;6;Friendly;Spain;Lose;74.0;81.0;75.5;77.3;76.0;82.0;90.3;84.2
+12/10/2019;Denmark;Switzerland;14;11;1584;1604;1;0;UEFA Euro qualification;Denmark;Win;83.0;85.0;80.0;77.7;81.2;79.0;79.7;79.2
+12/10/2019;Tunisia;Cameroon;29;53;1493;1409;0;0;Friendly;Tunisia;Draw;72.0;82.0;73.2;74.3;74.2;78.8;75.7;75.8
+10/10/2019;Brazil;Senegal;3;20;1719;1546;1;1;Friendly;Singapore;Draw;89.0;77.0;85.8;87.3;86.2;79.5;82.0;78.8
+09/10/2019;Germany;Argentina;16;10;1580;1614;2;2;Friendly;Germany;Draw;90.0;81.0;84.8;86.7;85.5;82.0;90.3;84.2
+10/09/2019;Argentina;Mexico;10;12;1610;1604;4;0;Friendly;USA;Win;81.0;78.0;82.0;90.3;84.2;77.0;82.0;79.5
+10/09/2019;USA;Uruguay;22;5;1548;1637;1;1;Friendly;USA;Draw;76.0;81.0;76.5;74.7;76.8;84.2;86.0;81.2
+07/09/2019;Serbia;Portugal;35;6;1477;1631;2;4;UEFA Euro qualification;Serbia;Lose;80.0;85.0;79.2;81.7;82.2;83.0;84.3;85.0
+06/09/2019;Costa Rica;Uruguay;44;5;1445;1637;1;2;Friendly;Costa Rica;Lose;87.0;81.0;74.0;69.7;70.8;84.2;86.0;81.2
+06/09/2019;USA;Mexico;22;12;1548;1604;0;3;Friendly;USA;Lose;76.0;78.0;76.5;74.7;76.8;77.0;82.0;79.5
+06/09/2019;Germany;Netherlands;15;16;1582;1569;2;4;UEFA Euro qualification;Germany;Lose;90.0;83.0;84.8;86.7;85.5;85.5;82.7;83.0
+14/07/2019;Senegal;Tunisia;22;25;1515;1501;1;0;African Cup of Nations;Egypt;Win;75.0;71.0;80.8;81.0;78.2;73.0;71.3;75.8
+08/07/2019;Ghana;Tunisia;50;25;1423;1501;1;1;African Cup of Nations;Egypt;Lose;69.0;71.0;75.5;78.0;77.8;73.0;71.3;75.8
+07/07/2019;USA;Mexico;30;18;1495;1557;0;1;Gold Cup;USA;Lose;75.0;77.0;76.2;76.3;76.8;76.0;77.3;81.2
+02/07/2019;Brazil;Argentina;3;11;1681;1582;2;0;Copa América;Brazil;Win;86.0;81.0;87.0;88.7;86.2;82.5;90.3;84.0
+29/06/2019;Cameroon;Ghana;51;50;1404;1423;0;0;African Cup of Nations;Egypt;Draw;78.0;69.0;77.2;79.0;74.8;75.5;78.0;77.8
+29/06/2019;Mexico;Costa Rica;18;39;1557;1453;1;1;Gold Cup;USA;Win;77.0;87.0;76.0;77.3;81.2;74.5;72.0;71.0
+24/06/2019;Ecuador;Japan;60;28;1375;1496;1;1;Copa América;Brazil;Draw;74.0;72.0;74.0;75.7;75.5;76.0;76.3;79.5
+23/06/2019;Qatar;Argentina;55;11;1396;1582;0;2;Copa América;Brazil;Lose;;81.0;;;;82.5;90.3;84.0
+20/06/2019;Uruguay;Japan;8;28;1615;1496;2;2;Copa América;Brazil;Draw;81.0;72.0;83.5;86.7;78.5;76.0;76.3;79.5
+19/06/2019;Mexico;Canada;18;78;1557;1314;3;1;Gold Cup;USA;Win;77.0;71.0;76.0;77.3;81.2;66.5;70.7;74.5
+16/06/2019;Uruguay;Ecuador;8;60;1615;1375;4;0;Copa América;Brazil;Win;81.0;74.0;83.5;86.7;78.5;74.0;75.7;75.5
+11/06/2019;Croatia;Tunisia;5;28;1621;1491;1;2;Friendly;Croatia;Lose;83.0;71.0;81.0;81.7;86.8;73.0;71.3;75.8
+11/06/2019;South Korea;Iran;37;21;1462;1516;1;1;Friendly;South Korea;Draw;74.0;72.0;71.8;74.3;77.8;69.0;73.3;71.0
+09/06/2019;Mexico;Ecuador;18;59;1549;1378;3;2;Friendly;USA;Win;77.0;74.0;76.0;77.3;81.2;74.0;75.7;75.5
+09/06/2019;Switzerland;England;8;4;1604;1647;0;0;UEFA Nations League;Portugal;Lose;82.0;83.0;78.8;74.3;79.0;82.5;85.3;82.2
+09/06/2019;Portugal;Netherlands;7;16;1607;1554;1;0;UEFA Nations League;Portugal;Win;84.0;81.0;81.8;85.0;83.8;82.0;83.0;82.2
+08/06/2019;Croatia;Wales;5;19;1621;1539;2;1;UEFA Euro qualification;Croatia;Win;83.0;75.0;81.0;81.7;86.8;76.5;77.7;76.2
+07/06/2019;South Korea;Australia;37;41;1462;1441;1;0;Friendly;South Korea;Win;74.0;78.0;71.8;74.3;77.8;73.2;69.7;75.8
+06/06/2019;England;Netherlands;4;16;1647;1554;1;3;UEFA Nations League;Portugal;Lose;83.0;81.0;82.5;85.3;82.2;82.0;83.0;82.2
+05/06/2019;Brazil;Qatar;3;55;1676;1398;2;0;Friendly;Brazil;Win;86.0;;87.0;88.7;86.2;;;
+05/06/2019;Portugal;Switzerland;7;8;1607;1604;3;1;UEFA Nations League;Portugal;Win;84.0;82.0;81.8;85.0;83.8;78.8;74.3;79.0
+26/03/2019;Morocco;Argentina;43;11;1440;1582;0;1;Friendly;Morocco;Lose;77.0;81.0;78.8;78.0;78.5;82.5;90.3;84.0
+26/03/2019;Switzerland;Denmark;8;10;1599;1589;3;3;UEFA Euro qualification;Switzerland;Draw;82.0;84.0;78.8;74.3;79.0;79.5;77.3;81.2
+25/03/2019;Portugal;Serbia;6;31;1614;1481;1;1;UEFA Euro qualification;Portugal;Draw;84.0;79.0;81.8;85.0;83.8;79.8;75.3;83.2
+24/03/2019;Netherlands;Germany;14;16;1560;1558;2;3;UEFA Euro qualification;Netherlands;Lose;81.0;90.0;82.0;83.0;82.2;86.0;83.7;86.8
+21/03/2019;USA;Ecuador;25;58;1501;1382;1;0;Friendly;USA;Win;75.0;74.0;76.2;76.3;76.8;74.0;75.7;75.5
+20/03/2019;Germany;Serbia;16;31;1558;1481;1;1;Friendly;Germany;Draw;90.0;79.0;86.0;83.7;86.8;79.8;75.3;83.2
+02/02/2019;USA;Costa Rica;25;36;1497;1464;2;0;Friendly;USA;Win;75.0;87.0;76.2;76.3;76.8;74.5;72.0;71.0
+01/02/2019;Japan;Qatar;50;93;1414;1258;1;3;AFC Asian Cup;United Arab Emirates;Lose;72.0;;76.0;76.3;79.5;;;
+28/01/2019;Iran;Japan;29;50;1481;1414;0;3;AFC Asian Cup;United Arab Emirates;Lose;72.0;72.0;69.0;73.3;71.0;76.0;76.3;79.5
+25/01/2019;South Korea;Qatar;53;93;1405;1258;0;1;AFC Asian Cup;United Arab Emirates;Lose;74.0;;71.8;74.3;77.8;;;
+21/01/2019;Japan;Saudi Arabia;50;69;1414;1335;1;0;AFC Asian Cup;United Arab Emirates;Win;72.0;70.0;76.0;76.3;79.5;72.0;68.7;73.0
+17/01/2019;Saudi Arabia;Qatar;69;93;1335;1258;0;2;AFC Asian Cup;United Arab Emirates;Lose;70.0;;72.0;68.7;73.0;;;
+31/12/2018;South Korea;Saudi Arabia;53;69;1405;1335;0;0;Friendly;United Arab Emirates;Draw;74.0;70.0;71.8;74.3;77.8;72.0;68.7;73.0
+31/12/2018;Qatar;Iran;93;29;1258;1481;1;2;Friendly;Qatar;Lose;;72.0;;;;69.0;73.3;71.0
+20/11/2018;Portugal;Poland;7;21;1616;1523;1;1;UEFA Nations League;Portugal;Draw;84.0;84.0;81.8;85.0;83.8;78.0;82.0;77.2
+20/11/2018;Argentina;Mexico;12;16;1573;1549;2;0;Friendly;Argentina;Win;81.0;77.0;82.5;90.3;84.0;76.0;77.3;81.2
+20/11/2018;Brazil;Cameroon;3;51;1669;1408;1;0;Friendly;England;Win;86.0;78.0;87.0;88.7;86.2;77.2;79.0;74.8
+20/11/2018;France;Uruguay;2;6;1732;1617;1;0;Friendly;France;Win;88.0;81.0;84.8;83.7;88.2;83.5;86.7;78.5
+20/11/2018;Tunisia;Morocco;22;47;1515;1422;0;1;Friendly;Tunisia;Lose;71.0;77.0;73.0;71.3;75.8;78.8;78.0;78.5
+19/11/2018;Germany;Netherlands;14;15;1555;1550;2;2;UEFA Nations League;Germany;Draw;90.0;81.0;86.0;83.7;86.8;82.0;83.0;82.2
+18/11/2018;Switzerland;Belgium;8;1;1598;1733;5;2;UEFA Nations League;Switzerland;Win;82.0;90.0;78.8;74.3;79.0;83.8;88.3;85.8
+18/11/2018;England;Croatia;5;4;1619;1635;2;1;UEFA Nations League;England;Win;83.0;83.0;82.5;85.3;82.2;81.0;81.7;86.8
+17/11/2018;Australia;South Korea;42;53;1432;1401;1;1;Friendly;Australia;Draw;78.0;74.0;73.2;69.7;75.8;71.8;74.3;77.8
+16/11/2018;Netherlands;France;15;2;1550;1732;2;0;UEFA Nations League;Netherlands;Win;81.0;88.0;82.0;83.0;82.2;84.8;83.7;88.2
+16/11/2018;Wales;Denmark;18;10;1538;1584;1;2;UEFA Nations League;Wales;Lose;75.0;84.0;76.5;77.7;76.2;79.5;77.3;81.2
+16/11/2018;Argentina;Mexico;12;16;1573;1549;2;0;Friendly;Argentina;Win;81.0;77.0;82.5;90.3;84.0;76.0;77.3;81.2
+16/11/2018;Brazil;Uruguay;3;6;1669;1617;1;0;Friendly;England;Win;86.0;81.0;87.0;88.7;86.2;83.5;86.7;78.5
+16/11/2018;Morocco;Cameroon;47;51;1422;1408;2;0;African Cup of Nations qualification;Morocco;Win;77.0;78.0;78.8;78.0;78.5;77.2;79.0;74.8
+15/11/2018;Croatia;Spain;4;9;1635;1594;3;2;UEFA Nations League;Croatia;Win;83.0;91.0;81.0;81.7;86.8;87.8;86.3;87.5
+15/11/2018;England;USA;5;23;1619;1506;3;0;Friendly;England;Win;83.0;75.0;82.5;85.3;82.2;76.2;76.3;76.8
+14/11/2018;Switzerland;Qatar;8;96;1598;1248;0;1;Friendly;Switzerland;Lose;82.0;;78.8;74.3;79.0;;;
+16/10/2018;France;Germany;1;12;1729;1568;2;1;UEFA Nations League;France;Win;88.0;90.0;84.8;83.7;88.2;86.0;83.7;86.8
+16/10/2018;Belgium;Netherlands;1;17;1729;1540;1;1;Friendly;Belgium;Draw;90.0;81.0;83.8;88.3;85.8;82.0;83.0;82.2
+16/10/2018;Japan;Uruguay;54;5;1398;1632;4;3;Kirin Challenge Cup;Japan;Win;72.0;81.0;76.0;76.3;79.5;83.5;86.7;78.5
+16/10/2018;Argentina;Brazil;11;3;1575;1663;0;1;Superclásico de las Américas;Saudi Arabia;Lose;81.0;86.0;82.5;90.3;84.0;87.0;88.7;86.2
+15/10/2018;Spain;England;9;6;1597;1612;2;3;UEFA Nations League;Spain;Lose;91.0;83.0;87.8;86.3;87.5;82.5;85.3;82.2
+13/10/2018;Netherlands;Germany;17;12;1540;1568;3;0;UEFA Nations League;Netherlands;Win;81.0;90.0;82.0;83.0;82.2;86.0;83.7;86.8
+12/10/2018;Belgium;Switzerland;1;8;1729;1598;2;1;UEFA Nations League;Belgium;Win;90.0;82.0;83.8;88.3;85.8;78.8;74.3;79.0
+12/10/2018;Croatia;England;4;6;1634;1612;0;0;UEFA Nations League;Croatia;Draw;83.0;83.0;81.0;81.7;86.8;82.5;85.3;82.2
+12/10/2018;South Korea;Uruguay;55;5;1395;1632;2;1;Friendly;South Korea;Win;74.0;81.0;71.8;74.3;77.8;83.5;86.7;78.5
+12/10/2018;Qatar;Ecuador;94;58;1247;1378;4;3;Friendly;Qatar;Win;;74.0;;;;74.0;75.7;75.5
+12/10/2018;Saudi Arabia;Brazil;71;3;1337;1663;0;2;Friendly;Saudi Arabia;Lose;70.0;86.0;72.0;68.7;73.0;87.0;88.7;86.2
+11/10/2018;Poland;Portugal;18;7;1537;1606;2;3;UEFA Nations League;Poland;Lose;84.0;84.0;78.0;82.0;77.2;81.8;85.0;83.8
+11/10/2018;Mexico;Costa Rica;15;37;1550;1460;3;2;Friendly;Mexico;Win;77.0;87.0;76.0;77.3;81.2;74.5;72.0;71.0
+11/10/2018;Wales;Spain;19;9;1536;1597;1;4;Friendly;Wales;Lose;75.0;91.0;76.5;77.7;76.2;87.8;86.3;87.5
+11/09/2018;Spain;Croatia;9;4;1580;1643;6;0;UEFA Nations League;Spain;Win;91.0;83.0;87.8;86.3;87.5;81.0;81.7;86.8
+11/09/2018;England;Switzerland;6;8;1615;1597;1;0;Friendly;England;Win;83.0;82.0;82.5;85.3;82.2;78.8;74.3;79.0
+11/09/2018;Japan;Costa Rica;55;32;1392;1471;3;0;Kirin Challenge Cup;Japan;Win;72.0;87.0;76.0;76.3;79.5;74.5;72.0;71.0
+11/09/2018;USA;Mexico;22;16;1508;1560;1;0;Friendly;USA;Win;75.0;77.0;76.2;76.3;76.8;76.0;77.3;81.2
+09/09/2018;France;Netherlands;1;17;1726;1540;2;1;UEFA Nations League;France;Win;88.0;81.0;84.8;83.7;88.2;82.0;83.0;82.2
+09/09/2018;Denmark;Wales;9;19;1580;1536;2;0;UEFA Nations League;Denmark;Win;84.0;75.0;79.5;77.3;81.2;76.5;77.7;76.2
+08/09/2018;England;Spain;6;9;1615;1580;1;2;UEFA Nations League;England;Lose;83.0;91.0;82.5;85.3;82.2;87.8;86.3;87.5
+07/09/2018;South Korea;Costa Rica;57;32;1387;1471;2;0;Friendly;South Korea;Win;74.0;87.0;71.8;74.3;77.8;74.5;72.0;71.0
+07/09/2018;Mexico;Uruguay;16;5;1560;1627;1;4;Friendly;USA;Lose;77.0;81.0;76.0;77.3;81.2;83.5;86.7;78.5
+07/09/2018;USA;Brazil;22;3;1508;1657;0;2;Friendly;USA;Lose;75.0;86.0;76.2;76.3;76.8;87.0;88.7;86.2
+06/09/2018;Germany;France;15;1;1561;1726;0;0;UEFA Nations League;Germany;Draw;90.0;88.0;86.0;83.7;86.8;84.8;83.7;88.2
+06/09/2018;Portugal;Croatia;7;4;1599;1643;1;1;Friendly;Portugal;Draw;84.0;83.0;81.8;85.0;83.8;81.0;81.7;86.8
+15/07/2018;France;Croatia;2;12;2164;2036;4;2;FIFA World Cup;Russia;Win;88.0;85.0;84.0;86.3;86.2;80.8;79.3;85.8
+14/07/2018;Belgium;England;5;7;2124;2099;2;0;FIFA World Cup;Russia;Win;89.0;82.0;83.5;87.3;85.8;82.8;83.3;82.8
+11/07/2018;Croatia;England;12;7;2036;2099;2;1;FIFA World Cup;Russia;Win;85.0;82.0;80.8;79.3;85.8;82.8;83.3;82.8
+10/07/2018;France;Belgium;2;5;2164;2124;1;0;FIFA World Cup;Russia;Win;88.0;89.0;84.0;86.3;86.2;83.5;87.3;85.8
+06/07/2018;Uruguay;France;14;2;2017;2164;0;2;FIFA World Cup;Russia;Lose;82.0;88.0;82.5;85.3;78.0;84.0;86.3;86.2
+06/07/2018;Brazil;Belgium;4;5;2160;2124;1;2;FIFA World Cup;Russia;Lose;83.0;89.0;86.8;87.0;83.8;83.5;87.3;85.8
+02/07/2018;Brazil;Mexico;4;10;2160;2041;2;0;FIFA World Cup;Russia;Win;83.0;79.0;86.8;87.0;83.8;77.8;81.0;80.0
+02/07/2018;Belgium;Japan;5;41;2124;1816;3;2;FIFA World Cup;Russia;Win;89.0;72.0;83.5;87.3;85.8;75.2;76.7;78.8
+01/07/2018;Croatia;Denmark;12;15;2036;2014;1;1;FIFA World Cup;Russia;Win;85.0;83.0;80.8;79.3;85.8;79.5;77.3;81.0
+30/06/2018;France;Argentina;7;5;1198;1241;4;3;FIFA World Cup;Russia;Win;88.0;83.0;84.0;86.3;86.2;83.0;90.7;83.5
+30/06/2018;Uruguay;Portugal;14;4;1018;1273;2;1;FIFA World Cup;Russia;Win;82.0;83.0;82.5;85.3;78.0;82.0;85.0;83.2
+28/06/2018;Japan;Poland;61;8;520;1182;0;1;FIFA World Cup;Russia;Lose;72.0;82.0;75.2;76.7;78.8;79.2;82.7;78.2
+28/06/2018;England;Belgium;12;3;1050;1298;0;1;FIFA World Cup;Russia;Lose;82.0;89.0;82.8;83.3;82.8;83.5;87.3;85.8
+27/06/2018;South Korea;Germany;57;1;543;1558;2;0;FIFA World Cup;Russia;Win;74.0;92.0;73.5;74.0;77.5;85.8;82.0;87.5
+27/06/2018;Serbia;Brazil;34;2;750;1430;0;2;FIFA World Cup;Russia;Lose;74.0;83.0;80.0;74.7;81.2;86.8;87.0;83.8
+27/06/2018;Switzerland;Costa Rica;6;23;1198;884;2;2;FIFA World Cup;Russia;Draw;84.0;85.0;79.0;75.0;79.8;74.5;71.0;74.5
+26/06/2018;Denmark;France;12;7;1051;1198;0;0;FIFA World Cup;Russia;Draw;83.0;88.0;79.5;77.3;81.0;84.0;86.3;86.2
+25/06/2018;Spain;Morocco;10;41;1125;685;2;2;FIFA World Cup;Russia;Draw;90.0;71.0;86.8;84.7;87.0;76.5;75.3;80.2
+25/06/2018;Iran;Portugal;37;4;708;1273;1;1;FIFA World Cup;Russia;Draw;71.0;83.0;;75.0;66.2;82.0;85.0;83.2
+24/06/2018;Japan;Senegal;61;27;520;837;2;2;FIFA World Cup;Russia;Draw;72.0;73.0;75.2;76.7;78.8;79.5;80.7;78.8
+23/06/2018;Belgium;Tunisia;3;21;1298;909;5;2;FIFA World Cup;Russia;Win;89.0;63.0;83.5;87.3;85.8;74.0;71.7;73.5
+23/06/2018;South Korea;Mexico;57;15;543;989;1;2;FIFA World Cup;Russia;Lose;74.0;79.0;73.5;74.0;77.5;77.8;81.0;80.0
+22/06/2018;Brazil;Costa Rica;2;23;1430;884;2;0;FIFA World Cup;Russia;Win;83.0;85.0;86.8;87.0;83.8;74.5;71.0;74.5
+22/06/2018;Serbia;Switzerland;34;6;750;1198;1;2;FIFA World Cup;Russia;Lose;74.0;84.0;80.0;74.7;81.2;79.0;75.0;79.8
+21/06/2018;Denmark;Australia;12;36;1051;718;1;1;FIFA World Cup;Russia;Draw;83.0;77.0;79.5;77.3;81.0;72.2;73.0;74.8
+21/06/2018;Argentina;Croatia;5;20;1241;945;0;3;FIFA World Cup;Russia;Lose;83.0;85.0;83.0;90.7;83.5;80.8;79.3;85.8
+20/06/2018;Portugal;Morocco;4;41;1273;685;1;0;FIFA World Cup;Russia;Win;83.0;71.0;82.0;85.0;83.2;76.5;75.3;80.2
+20/06/2018;Uruguay;Saudi Arabia;14;67;1018;465;1;0;FIFA World Cup;Russia;Win;82.0;73.0;82.5;85.3;78.0;74.2;71.0;74.5
+20/06/2018;Iran;Spain;37;10;708;1125;0;1;FIFA World Cup;Russia;Lose;71.0;90.0;;75.0;66.2;86.8;84.7;87.0
+19/06/2018;Poland;Senegal;8;27;1182;837;1;2;FIFA World Cup;Russia;Lose;82.0;73.0;79.2;82.7;78.2;79.5;80.7;78.8
+18/06/2018;Tunisia;England;21;12;909;1050;1;2;FIFA World Cup;Russia;Lose;63.0;82.0;74.0;71.7;73.5;82.8;83.3;82.8
+17/06/2018;Costa Rica;Serbia;23;34;884;750;0;1;FIFA World Cup;Russia;Lose;85.0;74.0;74.5;71.0;74.5;80.0;74.7;81.2
+17/06/2018;Germany;Mexico;1;15;1558;989;0;1;FIFA World Cup;Russia;Lose;92.0;79.0;85.8;82.0;87.5;77.8;81.0;80.0
+17/06/2018;Brazil;Switzerland;2;6;1430;1198;1;1;FIFA World Cup;Russia;Draw;83.0;84.0;86.8;87.0;83.8;79.0;75.0;79.8
+16/06/2018;France;Australia;7;36;1198;718;2;1;FIFA World Cup;Russia;Win;88.0;77.0;84.0;86.3;86.2;72.2;73.0;74.8
+15/06/2018;Morocco;Iran;41;37;685;708;0;1;FIFA World Cup;Russia;Lose;71.0;71.0;76.5;75.3;80.2;;75.0;66.2
+15/06/2018;Portugal;Spain;4;10;1273;1125;3;3;FIFA World Cup;Russia;Draw;83.0;90.0;82.0;85.0;83.2;86.8;84.7;87.0
+11/06/2018;South Korea;Senegal;57;27;543;837;0;2;Friendly;Austria;Lose;74.0;73.0;73.5;74.0;77.5;79.5;80.7;78.8
+11/06/2018;Belgium;Costa Rica;3;23;1298;884;4;1;Friendly;Belgium;Win;89.0;85.0;83.5;87.3;85.8;74.5;71.0;74.5
+09/06/2018;Denmark;Mexico;12;15;1051;989;2;0;Friendly;Denmark;Win;83.0;79.0;79.5;77.3;81.0;77.8;81.0;80.0
+09/06/2018;Tunisia;Spain;21;10;909;1125;0;1;Friendly;Russia;Lose;63.0;90.0;74.0;71.7;73.5;86.8;84.7;87.0
+09/06/2018;France;USA;7;25;1198;872;1;1;Friendly;France;Draw;88.0;78.0;84.0;86.3;86.2;76.8;74.7;78.2
+08/06/2018;Germany;Saudi Arabia;1;67;1558;465;2;1;Friendly;Germany;Win;92.0;73.0;85.8;82.0;87.5;74.2;71.0;74.5
+08/06/2018;Croatia;Senegal;20;27;945;837;2;1;Friendly;Croatia;Win;85.0;73.0;80.8;79.3;85.8;79.5;80.7;78.8
+08/06/2018;Switzerland;Japan;6;61;1198;520;2;0;Friendly;Switzerland;Win;84.0;72.0;79.0;75.0;79.8;75.2;76.7;78.8
+07/06/2018;England;Costa Rica;12;23;1050;884;2;0;Friendly;England;Win;82.0;85.0;82.8;83.3;82.8;74.5;71.0;74.5
+03/06/2018;Spain;Switzerland;8;6;1161;1179;1;1;Friendly;Spain;Draw;90.0;84.0;86.8;84.7;87.0;79.0;75.0;79.8
+03/06/2018;Croatia;Brazil;18;2;975;1384;0;2;Friendly;England;Lose;85.0;83.0;80.8;79.3;85.8;86.8;87.0;83.8
+02/06/2018;Belgium;Portugal;3;4;1345;1306;0;0;Friendly;Belgium;Draw;89.0;83.0;83.5;87.3;85.8;82.0;85.0;83.2
+30/05/2018;Japan;Ghana;60;50;528;602;0;2;Friendly;Japan;Lose;72.0;69.0;75.2;76.7;78.8;73.5;79.3;76.5
+28/05/2018;Portugal;Tunisia;4;14;1306;1012;2;2;Friendly;Portugal;Draw;83.0;63.0;82.0;85.0;83.2;74.0;71.7;73.5
+28/05/2018;Mexico;Wales;15;21;1008;931;0;0;Friendly;USA;Draw;79.0;74.0;77.8;81.0;80.0;77.8;82.3;74.2
+27/03/2018;Belgium;Saudi Arabia;5;69;1336;493;4;0;Friendly;Belgium;Win;89.0;73.0;83.5;87.3;85.8;74.2;71.0;74.5
+27/03/2018;Germany;Brazil;1;2;1609;1489;0;1;Friendly;Germany;Lose;92.0;83.0;85.8;82.0;87.5;86.8;87.0;83.8
+27/03/2018;Mexico;Croatia;17;15;1038;1052;0;1;Friendly;USA;Lose;79.0;85.0;77.8;81.0;80.0;80.8;79.3;85.8
+27/03/2018;Poland;South Korea;6;59;1228;553;3;2;Friendly;Poland;Win;82.0;74.0;79.2;82.7;78.2;73.5;74.0;77.5
+27/03/2018;Spain;Argentina;6;4;1228;1359;6;1;Friendly;Spain;Win;90.0;83.0;86.8;84.7;87.0;83.0;90.7;83.5
+27/03/2018;Tunisia;Costa Rica;23;26;919;871;1;0;Friendly;France;Win;63.0;85.0;74.0;71.7;73.5;74.5;71.0;74.5
+26/03/2018;Portugal;Netherlands;3;21;1360;963;0;3;Friendly;Switzerland;Lose;83.0;81.0;82.0;85.0;83.2;81.2;84.3;82.8
+26/03/2018;Wales;Uruguay;20;22;983;931;0;1;Friendly;China PR;Lose;74.0;82.0;77.8;82.3;74.2;82.5;85.3;78.0
+23/03/2018;Germany;Spain;1;6;1609;1228;1;1;Friendly;Germany;Draw;92.0;90.0;85.8;82.0;87.5;86.8;84.7;87.0
+23/03/2018;Netherlands;England;21;16;963;1046;0;1;Friendly;Netherlands;Lose;81.0;82.0;81.2;84.3;82.8;82.8;83.3;82.8
+23/03/2018;Serbia;Morocco;34;42;779;693;1;2;Friendly;Italy;Lose;74.0;71.0;80.0;74.7;81.2;76.5;75.3;80.2
+23/03/2018;Tunisia;Iran;23;33;919;791;1;0;Friendly;Tunisia;Win;63.0;71.0;74.0;71.7;73.5;;75.0;66.2
+16/12/2017;Japan;South Korea;55;59;622;563;1;4;EAFF Championship;Japan;Lose;72.0;74.0;75.2;76.7;78.8;73.5;74.0;77.5
+14/11/2017;Belgium;Japan;5;44;1332;711;1;0;Friendly;Belgium;Win;89.0;72.0;83.5;87.3;85.8;75.2;76.7;78.8
+14/11/2017;England;Brazil;12;2;1115;1618;0;0;Friendly;England;Draw;82.0;83.0;82.8;83.3;82.8;86.8;87.0;83.8
+14/11/2017;Germany;France;1;7;1631;1226;2;2;Friendly;Germany;Draw;92.0;88.0;85.8;82.0;87.5;84.0;86.3;86.2
+14/11/2017;South Korea;Serbia;62;38;588;748;1;1;Friendly;South Korea;Draw;74.0;74.0;73.5;74.0;77.5;80.0;74.7;81.2
+14/11/2017;Portugal;USA;3;27;1446;842;1;1;Friendly;Portugal;Draw;83.0;78.0;82.0;85.0;83.2;76.8;74.7;78.2
+13/11/2017;Poland;Mexico;6;16;1322;1059;0;1;Friendly;Poland;Lose;82.0;79.0;79.2;82.7;78.2;77.8;81.0;80.0
+11/11/2017;Spain;Costa Rica;8;22;1217;913;5;0;Friendly;Spain;Win;90.0;85.0;86.8;84.7;87.0;74.5;71.0;74.5
+10/11/2017;Belgium;Mexico;5;16;1332;1059;3;3;Friendly;Belgium;Draw;89.0;79.0;83.5;87.3;85.8;77.8;81.0;80.0
+10/11/2017;England;Germany;12;1;1115;1631;0;0;Friendly;England;Draw;82.0;92.0;82.8;83.3;82.8;85.8;82.0;87.5
+10/11/2017;France;Wales;7;14;1226;1072;2;0;Friendly;France;Win;88.0;74.0;84.0;86.3;86.2;77.8;82.3;74.2
+10/11/2017;Japan;Brazil;44;2;711;1618;1;3;Friendly;France;Lose;72.0;83.0;75.2;76.7;78.8;86.8;87.0;83.8
+10/11/2017;Poland;Uruguay;6;17;1322;1033;0;0;Friendly;Poland;Draw;82.0;82.0;79.2;82.7;78.2;82.5;85.3;78.0
+10/11/2017;Portugal;Saudi Arabia;3;63;1446;576;3;0;Friendly;Portugal;Win;83.0;73.0;82.0;85.0;83.2;74.2;71.0;74.5
+10/10/2017;Ecuador;Argentina;35;4;767;1325;1;3;FIFA World Cup qualification;Ecuador;Lose;73.0;83.0;71.8;75.3;78.2;83.0;90.7;83.5
+10/10/2017;South Korea;Morocco;51;56;659;635;1;3;Friendly;Switzerland;Lose;74.0;71.0;73.5;74.0;77.5;76.5;75.3;80.2
+10/10/2017;Portugal;Switzerland;3;7;1386;1210;2;0;FIFA World Cup qualification;Portugal;Win;83.0;84.0;82.0;85.0;83.2;79.0;75.0;79.8
+10/10/2017;Saudi Arabia;Ghana;53;52;641;646;0;3;Friendly;Saudi Arabia;Lose;73.0;69.0;74.2;71.0;74.5;73.5;79.3;76.5
+05/09/2017;Costa Rica;Mexico;21;14;917;1045;1;1;FIFA World Cup qualification;Costa Rica;Draw;85.0;79.0;74.5;71.0;74.5;77.8;81.0;80.0
+05/09/2017;Saudi Arabia;Japan;59;44;600;696;1;0;FIFA World Cup qualification;Saudi Arabia;Win;73.0;72.0;74.2;71.0;74.5;75.2;76.7;78.8
+01/09/2017;Denmark;Poland;46;5;683;1318;4;0;FIFA World Cup qualification;Denmark;Win;83.0;82.0;79.5;77.3;81.0;79.2;82.7;78.2
+01/09/2017;USA;Costa Rica;26;21;865;917;0;2;FIFA World Cup qualification;USA;Lose;78.0;85.0;76.8;74.7;78.2;74.5;71.0;74.5
+31/08/2017;Brazil;Ecuador;1;32;1604;791;2;0;FIFA World Cup qualification;Brazil;Win;83.0;74.0;86.5;87.0;84.0;73.8;76.0;76.2
+31/08/2017;France;Netherlands;10;36;1157;734;4;0;FIFA World Cup qualification;France;Win;88.0;81.0;83.8;87.0;85.2;80.8;80.7;83.0
+31/08/2017;Japan;Australia;44;45;696;690;2;0;FIFA World Cup qualification;Japan;Win;73.0;79.0;74.5;76.3;79.5;71.8;73.7;74.5
+31/08/2017;South Korea;Iran;49;24;673;893;0;0;FIFA World Cup qualification;South Korea;Draw;74.0;71.0;74.0;75.3;77.2;;72.0;
+31/08/2017;Uruguay;Argentina;17;3;995;1399;0;0;FIFA World Cup qualification;Uruguay;Draw;83.0;82.0;82.8;85.0;78.2;83.8;90.0;84.2
+22/07/2017;USA;Costa Rica;35;26;751;838;2;0;Gold Cup;USA;Win;81.0;85.0;77.5;74.3;75.8;75.5;68.3;76.8
+11/07/2017;Costa Rica;Canada;26;100;838;330;1;1;Gold Cup;USA;Draw;85.0;65.0;75.5;68.3;76.8;67.5;71.3;72.8
+02/07/2017;Portugal;Mexico;8;17;1266;1049;2;1;Confederations Cup;Russia;Win;84.0;80.0;83.2;86.7;83.5;78.8;80.7;80.8
+01/07/2017;USA;Ghana;23;49;861;678;2;1;Friendly;USA;Win;81.0;69.0;77.5;74.3;75.8;75.5;76.7;78.0
+29/06/2017;Germany;Mexico;3;17;1511;1049;4;1;Confederations Cup;Russia;Win;92.0;80.0;87.2;81.3;88.0;78.8;80.7;80.8
+25/06/2017;Germany;Cameroon;3;32;1511;811;3;1;Confederations Cup;Russia;Win;92.0;80.0;87.2;81.3;88.0;80.2;78.3;76.8
+22/06/2017;Cameroon;Australia;32;48;811;681;1;1;Confederations Cup;Russia;Draw;80.0;79.0;80.2;78.3;76.8;71.8;73.7;74.5
+19/06/2017;Australia;Germany;48;3;681;1511;2;3;Confederations Cup;Russia;Lose;79.0;92.0;71.8;73.7;74.5;87.2;81.3;88.0
+18/06/2017;Portugal;Mexico;8;17;1266;1049;2;2;Confederations Cup;Russia;Draw;84.0;80.0;83.2;86.7;83.5;78.8;80.7;80.8
+13/06/2017;Australia;Brazil;48;1;681;1715;0;4;Friendly;Australia;Lose;79.0;83.0;71.8;73.7;74.5;86.5;87.0;84.0
+13/06/2017;France;England;6;13;1332;1119;3;2;Friendly;France;Win;88.0;84.0;83.8;87.0;85.2;83.5;83.3;82.0
+13/06/2017;Qatar;South Korea;88;43;374;703;3;2;FIFA World Cup qualification;Qatar;Win;;74.0;;;;74.0;75.3;77.2
+11/06/2017;Mexico;USA;17;23;1049;861;1;1;FIFA World Cup qualification;Mexico;Draw;80.0;81.0;78.8;80.7;80.8;77.5;74.3;75.8
+11/06/2017;Serbia;Wales;50;13;665;1119;1;1;FIFA World Cup qualification;Serbia;Draw;76.0;75.0;80.2;77.0;80.8;78.0;77.0;77.2
+10/06/2017;Cameroon;Morocco;32;56;811;631;1;0;African Cup of Nations qualification;Cameroon;Win;80.0;71.0;80.2;78.3;76.8;77.0;77.3;79.2
+09/06/2017;Argentina;Brazil;2;1;1626;1715;1;0;Superclásico de las Américas;Australia;Win;82.0;83.0;83.8;90.0;84.2;86.5;87.0;84.0
+08/06/2017;Australia;Saudi Arabia;48;53;681;635;3;2;FIFA World Cup qualification;Australia;Win;79.0;73.0;71.8;73.7;74.5;72.5;70.7;72.2
+06/06/2017;Denmark;Germany;51;3;660;1511;1;1;Friendly;Denmark;Draw;81.0;92.0;79.0;76.3;80.2;87.2;81.3;88.0
+31/05/2017;Morocco;Netherlands;53;32;632;791;1;2;Friendly;Morocco;Lose;71.0;81.0;77.0;77.3;79.2;80.8;80.7;83.0
+28/05/2017;Mexico;Croatia;16;18;1075;1016;1;2;Friendly;USA;Lose;80.0;83.0;78.8;80.7;80.8;81.0;80.0;84.5
+28/03/2017;France;Spain;6;10;1317;1161;0;2;Friendly;France;Lose;88.0;90.0;83.8;87.0;85.2;86.2;85.3;86.8
+28/03/2017;Morocco;Tunisia;49;37;660;774;1;0;Friendly;Morocco;Win;71.0;55.0;77.0;77.3;79.2;74.5;72.3;75.0
+24/03/2017;Mexico;Costa Rica;17;19;1025;953;2;0;FIFA World Cup qualification;Mexico;Win;80.0;85.0;78.8;80.7;80.8;75.5;68.3;76.8
+24/03/2017;Tunisia;Cameroon;37;32;774;795;0;1;Friendly;Tunisia;Lose;55.0;80.0;74.5;72.3;75.0;80.2;78.3;76.8
+23/03/2017;Qatar;Iran;84;33;415;793;0;1;FIFA World Cup qualification;Qatar;Lose;;71.0;;;;;72.0;
+23/03/2017;Uruguay;Brazil;9;2;1199;1533;1;4;FIFA World Cup qualification;Uruguay;Lose;83.0;83.0;82.8;85.0;78.2;86.5;87.0;84.0
+22/03/2017;Germany;England;3;14;1443;1113;1;0;Friendly;Germany;Win;92.0;84.0;87.2;81.3;88.0;83.5;83.3;82.0
+02/02/2017;Cameroon;Ghana;62;54;551;610;2;0;African Cup of Nations;Gabon;Win;80.0;69.0;80.2;78.3;76.8;75.5;76.7;78.0
+29/01/2017;USA;Serbia;28;45;822;646;0;0;Friendly;USA;Draw;81.0;76.0;77.5;74.3;75.8;80.2;77.0;80.8
+28/01/2017;Senegal;Cameroon;33;62;742;551;0;0;African Cup of Nations;Gabon;Draw;72.0;80.0;79.2;78.3;77.8;80.2;78.3;76.8
+15/01/2017;Tunisia;Senegal;36;33;713;742;0;2;African Cup of Nations;Gabon;Lose;55.0;72.0;74.5;72.3;75.0;79.2;78.3;77.8
+15/11/2016;Costa Rica;USA;18;24;971;852;4;0;FIFA World Cup qualification;Costa Rica;Win;85.0;81.0;75.5;68.3;76.8;77.5;74.3;75.8
+15/11/2016;England;Spain;12;10;1090;1167;2;2;Friendly;England;Draw;84.0;90.0;83.5;83.3;82.0;86.2;85.3;86.8
+15/11/2016;Japan;Saudi Arabia;51;54;601;593;2;1;FIFA World Cup qualification;Japan;Win;73.0;73.0;74.5;76.3;79.5;72.5;70.7;72.2
+12/11/2016;Wales;Serbia;11;43;1113;650;1;1;FIFA World Cup qualification;Wales;Draw;75.0;76.0;78.0;77.0;77.2;80.2;77.0;80.8
+11/11/2016;South Korea;Canada;44;110;640;322;2;0;Friendly;South Korea;Win;74.0;65.0;74.0;75.3;77.2;67.5;71.3;72.8
+11/11/2016;USA;Mexico;24;17;852;1000;1;2;FIFA World Cup qualification;USA;Lose;81.0;80.0;77.5;74.3;75.8;78.8;80.7;80.8
+10/11/2016;Brazil;Argentina;3;1;1409;1621;3;0;FIFA World Cup qualification;Brazil;Win;83.0;82.0;86.5;87.0;84.0;83.8;90.0;84.2
+10/11/2016;Uruguay;Ecuador;9;19;1174;932;2;1;FIFA World Cup qualification;Uruguay;Win;83.0;74.0;82.8;85.0;78.2;73.8;76.0;76.2
+09/11/2016;Netherlands;Belgium;20;4;901;1382;1;1;Friendly;Netherlands;Draw;81.0;89.0;80.8;80.7;83.0;83.8;86.7;82.5
+11/10/2016;Australia;Japan;45;56;643;573;1;1;FIFA World Cup qualification;Australia;Draw;79.0;73.0;71.8;73.7;74.5;74.5;76.3;79.5
+11/10/2016;Iran;South Korea;37;47;712;634;1;0;FIFA World Cup qualification;Iran;Win;71.0;74.0;;72.0;;74.0;75.3;77.2
+11/10/2016;Morocco;Canada;58;103;569;328;4;0;Friendly;Morocco;Win;71.0;65.0;77.0;77.3;79.2;67.5;71.3;72.8
+10/10/2016;Netherlands;France;24;8;860;1188;0;1;FIFA World Cup qualification;Netherlands;Lose;81.0;88.0;80.8;80.7;83.0;83.8;87.0;85.2
+08/10/2016;Poland;Denmark;17;46;983;636;3;2;FIFA World Cup qualification;Poland;Win;80.0;81.0;78.8;81.3;79.5;79.0;76.3;80.2
+06/10/2016;South Korea;Qatar;47;85;634;389;3;2;FIFA World Cup qualification;South Korea;Win;74.0;;74.0;75.3;77.2;;;
+06/10/2016;Saudi Arabia;Australia;52;45;588;643;2;2;FIFA World Cup qualification;Saudi Arabia;Draw;73.0;79.0;72.5;70.7;72.2;71.8;73.7;74.5
+29/09/2016;Qatar;Serbia;85;50;389;602;3;0;Friendly;Qatar;Win;;76.0;;;;80.2;77.0;80.8
+06/09/2016;Switzerland;Portugal;18;6;957;1265;2;0;FIFA World Cup qualification;Switzerland;Win;84.0;84.0;80.0;75.7;80.0;83.2;86.7;83.5
+01/09/2016;Argentina;Uruguay;1;12;1584;1129;1;0;FIFA World Cup qualification;Argentina;Win;82.0;83.0;83.8;90.0;84.2;82.8;85.0;78.2
+01/09/2016;Belgium;Spain;2;8;1400;1165;0;2;Friendly;Belgium;Lose;89.0;90.0;83.8;86.7;82.5;86.2;85.3;86.8
+01/09/2016;Ecuador;Brazil;17;9;1001;1155;0;3;FIFA World Cup qualification;Ecuador;Lose;74.0;83.0;73.8;76.0;76.2;86.5;87.0;84.0
+01/09/2016;Iran;Qatar;39;80;674;424;2;0;FIFA World Cup qualification;Iran;Win;71.0;;;72.0;;;;
+10/07/2016;France;Portugal;17;8;924;1181;0;1;UEFA Euro;France;Lose;85.0;81.0;82.8;84.3;85.0;81.2;84.7;81.8
+07/07/2016;France;Germany;17;4;924;1310;2;0;UEFA Euro;France;Win;85.0;90.0;82.8;84.3;85.0;84.8;81.7;86.8
+06/07/2016;Portugal;Wales;8;26;1181;846;2;0;UEFA Euro;France;Win;81.0;73.0;81.2;84.7;81.8;76.5;75.0;76.2
+01/07/2016;Wales;Belgium;26;2;846;1383;3;1;UEFA Euro;France;Win;73.0;86.0;76.5;75.0;76.2;82.0;81.3;84.8
+30/06/2016;Poland;Portugal;27;8;842;1181;1;1;UEFA Euro;France;Lose;79.0;81.0;78.2;79.0;79.0;81.2;84.7;81.8
+25/06/2016;Croatia;Portugal;27;8;842;1181;0;1;UEFA Euro;France;Lose;81.0;81.0;78.8;78.3;81.5;81.2;84.7;81.8
+25/06/2016;Switzerland;Poland;15;27;947;842;1;1;UEFA Euro;France;Lose;82.0;79.0;80.0;78.0;79.0;78.2;79.0;79.0
+21/06/2016;Croatia;Spain;27;6;842;1266;2;1;UEFA Euro;France;Win;81.0;86.0;78.8;78.3;81.5;84.5;83.3;87.2
+21/06/2016;USA;Argentina;31;1;802;1503;0;4;Copa América;USA;Lose;80.0;79.0;76.2;75.7;76.8;82.5;88.7;84.0
+19/06/2016;France;Switzerland;17;15;924;947;0;0;UEFA Euro;France;Draw;85.0;82.0;82.8;84.3;85.0;80.0;78.0;79.0
+16/06/2016;England;Wales;11;26;1069;846;2;1;UEFA Euro;France;Win;84.0;73.0;83.0;81.0;83.2;76.5;75.0;76.2
+16/06/2016;Germany;Poland;4;27;1310;842;0;0;UEFA Euro;France;Draw;90.0;79.0;84.8;81.7;86.8;78.2;79.0;79.0
+16/06/2016;USA;Ecuador;31;13;802;978;2;1;Copa América;USA;Win;80.0;72.0;76.2;75.7;76.8;69.2;76.0;76.5
+07/06/2016;USA;Costa Rica;31;23;802;852;4;0;Copa América;USA;Win;80.0;79.0;76.2;75.7;76.8;74.8;71.7;73.2
+05/06/2016;Mexico;Uruguay;16;9;941;1149;3;1;Copa América;USA;Win;80.0;82.0;76.0;79.3;78.5;81.0;84.0;77.0
+04/06/2016;Brazil;Ecuador;7;13;1256;978;0;0;Copa América;USA;Draw;83.0;72.0;85.2;84.7;83.2;69.2;76.0;76.5
+02/06/2016;England;Portugal;11;8;1069;1181;1;0;Friendly;England;Win;84.0;81.0;83.0;81.0;83.2;81.2;84.7;81.8
+01/06/2016;Poland;Netherlands;27;17;821;930;1;2;Friendly;Poland;Lose;79.0;82.0;78.2;79.0;79.0;79.5;85.3;81.2
+01/06/2016;Spain;South Korea;6;54;1276;591;6;1;Friendly;Austria;Win;86.0;75.0;84.5;83.3;87.2;73.5;75.3;73.5
+30/05/2016;France;Cameroon;21;63;906;556;3;2;Friendly;France;Win;85.0;78.0;82.8;84.3;85.0;79.8;78.7;76.0
+28/05/2016;Switzerland;Belgium;14;2;974;1364;1;2;Friendly;Switzerland;Lose;82.0;86.0;80.0;78.0;79.0;82.0;81.3;84.8
+27/05/2016;England;Australia;10;50;1069;600;2;1;Friendly;England;Win;84.0;78.0;83.0;81.0;83.2;71.5;73.0;72.0
+29/03/2016;England;Netherlands;9;15;1111;997;1;2;Friendly;England;Lose;84.0;82.0;83.0;81.0;83.2;79.5;85.3;81.2
+29/03/2016;Mexico;Canada;22;87;902;384;2;0;FIFA World Cup qualification;Mexico;Win;80.0;63.0;76.0;79.3;78.5;67.5;66.3;71.8
+29/03/2016;Portugal;Belgium;7;1;1233;1505;2;1;Friendly;Portugal;Win;81.0;86.0;81.2;84.7;81.8;82.0;81.3;84.8
+26/03/2016;Germany;England;4;9;1355;1111;2;3;Friendly;Germany;Lose;90.0;84.0;84.8;81.7;86.8;83.0;81.0;83.2
+25/03/2016;Brazil;Uruguay;6;11;1254;1082;2;2;FIFA World Cup qualification;Brazil;Draw;83.0;82.0;85.2;84.7;83.2;81.0;84.0;77.0
+25/03/2016;Canada;Mexico;87;22;384;902;0;3;FIFA World Cup qualification;Canada;Lose;63.0;80.0;67.5;66.3;71.8;76.0;79.3;78.5
+25/03/2016;Netherlands;France;15;24;997;871;2;3;Friendly;Netherlands;Lose;82.0;85.0;79.5;85.3;81.2;82.8;84.3;85.0
+23/03/2016;Poland;Serbia;31;50;789;595;1;0;Friendly;Poland;Win;79.0;75.0;78.2;79.0;79.0;80.8;78.3;80.0
+17/11/2015;England;France;9;24;1179;881;2;0;Friendly;England;Win;84.0;85.0;83.0;81.0;83.2;82.8;84.3;85.0
+13/11/2015;Argentina;Brazil;3;8;1382;1207;1;1;FIFA World Cup qualification;Argentina;Draw;79.0;83.0;82.5;88.7;84.0;85.2;84.7;83.2
+13/11/2015;France;Germany;24;2;881;1388;2;0;Friendly;France;Win;85.0;90.0;82.8;84.3;85.0;84.8;81.7;86.8
+13/11/2015;Spain;England;6;9;1286;1179;2;0;Friendly;Spain;Win;86.0;84.0;84.5;83.3;87.2;83.0;81.0;83.2
+13/11/2015;Wales;Netherlands;15;16;1031;975;2;3;Friendly;Wales;Lose;73.0;82.0;76.5;75.0;76.2;79.5;85.3;81.2
+12/11/2015;Ecuador;Uruguay;21;12;920;1050;2;1;FIFA World Cup qualification;Ecuador;Win;72.0;82.0;69.2;76.0;76.5;81.0;84.0;77.0
+25/10/2015;Tunisia;Morocco;36;80;722;407;2;3;African Nations Championship;Tunisia;Lose;;70.0;71.5;68.7;75.0;77.0;74.7;78.8
+13/10/2015;Iran;Japan;39;55;703;581;1;1;Friendly;Iran;Draw;68.0;;;67.0;;73.2;76.0;76.8
+11/10/2015;Denmark;France;28;22;835;899;1;2;Friendly;Denmark;Lose;76.0;85.0;78.8;76.0;78.8;82.8;84.3;85.0
+11/10/2015;Serbia;Portugal;63;4;537;1234;1;2;UEFA Euro qualification;Serbia;Lose;75.0;81.0;80.8;78.3;80.0;81.2;84.7;81.8
+10/10/2015;USA;Mexico;29;27;807;842;2;3;Friendly;USA;Lose;80.0;80.0;76.2;75.7;76.8;76.0;79.3;78.5
+08/10/2015;Argentina;Ecuador;1;31;1419;764;0;2;FIFA World Cup qualification;Argentina;Lose;79.0;72.0;82.5;88.7;84.0;69.2;76.0;76.5
+08/10/2015;Portugal;Denmark;4;28;1234;835;1;0;UEFA Euro qualification;Portugal;Win;81.0;76.0;81.2;84.7;81.8;78.8;76.0;78.8
+08/09/2015;England;Switzerland;10;17;1142;1011;2;0;UEFA Euro qualification;England;Win;84.0;82.0;83.0;81.0;83.2;80.0;78.0;79.0
+08/09/2015;Mexico;Argentina;26;1;847;1441;2;2;Friendly;USA;Draw;80.0;79.0;76.0;79.3;78.5;82.5;88.7;84.0
+07/09/2015;France;Serbia;24;66;893;528;2;1;Friendly;France;Win;85.0;75.0;82.8;84.3;85.0;80.8;78.3;80.0
+05/09/2015;Costa Rica;Brazil;39;5;730;1208;0;1;Friendly;USA;Lose;79.0;83.0;74.8;71.7;73.2;85.2;84.7;83.2
+04/09/2015;Germany;Poland;3;34;1248;764;3;1;UEFA Euro qualification;Germany;Win;90.0;79.0;84.8;81.7;86.8;78.2;79.0;79.0
+04/09/2015;Portugal;France;6;24;1185;893;0;1;Friendly;Portugal;Lose;81.0;85.0;81.2;84.7;81.8;82.8;84.3;85.0
+05/08/2015;Japan;South Korea;50;52;620;607;1;1;EAFF Championship;China PR;Draw;74.0;73.0;72.5;76.0;77.2;71.5;75.7;73.5
+19/07/2015;Mexico;Costa Rica;40;41;696;695;1;0;Gold Cup;USA;Win;80.0;79.0;75.2;81.3;75.5;71.5;72.3;71.8
+14/07/2015;Canada;Costa Rica;103;41;328;695;0;0;Gold Cup;Canada;Draw;64.0;79.0;64.5;66.3;72.0;71.5;72.3;71.8
+27/06/2015;Mexico;Costa Rica;23;14;926;1056;2;2;Friendly;USA;Draw;80.0;79.0;75.2;81.3;75.5;71.5;72.3;71.8
+19/06/2015;Mexico;Ecuador;23;31;926;806;1;2;Copa América;Chile;Lose;80.0;72.0;75.2;81.3;75.5;68.5;74.3;75.8
+16/06/2015;Argentina;Uruguay;3;8;1496;1183;1;0;Copa América;Chile;Win;79.0;82.0;81.2;88.0;82.8;78.8;84.0;76.0
+15/06/2015;Morocco;Tunisia;92;29;368;807;1;1;African Nations Championship;Morocco;Draw;69.0;;76.0;74.7;78.0;73.0;70.7;73.0
+13/06/2015;Denmark;Serbia;29;45;807;672;2;0;UEFA Euro qualification;Denmark;Win;77.0;75.0;77.2;75.0;77.0;81.0;75.0;79.5
+12/06/2015;Wales;Belgium;22;2;929;1508;1;0;UEFA Euro qualification;Wales;Win;72.0;86.0;74.5;67.7;79.8;81.2;78.3;82.8
+11/06/2015;Spain;Costa Rica;10;14;1147;1056;2;1;Friendly;Spain;Win;84.0;79.0;83.0;85.7;85.8;71.5;72.3;71.8
+10/06/2015;Germany;USA;1;27;1775;823;1;2;Friendly;Germany;Lose;90.0;82.0;84.0;85.7;86.5;73.2;76.3;77.2
+07/06/2015;Brazil;Mexico;5;23;1392;926;2;0;Friendly;Brazil;Win;82.0;80.0;83.8;84.0;82.2;75.2;81.3;75.5
+07/06/2015;France;Belgium;9;2;1163;1508;3;4;Friendly;France;Lose;85.0;86.0;81.0;81.3;84.5;81.2;78.3;82.8
+05/06/2015;Netherlands;USA;6;27;1377;823;3;4;Friendly;Netherlands;Lose;79.0;82.0;78.2;87.3;81.8;73.2;76.3;77.2
+15/04/2015;USA;Mexico;27;18;815;937;2;0;Friendly;USA;Win;82.0;80.0;73.2;76.3;77.2;75.2;81.3;75.5
+31/03/2015;Netherlands;Spain;5;11;1414;1130;2;0;Friendly;Netherlands;Win;79.0;84.0;78.2;87.3;81.8;83.0;85.7;85.8
+31/03/2015;Switzerland;USA;12;32;1126;827;1;1;Friendly;Switzerland;Draw;80.0;82.0;76.5;74.7;79.2;73.2;76.3;77.2
+29/03/2015;France;Denmark;8;28;1179;863;2;0;Friendly;France;Win;85.0;77.0;81.0;81.3;84.5;77.2;75.0;77.0
+29/03/2015;Portugal;Serbia;7;40;1190;709;2;1;UEFA Euro qualification;Portugal;Win;81.0;75.0;80.2;84.3;81.2;81.0;75.0;79.5
+28/03/2015;Ghana;Senegal;24;36;887;771;1;2;Friendly;France;Lose;67.0;64.0;70.5;73.0;78.2;75.8;79.0;74.2
+28/03/2015;Morocco;Uruguay;89;9;378;1164;0;1;Friendly;Morocco;Lose;69.0;82.0;76.0;74.7;78.0;78.8;84.0;76.0
+27/03/2015;Japan;Tunisia;53;25;617;881;2;0;Kirin Challenge Cup;Japan;Win;74.0;;72.5;76.0;77.2;73.0;70.7;73.0
+26/03/2015;France;Brazil;8;6;1179;1348;1;3;Friendly;France;Lose;85.0;82.0;81.0;81.3;84.5;83.8;84.0;82.2
+25/03/2015;Denmark;USA;28;32;863;827;3;2;Friendly;Denmark;Win;77.0;82.0;77.2;75.0;77.0;73.2;76.3;77.2
+25/03/2015;Germany;Australia;1;65;1770;549;2;2;Friendly;Germany;Draw;90.0;76.0;84.0;85.7;86.5;70.0;71.7;71.2
+31/01/2015;Australia;South Korea;100;69;328;487;2;1;AFC Asian Cup;Australia;Win;76.0;73.0;70.0;71.7;71.2;71.5;75.7;73.5
+19/01/2015;Ghana;Senegal;37;35;713;733;1;2;African Cup of Nations;Equatorial Guinea;Lose;67.0;64.0;70.5;73.0;78.2;75.8;79.0;74.2
+17/01/2015;Australia;South Korea;100;69;328;487;0;1;AFC Asian Cup;Australia;Lose;76.0;73.0;70.0;71.7;71.2;71.5;75.7;73.5
+15/01/2015;Qatar;Iran;92;51;346;588;0;1;AFC Asian Cup;Australia;Lose;;68.0;;;;;;
+04/01/2015;South Korea;Saudi Arabia;69;102;480;323;2;0;Friendly;Australia;Win;73.0;70.0;71.5;75.7;73.5;69.2;73.3;72.8
+26/11/2014;Saudi Arabia;Qatar;97;88;340;368;1;2;Gulf Cup;Saudi Arabia;Lose;70.0;;69.2;73.3;72.8;;;
+18/11/2014;Iran;South Korea;51;66;560;495;1;0;Friendly;Iran;Win;68.0;73.0;;;;71.5;75.7;73.5
+18/11/2014;Japan;Australia;52;94;558;359;2;1;Friendly;Japan;Win;74.0;76.0;72.5;76.0;77.2;70.0;71.7;71.2
+18/11/2014;Portugal;Argentina;9;2;1174;1564;1;0;Friendly;England;Win;81.0;79.0;80.2;84.3;81.2;81.2;88.0;82.8
+18/11/2014;Spain;Germany;10;1;1118;1668;0;1;Friendly;Spain;Lose;84.0;90.0;83.0;85.7;85.8;84.0;85.7;86.5
+16/11/2014;Belgium;Wales;4;34;1388;715;0;0;UEFA Euro qualification;Belgium;Draw;86.0;72.0;81.2;78.3;82.8;74.5;67.7;79.8
+14/11/2014;Serbia;Denmark;46;32;613;763;1;3;UEFA Euro qualification;Serbia;Lose;75.0;77.0;81.0;75.0;79.5;77.2;75.0;77.0
+13/11/2014;Saudi Arabia;Qatar;97;88;340;368;1;1;Gulf Cup;Saudi Arabia;Draw;70.0;;69.2;73.3;72.8;;;
+13/11/2014;Uruguay;Costa Rica;8;16;1184;974;3;3;Friendly;Uruguay;Draw;82.0;79.0;78.8;84.0;76.0;71.5;72.3;71.8
+12/11/2014;Argentina;Croatia;2;14;1564;1001;2;1;Friendly;England;Win;79.0;76.0;81.2;88.0;82.8;77.8;78.3;81.2
+12/11/2014;Netherlands;Mexico;5;17;1374;954;2;3;Friendly;Netherlands;Lose;79.0;80.0;78.2;87.3;81.8;75.2;81.3;75.5
+15/10/2014;Tunisia;Senegal;31;36;700;644;1;0;African Cup of Nations qualification;Tunisia;Win;;64.0;73.0;70.7;73.0;75.8;79.0;74.2
+14/10/2014;Denmark;Portugal;27;11;832;1149;0;1;UEFA Euro qualification;Denmark;Lose;77.0;81.0;77.2;75.0;77.0;80.2;84.3;81.2
+14/10/2014;Japan;Brazil;48;6;557;1291;0;4;Friendly;Singapore;Lose;74.0;82.0;72.5;76.0;77.2;83.8;84.0;82.2
+14/10/2014;South Korea;Costa Rica;63;15;500;987;1;3;Friendly;South Korea;Lose;73.0;79.0;71.5;75.7;73.5;71.5;72.3;71.8
+14/10/2014;Qatar;Australia;96;84;341;390;1;0;Friendly;Qatar;Win;;76.0;;;;70.0;71.7;71.2
+11/10/2014;Argentina;Brazil;2;6;1630;1291;0;2;Superclásico de las Américas;China PR;Lose;79.0;82.0;81.2;88.0;82.8;83.8;84.0;82.2
+11/10/2014;France;Portugal;9;11;1201;1149;2;1;Friendly;France;Win;85.0;81.0;81.0;81.3;84.5;80.2;84.3;81.2
+11/10/2014;Poland;Germany;70;1;435;1765;2;0;UEFA Euro qualification;Poland;Win;80.0;90.0;77.0;76.3;78.0;84.0;85.7;86.5
+10/10/2014;Saudi Arabia;Uruguay;82;7;401;1242;1;1;Friendly;Saudi Arabia;Draw;70.0;82.0;69.2;73.3;72.8;78.8;84.0;76.0
+10/10/2014;Senegal;Tunisia;36;31;644;700;0;0;African Cup of Nations qualification;Senegal;Draw;64.0;;75.8;79.0;74.2;73.0;70.7;73.0
+08/09/2014;Australia;Saudi Arabia;79;83;391;376;3;2;Friendly;England;Win;76.0;70.0;70.0;71.7;71.2;69.2;73.3;72.8
+08/09/2014;South Korea;Uruguay;57;6;499;1315;0;1;Friendly;South Korea;Lose;73.0;82.0;71.5;75.7;73.5;78.8;84.0;76.0
+08/09/2014;Switzerland;England;9;20;1218;915;0;2;UEFA Euro qualification;Switzerland;Lose;80.0;82.0;76.5;74.7;79.2;81.8;83.0;81.0
+07/09/2014;Serbia;France;31;10;723;1211;1;1;Friendly;Serbia;Draw;75.0;85.0;81.0;75.0;79.5;81.0;81.3;84.5
+05/09/2014;Japan;Uruguay;44;6;593;1315;0;2;Kirin Challenge Cup;Japan;Lose;74.0;82.0;72.5;76.0;77.2;78.8;84.0;76.0
+04/09/2014;Belgium;Australia;5;79;1406;391;2;0;Friendly;Belgium;Win;86.0;76.0;81.2;78.3;82.8;70.0;71.7;71.2
+04/09/2014;France;Spain;10;7;1211;1240;1;0;Friendly;France;Win;85.0;84.0;81.0;81.3;84.5;83.0;85.7;85.8
+03/09/2014;Germany;Argentina;1;2;1735;1604;2;4;Friendly;Germany;Lose;90.0;79.0;84.0;85.7;86.5;81.2;88.0;82.8
+03/09/2014;Morocco;Qatar;81;92;381;348;0;0;Friendly;Morocco;Draw;69.0;;76.0;74.7;78.0;;;
+13/07/2014;Germany;Argentina;2;5;1299;1174;1;0;FIFA World Cup;Brazil;Win;87.0;79.0;84.5;84.7;86.0;81.2;89.3;83.2
+12/07/2014;Brazil;Netherlands;3;15;1242;981;0;3;FIFA World Cup;Brazil;Lose;82.0;80.0;84.8;84.0;83.2;76.5;87.0;81.5
+09/07/2014;Netherlands;Argentina;15;5;981;1174;0;0;FIFA World Cup;Brazil;Lose;80.0;79.0;76.5;87.0;81.5;81.2;89.3;83.2
+08/07/2014;Brazil;Germany;3;2;1242;1299;1;7;FIFA World Cup;Brazil;Lose;82.0;87.0;84.8;84.0;83.2;84.5;84.7;86.0
+05/07/2014;Argentina;Belgium;5;11;1174;1073;1;0;FIFA World Cup;Brazil;Win;79.0;84.0;81.2;89.3;83.2;81.2;81.0;82.5
+05/07/2014;Netherlands;Costa Rica;15;28;981;762;0;0;FIFA World Cup;Brazil;Win;80.0;78.0;76.5;87.0;81.5;70.8;72.3;72.8
+04/07/2014;France;Germany;17;2;913;1299;0;1;FIFA World Cup;Brazil;Lose;84.0;87.0;81.0;82.3;85.0;84.5;84.7;86.0
+01/07/2014;Argentina;Switzerland;5;6;1174;1148;1;0;FIFA World Cup;Brazil;Win;79.0;80.0;81.2;89.3;83.2;77.0;76.3;78.8
+01/07/2014;Belgium;USA;11;13;1073;1034;2;1;FIFA World Cup;Brazil;Win;84.0;81.0;81.2;81.0;82.5;73.0;76.0;77.0
+29/06/2014;Netherlands;Mexico;15;20;981;881;2;1;FIFA World Cup;Brazil;Win;80.0;78.0;76.5;87.0;81.5;74.8;81.3;74.8
+26/06/2014;South Korea;Belgium;57;11;546;1073;0;1;FIFA World Cup;Brazil;Lose;73.0;84.0;70.5;73.7;75.0;81.2;81.0;82.5
+26/06/2014;Portugal;Ghana;4;37;1189;704;2;1;FIFA World Cup;Brazil;Win;81.0;71.0;80.5;84.7;81.5;70.5;72.7;78.5
+26/06/2014;USA;Germany;13;2;1034;1299;0;1;FIFA World Cup;Brazil;Lose;81.0;87.0;73.0;76.0;77.0;84.5;84.7;86.0
+25/06/2014;Ecuador;France;26;17;791;913;0;0;FIFA World Cup;Brazil;Draw;70.0;84.0;68.0;74.0;76.8;81.0;82.3;85.0
+24/06/2014;Costa Rica;England;28;10;762;1090;0;0;FIFA World Cup;Brazil;Draw;78.0;82.0;70.8;72.3;72.8;82.0;83.7;81.2
+23/06/2014;Australia;Spain;62;1;525;1484;0;3;FIFA World Cup;Brazil;Lose;77.0;86.0;69.0;72.0;71.8;83.5;85.7;87.0
+23/06/2014;Brazil;Cameroon;3;56;1242;558;4;1;FIFA World Cup;Brazil;Win;82.0;72.0;84.8;84.0;83.2;77.5;77.0;77.5
+23/06/2014;Croatia;Mexico;18;20;903;881;1;3;FIFA World Cup;Brazil;Lose;75.0;78.0;77.8;79.7;80.0;74.8;81.3;74.8
+22/06/2014;USA;Portugal;13;4;1034;1189;2;2;FIFA World Cup;Brazil;Draw;81.0;81.0;73.0;76.0;77.0;80.5;84.7;81.5
+21/06/2014;Argentina;Iran;5;43;1174;641;1;0;FIFA World Cup;Brazil;Win;79.0;68.0;81.2;89.3;83.2;;62.7;
+21/06/2014;Germany;Ghana;2;37;1299;704;2;2;FIFA World Cup;Brazil;Draw;87.0;71.0;84.5;84.7;86.0;70.5;72.7;78.5
+20/06/2014;Switzerland;France;6;17;1148;913;2;5;FIFA World Cup;Brazil;Lose;80.0;84.0;77.0;76.3;78.8;81.0;82.3;85.0
+19/06/2014;Uruguay;England;7;10;1147;1090;2;1;FIFA World Cup;Brazil;Win;82.0;82.0;78.5;84.7;78.2;82.0;83.7;81.2
+18/06/2014;Australia;Netherlands;62;15;525;981;2;3;FIFA World Cup;Brazil;Lose;77.0;80.0;69.0;72.0;71.8;76.5;87.0;81.5
+18/06/2014;Cameroon;Croatia;56;18;558;903;0;4;FIFA World Cup;Brazil;Lose;72.0;75.0;77.5;77.0;77.5;77.8;79.7;80.0
+17/06/2014;Brazil;Mexico;3;20;1242;881;0;0;FIFA World Cup;Brazil;Draw;82.0;78.0;84.8;84.0;83.2;74.8;81.3;74.8
+16/06/2014;Germany;Portugal;2;4;1299;1189;4;0;FIFA World Cup;Brazil;Win;87.0;81.0;84.5;84.7;86.0;80.5;84.7;81.5
+16/06/2014;Ghana;USA;37;13;704;1034;1;2;FIFA World Cup;Brazil;Lose;71.0;81.0;70.5;72.7;78.5;73.0;76.0;77.0
+15/06/2014;Switzerland;Ecuador;6;26;1148;791;2;1;FIFA World Cup;Brazil;Win;80.0;70.0;77.0;76.3;78.8;68.0;74.0;76.8
+14/06/2014;Uruguay;Costa Rica;7;28;1147;762;1;3;FIFA World Cup;Brazil;Lose;82.0;78.0;78.5;84.7;78.2;70.8;72.3;72.8
+13/06/2014;Mexico;Cameroon;20;56;881;558;1;0;FIFA World Cup;Brazil;Win;78.0;72.0;74.8;81.3;74.8;77.5;77.0;77.5
+13/06/2014;Spain;Netherlands;1;15;1484;981;1;5;FIFA World Cup;Brazil;Lose;86.0;80.0;83.5;85.7;87.0;76.5;87.0;81.5
+12/06/2014;Brazil;Croatia;3;18;1242;903;3;1;FIFA World Cup;Brazil;Win;82.0;75.0;84.8;84.0;83.2;77.8;79.7;80.0
+09/06/2014;Ghana;South Korea;37;57;704;546;4;0;Friendly;USA;Win;71.0;73.0;70.5;72.7;78.5;70.5;73.7;75.0
+07/06/2014;Belgium;Tunisia;11;48;1073;611;1;0;Friendly;Belgium;Win;84.0;;81.2;81.0;82.5;75.2;71.0;74.0
+06/06/2014;Brazil;Serbia;3;30;1242;745;1;0;Friendly;Brazil;Win;82.0;76.0;84.8;84.0;83.2;81.5;75.7;78.8
+06/06/2014;Croatia;Australia;18;62;903;525;1;0;Friendly;Brazil;Win;75.0;77.0;77.8;79.7;80.0;69.0;72.0;71.8
+06/06/2014;Mexico;Portugal;20;4;881;1189;0;1;Friendly;USA;Lose;78.0;81.0;74.8;81.3;74.8;80.5;84.7;81.5
+04/06/2014;Ecuador;England;28;11;794;1042;2;2;Friendly;USA;Draw;70.0;82.0;68.0;74.0;76.8;82.0;83.7;81.2
+04/06/2014;Netherlands;Wales;15;47;967;613;2;0;Friendly;Netherlands;Win;80.0;72.0;76.5;87.0;81.5;74.2;69.7;79.5
+02/06/2014;Costa Rica;Japan;34;47;747;613;1;3;Friendly;USA;Lose;78.0;74.0;70.8;72.3;72.8;72.2;72.7;78.2
+01/06/2014;Germany;Cameroon;2;50;1340;582;2;2;Friendly;Germany;Draw;87.0;72.0;84.5;84.7;86.0;77.5;77.0;77.5
+31/05/2014;Mexico;Ecuador;19;28;877;794;3;1;Friendly;USA;Win;78.0;70.0;74.8;81.3;74.8;68.0;74.0;76.8
+31/05/2014;Netherlands;Ghana;15;38;967;712;1;0;Friendly;Netherlands;Win;80.0;71.0;76.5;87.0;81.5;70.5;72.7;78.5
+28/05/2014;South Korea;Tunisia;55;49;550;596;0;1;Friendly;South Korea;Lose;73.0;;70.5;73.7;75.0;75.2;71.0;74.0
+17/05/2014;Netherlands;Ecuador;15;28;967;794;1;1;Friendly;Netherlands;Draw;80.0;70.0;76.5;87.0;81.5;68.0;74.0;76.8
+13/05/2014;Germany;Poland;2;72;1340;478;0;0;Friendly;Germany;Draw;87.0;80.0;84.5;84.7;86.0;76.8;78.3;76.2
+05/03/2014;Australia;Ecuador;53;24;575;831;3;4;Friendly;England;Lose;77.0;70.0;69.0;72.0;71.8;68.0;74.0;76.8
+05/03/2014;England;Denmark;15;20;1031;907;1;0;Friendly;England;Win;82.0;77.0;82.0;83.7;81.2;77.5;74.7;76.5
+05/03/2014;France;Netherlands;18;10;917;1121;2;0;Friendly;France;Win;84.0;80.0;81.0;82.3;85.0;76.5;87.0;81.5
+05/03/2014;Portugal;Cameroon;4;46;1219;626;5;1;Friendly;Portugal;Win;81.0;72.0;80.5;84.7;81.5;77.5;77.0;77.5
+05/03/2014;Switzerland;Croatia;6;16;1158;966;2;2;Friendly;Switzerland;Draw;80.0;75.0;77.0;76.3;78.8;77.8;79.7;80.0
+01/02/2014;USA;South Korea;14;53;1018;581;2;0;Friendly;USA;Win;81.0;73.0;73.0;76.0;77.0;70.5;73.7;75.0
+29/01/2014;Mexico;South Korea;21;53;891;581;4;0;Friendly;USA;Win;78.0;73.0;74.8;81.3;74.8;70.5;73.7;75.0
+25/01/2014;Costa Rica;South Korea;32;53;743;581;0;1;Friendly;USA;Lose;78.0;73.0;70.8;72.3;72.8;70.5;73.7;75.0
+31/12/2013;Qatar;Saudi Arabia;103;87;324;391;4;1;WAFF Championship;Qatar;Win;;69.0;;;;67.2;72.0;73.8
+19/11/2013;Australia;Costa Rica;57;31;563;743;1;0;Friendly;Australia;Win;77.0;78.0;69.0;72.0;71.8;70.8;72.3;72.8
+19/11/2013;Belgium;Japan;5;44;1175;634;2;3;Friendly;Belgium;Lose;84.0;74.0;81.2;81.0;82.5;72.2;72.7;78.2
+19/11/2013;England;Germany;10;2;1079;1310;0;1;Friendly;England;Lose;82.0;87.0;82.0;83.7;81.2;84.5;84.7;86.0
+17/11/2013;Cameroon;Tunisia;59;47;554;631;4;1;FIFA World Cup qualification;Cameroon;Win;72.0;;77.5;77.0;77.5;75.2;71.0;74.0
+16/11/2013;Netherlands;Japan;8;44;1135;634;2;2;Friendly;Belgium;Draw;80.0;74.0;76.5;87.0;81.5;72.2;72.7;78.2
+15/11/2013;Argentina;Ecuador;3;22;1266;861;0;0;Friendly;USA;Draw;79.0;70.0;81.2;89.3;83.2;68.0;74.0;76.8
+15/11/2013;South Korea;Switzerland;56;7;568;1137;2;1;Friendly;South Korea;Win;73.0;80.0;70.5;73.7;75.0;77.0;76.3;78.8
+15/10/2013;Australia;Canada;53;106;602;323;3;0;Friendly;England;Win;77.0;64.0;69.0;72.0;71.8;65.0;67.7;69.2
+15/10/2013;Belgium;Wales;6;52;1159;605;1;1;FIFA World Cup qualification;Belgium;Draw;84.0;72.0;81.2;81.0;82.5;74.2;69.7;79.5
+15/10/2013;Costa Rica;Mexico;33;21;733;836;2;1;FIFA World Cup qualification;Costa Rica;Win;78.0;78.0;70.8;72.3;72.8;74.8;81.3;74.8
+15/10/2013;England;Poland;17;65;946;538;2;0;FIFA World Cup qualification;England;Win;82.0;80.0;82.0;83.7;81.2;76.8;78.3;76.2
+15/10/2013;Uruguay;Argentina;7;2;1125;1262;3;2;FIFA World Cup qualification;Uruguay;Win;82.0;79.0;78.5;84.7;78.2;81.2;89.3;83.2
+13/10/2013;Tunisia;Cameroon;46;61;642;557;0;0;FIFA World Cup qualification;Tunisia;Draw;;72.0;75.2;71.0;74.0;77.5;77.0;77.5
+12/10/2013;South Korea;Brazil;58;8;573;1066;0;2;Friendly;South Korea;Lose;73.0;82.0;70.5;73.7;75.0;84.8;84.0;83.2
+11/10/2013;Croatia;Belgium;10;6;1050;1159;1;2;FIFA World Cup qualification;Croatia;Lose;75.0;84.0;77.8;79.7;80.0;81.2;81.0;82.5
+11/10/2013;Ecuador;Uruguay;20;7;851;1125;1;0;FIFA World Cup qualification;Ecuador;Win;70.0;82.0;68.0;74.0;76.8;78.5;84.7;78.2
+11/10/2013;France;Australia;25;53;812;602;6;0;Friendly;France;Win;84.0;77.0;81.0;82.3;85.0;69.0;72.0;71.8
+11/10/2013;Serbia;Japan;43;42;666;671;2;0;Friendly;Serbia;Win;76.0;74.0;81.5;75.7;78.8;72.2;72.7;78.2
+10/09/2013;Brazil;Portugal;9;7;1089;1099;3;1;Friendly;USA;Win;82.0;81.0;84.8;84.0;83.2;80.5;84.7;81.5
+10/09/2013;Japan;Ghana;37;24;695;829;3;1;Friendly;Japan;Win;74.0;71.0;72.2;72.7;78.2;70.5;72.7;78.5
+10/09/2013;South Korea;Croatia;56;8;593;1098;1;2;Friendly;South Korea;Lose;73.0;75.0;70.5;73.7;75.0;77.8;79.7;80.0
+10/09/2013;USA;Mexico;19;20;959;879;2;0;FIFA World Cup qualification;USA;Win;81.0;78.0;73.0;76.0;77.0;74.8;81.3;74.8
+10/09/2013;Wales;Serbia;46;41;629;660;0;3;FIFA World Cup qualification;Wales;Lose;72.0;76.0;74.2;69.7;79.5;81.5;75.7;78.8
+07/09/2013;Brazil;Australia;9;46;1089;629;6;0;Friendly;Brazil;Win;82.0;77.0;84.8;84.0;83.2;69.0;72.0;71.8
+06/09/2013;Costa Rica;USA;42;19;650;959;3;1;FIFA World Cup qualification;Costa Rica;Win;78.0;81.0;70.8;72.3;72.8;73.0;76.0;77.0
+06/09/2013;Serbia;Croatia;41;8;660;1098;1;1;FIFA World Cup qualification;Serbia;Draw;76.0;75.0;81.5;75.7;78.8;77.8;79.7;80.0
+14/08/2013;Belgium;France;10;23;1079;838;0;0;Friendly;Belgium;Draw;83.0;85.0;82.0;79.7;81.8;81.8;82.7;84.5
+14/08/2013;Ecuador;Spain;17;1;972;1483;0;2;Friendly;Ecuador;Lose;70.0;88.0;68.2;74.7;76.8;84.8;84.3;88.5
+14/08/2013;Japan;Uruguay;37;12;695;998;2;4;Friendly;Japan;Lose;70.0;81.0;75.2;72.7;78.8;79.2;80.3;81.0
+14/08/2013;Poland;Denmark;72;27;493;787;3;2;Friendly;Poland;Win;80.0;78.0;76.2;75.7;76.8;76.8;74.0;76.8
+14/08/2013;Portugal;Netherlands;7;5;1099;1165;1;1;Friendly;Portugal;Draw;82.0;81.0;81.2;83.7;82.0;76.8;86.3;83.2
+14/08/2013;Switzerland;Brazil;15;9;987;1089;1;0;Friendly;Switzerland;Win;80.0;83.0;77.0;73.0;79.0;84.0;82.3;83.2
+28/07/2013;South Korea;Japan;43;37;641;689;1;2;EAFF Championship;South Korea;Lose;73.0;70.0;71.2;75.0;74.0;75.2;72.7;78.8
+25/07/2013;Japan;Australia;37;40;689;671;3;2;EAFF Championship;South Korea;Win;70.0;79.0;75.2;72.7;78.8;71.2;68.7;73.8
+20/07/2013;South Korea;Australia;43;40;641;671;0;0;EAFF Championship;South Korea;Draw;73.0;79.0;71.2;75.0;74.0;71.2;68.7;73.8
+16/07/2013;USA;Costa Rica;22;39;865;688;1;0;Gold Cup;USA;Win;81.0;74.0;72.2;74.0;78.0;69.2;71.3;75.2
+13/07/2013;Morocco;Tunisia;79;47;469;626;0;0;African Nations Championship;Morocco;Draw;71.0;;73.5;76.7;79.0;72.2;72.3;73.2
+11/07/2013;Mexico;Canada;20;88;879;413;2;0;Gold Cup;USA;Win;78.0;67.0;76.0;80.7;75.0;68.0;73.3;68.5
+30/06/2013;Brazil;Spain;22;1;872;1614;3;0;Confederations Cup;Brazil;Win;83.0;88.0;84.0;82.3;83.2;84.8;84.3;88.5
+26/06/2013;Brazil;Uruguay;22;19;872;913;2;1;Confederations Cup;Brazil;Win;83.0;81.0;84.0;82.3;83.2;79.2;80.3;81.0
+22/06/2013;Japan;Mexico;32;17;764;927;1;2;Confederations Cup;Brazil;Lose;70.0;78.0;75.2;72.7;78.8;76.0;80.7;75.0
+19/06/2013;Brazil;Mexico;22;17;872;927;2;0;Confederations Cup;Brazil;Win;83.0;78.0;84.0;82.3;83.2;76.0;80.7;75.0
+18/06/2013;South Korea;Iran;40;67;665;505;0;1;FIFA World Cup qualification;South Korea;Lose;73.0;68.0;71.2;75.0;74.0;;;
+16/06/2013;Spain;Uruguay;1;19;1614;913;2;1;Confederations Cup;Brazil;Win;88.0;81.0;84.8;84.3;88.5;79.2;80.3;81.0
+15/06/2013;Brazil;Japan;22;32;872;764;3;0;Confederations Cup;Brazil;Win;83.0;70.0;84.0;82.3;83.2;75.2;72.7;78.8
+11/06/2013;Ecuador;Argentina;10;3;1065;1286;1;1;FIFA World Cup qualification;Ecuador;Draw;70.0;80.0;68.2;74.7;76.8;81.8;89.0;84.0
+11/06/2013;Mexico;Costa Rica;17;48;927;617;0;0;FIFA World Cup qualification;Mexico;Draw;78.0;74.0;76.0;80.7;75.0;69.2;71.3;75.2
+10/06/2013;Croatia;Portugal;4;6;1222;1136;0;1;Friendly;Switzerland;Lose;74.0;82.0;73.8;80.0;79.5;81.2;83.7;82.0
+09/06/2013;Brazil;France;22;18;872;922;3;0;Friendly;Brazil;Win;83.0;85.0;84.0;82.3;83.2;81.8;82.7;84.5
+07/06/2013;Belgium;Serbia;12;36;1034;723;2;1;FIFA World Cup qualification;Belgium;Win;83.0;78.0;82.0;79.7;81.8;82.8;78.3;78.2
+05/06/2013;Uruguay;France;17;18;931;913;1;0;Friendly;Uruguay;Win;81.0;85.0;79.2;80.3;81.0;81.8;82.7;84.5
+04/06/2013;Japan;Australia;30;47;772;624;1;1;FIFA World Cup qualification;Japan;Draw;70.0;79.0;75.2;72.7;78.8;71.2;68.7;73.8
+04/06/2013;Qatar;Iran;101;57;345;538;0;1;FIFA World Cup qualification;Qatar;Lose;;68.0;;;;;;
+02/06/2013;Brazil;England;19;7;902;1134;2;2;Friendly;Brazil;Draw;83.0;84.0;84.0;82.3;83.2;83.0;83.3;82.2
+02/06/2013;USA;Germany;29;2;779;1428;4;3;Friendly;USA;Win;81.0;86.0;72.2;74.0;78.0;84.0;83.7;85.8
+29/05/2013;Ecuador;Germany;10;2;1058;1428;2;4;Friendly;USA;Lose;70.0;86.0;68.2;74.7;76.8;84.0;83.7;85.8
+29/05/2013;USA;Belgium;29;15;779;953;2;4;Friendly;USA;Lose;81.0;83.0;72.2;74.0;78.0;82.0;79.7;81.8
+28/05/2013;Canada;Costa Rica;80;48;456;615;0;1;Friendly;Canada;Lose;67.0;74.0;68.0;73.3;68.5;69.2;71.3;75.2
+26/03/2013;France;Spain;17;1;920;1609;0;1;FIFA World Cup qualification;France;Lose;85.0;88.0;81.8;82.7;84.5;84.8;84.3;88.5
+26/03/2013;South Korea;Qatar;47;98;601;364;2;1;FIFA World Cup qualification;South Korea;Win;73.0;;71.2;75.0;74.0;;;
+26/03/2013;Mexico;USA;15;33;995;732;0;0;FIFA World Cup qualification;Mexico;Draw;78.0;81.0;76.0;80.7;75.0;72.2;74.0;78.0
+26/03/2013;Wales;Croatia;71;9;491;1080;1;2;FIFA World Cup qualification;Wales;Lose;72.0;74.0;74.2;75.3;77.2;73.8;80.0;79.5
+22/03/2013;Croatia;Serbia;9;35;1080;657;2;0;FIFA World Cup qualification;Croatia;Win;74.0;78.0;73.8;80.0;79.5;82.8;78.3;78.2
+22/03/2013;Japan;Canada;26;68;811;496;2;1;Friendly;Qatar;Win;70.0;67.0;75.2;72.7;78.8;68.0;73.3;68.5
+22/03/2013;USA;Costa Rica;33;53;732;576;1;0;FIFA World Cup qualification;USA;Win;81.0;74.0;72.2;74.0;78.0;69.2;71.3;75.2
+06/02/2013;Croatia;South Korea;10;34;1064;686;4;0;Friendly;England;Win;74.0;73.0;73.8;80.0;79.5;71.2;75.0;74.0
+06/02/2013;England;Brazil;6;18;1150;945;2;1;Friendly;England;Win;84.0;83.0;83.0;83.3;82.2;84.0;82.3;83.2
+06/02/2013;France;Germany;17;2;949;1437;1;2;Friendly;France;Lose;85.0;86.0;81.8;82.7;84.5;84.0;83.7;85.8
+06/02/2013;Portugal;Ecuador;7;12;1143;1006;2;3;Friendly;Portugal;Lose;82.0;70.0;81.2;83.7;82.0;68.2;74.7;76.8
+06/02/2013;Spain;Uruguay;1;16;1605;974;3;1;Friendly;Qatar;Win;88.0;81.0;84.8;84.3;88.5;79.2;80.3;81.0
+29/01/2013;USA;Canada;28;64;781;517;0;0;Friendly;USA;Draw;81.0;67.0;72.2;74.0;78.0;68.0;73.3;68.5
+13/01/2013;Ghana;Tunisia;30;45;776;606;4;2;Friendly;United Arab Emirates;Win;68.0;;70.2;72.3;81.2;72.2;72.3;73.2
+09/12/2012;Iran;Saudi Arabia;44;112;610;313;0;0;WAFF Championship;Kuwait;Draw;68.0;69.0;;;;67.8;72.7;72.8
+21/11/2012;Argentina;Brazil;3;13;1349;994;2;1;Superclásico de las Américas;Argentina;Lose;80.0;83.0;81.8;89.0;84.0;84.0;82.3;83.2
+14/11/2012;South Korea;Australia;32;33;727;718;1;2;Friendly;South Korea;Lose;73.0;79.0;71.2;75.0;74.0;71.2;68.7;73.8
+14/11/2012;Netherlands;Germany;7;2;1128;1421;0;0;Friendly;Netherlands;Draw;81.0;86.0;76.8;86.3;83.2;84.0;83.7;85.8
+14/11/2012;Poland;Uruguay;54;11;578;1047;1;3;Friendly;Poland;Lose;80.0;81.0;76.2;75.7;76.8;79.2;80.3;81.0
+14/11/2012;Saudi Arabia;Argentina;112;3;313;1349;0;0;Friendly;Saudi Arabia;Draw;69.0;80.0;67.8;72.7;72.8;81.8;89.0;84.0
+14/11/2012;Tunisia;Switzerland;46;16;608;966;1;2;Friendly;Tunisia;Lose;;80.0;72.2;72.3;73.2;77.0;73.0;79.0
+17/10/2012;Poland;England;54;5;573;1196;1;1;FIFA World Cup qualification;Poland;Draw;80.0;84.0;76.2;75.7;76.8;83.0;83.3;82.2
+16/10/2012;Croatia;Wales;11;57;1022;550;2;0;FIFA World Cup qualification;Croatia;Win;74.0;72.0;73.8;80.0;79.5;74.2;75.3;77.2
+16/10/2012;Iran;South Korea;58;25;548;776;1;0;FIFA World Cup qualification;Iran;Win;68.0;73.0;;;;71.2;75.0;74.0
+16/10/2012;Japan;Brazil;23;14;818;1000;0;4;Friendly;Poland;Lose;70.0;83.0;75.2;72.7;78.8;84.0;82.3;83.2
+16/10/2012;Spain;France;1;13;1611;1010;1;1;FIFA World Cup qualification;Spain;Draw;88.0;85.0;84.8;84.3;88.5;81.8;82.7;84.5
+12/10/2012;Argentina;Uruguay;4;7;1207;1139;3;0;FIFA World Cup qualification;Argentina;Win;80.0;81.0;81.8;89.0;84.0;79.2;80.3;81.0
+12/10/2012;France;Japan;13;23;1010;818;0;1;Friendly;France;Lose;85.0;70.0;81.8;82.7;84.5;75.2;72.7;78.8
+12/10/2012;Serbia;Belgium;33;30;706;722;0;3;FIFA World Cup qualification;Serbia;Lose;78.0;83.0;82.8;78.3;78.2;82.0;79.7;81.8
+19/09/2012;Brazil;Argentina;12;7;996;1120;2;1;Superclásico de las Américas;Brazil;Win;83.0;80.0;84.0;82.3;83.2;81.8;89.0;84.0
+11/09/2012;Belgium;Croatia;40;9;625;1019;1;1;FIFA World Cup qualification;Belgium;Draw;83.0;74.0;82.0;79.7;81.8;73.8;80.0;79.5
+11/09/2012;Mexico;Costa Rica;21;66;845;486;1;0;FIFA World Cup qualification;Mexico;Win;78.0;74.0;76.0;80.7;75.0;69.2;71.3;75.2
+11/09/2012;Serbia;Wales;42;45;623;615;6;1;FIFA World Cup qualification;Serbia;Win;78.0;72.0;82.8;78.3;78.2;74.2;75.3;77.2
+11/09/2012;Uruguay;Ecuador;5;17;1216;889;1;1;FIFA World Cup qualification;Uruguay;Draw;81.0;70.0;79.2;80.3;81.0;68.2;74.7;76.8
+07/09/2012;Costa Rica;Mexico;66;21;486;845;0;2;FIFA World Cup qualification;Costa Rica;Lose;74.0;78.0;69.2;71.3;75.2;76.0;80.7;75.0
+07/09/2012;Spain;Saudi Arabia;1;105;1617;328;5;0;Friendly;Spain;Win;88.0;69.0;84.8;84.3;88.5;67.8;72.7;72.8
+07/09/2012;Wales;Belgium;45;40;615;625;0;2;FIFA World Cup qualification;Wales;Lose;72.0;83.0;74.2;75.3;77.2;82.0;79.7;81.8
+15/08/2012;Belgium;Netherlands;53;8;563;1053;4;2;Friendly;Belgium;Win;76.0;84.0;81.2;80.3;78.5;76.5;83.3;86.0
+15/08/2012;Croatia;Switzerland;9;23;1050;828;2;4;Friendly;Croatia;Lose;74.0;78.0;76.0;80.0;81.0;77.0;76.7;78.8
+15/08/2012;France;Uruguay;14;4;979;1236;0;0;Friendly;France;Draw;86.0;78.0;82.5;83.0;84.5;79.2;85.0;78.5
+15/08/2012;Germany;Argentina;2;7;1473;1098;1;3;Friendly;Germany;Lose;87.0;77.0;83.0;83.7;85.0;80.8;88.3;85.2
+15/08/2012;Iran;Tunisia;48;41;590;627;2;2;Friendly;Hungary;Draw;54.0;67.0;;;;75.0;72.3;71.8
+15/08/2012;Mexico;USA;18;36;861;672;0;1;Friendly;Mexico;Lose;76.0;81.0;76.2;77.0;76.2;74.2;75.7;77.2
+27/06/2012;Portugal;Spain;10;1;995;1456;0;0;UEFA Euro;Ukraine;Lose;81.0;89.0;82.0;86.3;82.5;85.8;88.0;88.5
+23/06/2012;Spain;France;1;14;1456;963;2;0;UEFA Euro;Ukraine;Win;89.0;86.0;85.8;88.0;88.5;82.5;83.0;84.5
+18/06/2012;Croatia;Spain;8;1;1052;1456;0;1;UEFA Euro;Poland;Lose;74.0;89.0;76.0;80.0;81.0;85.8;88.0;88.5
+18/06/2012;Saudi Arabia;Morocco;92;70;368;491;4;0;Friendly;Saudi Arabia;Win;;67.0;;;;72.0;76.7;78.8
+17/06/2012;Denmark;Germany;9;3;1019;1288;1;2;UEFA Euro;Ukraine;Lose;78.0;87.0;76.8;74.0;76.5;83.0;83.7;85.0
+17/06/2012;Portugal;Netherlands;10;4;995;1234;2;1;UEFA Euro;Ukraine;Win;81.0;84.0;82.0;86.3;82.5;76.5;83.3;86.0
+13/06/2012;Denmark;Portugal;9;10;1019;995;2;3;UEFA Euro;Ukraine;Lose;78.0;81.0;76.8;74.0;76.5;82.0;86.3;82.5
+13/06/2012;Netherlands;Germany;4;3;1234;1288;1;2;UEFA Euro;Ukraine;Lose;84.0;87.0;76.5;83.3;86.0;83.0;83.7;85.0
+12/06/2012;Australia;Japan;24;23;819;821;1;1;FIFA World Cup qualification;Australia;Draw;80.0;69.0;70.2;73.7;71.8;72.5;72.7;76.0
+12/06/2012;Iran;Qatar;45;91;596;371;0;0;FIFA World Cup qualification;Iran;Draw;54.0;;;;;;;
+11/06/2012;France;England;14;6;963;1144;1;1;UEFA Euro;Ukraine;Draw;86.0;83.0;82.5;83.0;84.5;84.0;81.3;85.8
+09/06/2012;Brazil;Argentina;5;7;1154;1137;3;4;Friendly;USA;Lose;85.0;77.0;85.5;84.3;84.0;80.8;88.3;85.2
+09/06/2012;Germany;Portugal;3;10;1288;995;1;0;UEFA Euro;Ukraine;Win;87.0;81.0;83.0;83.7;85.0;82.0;86.3;82.5
+09/06/2012;Netherlands;Denmark;4;9;1234;1019;0;1;UEFA Euro;Ukraine;Lose;84.0;78.0;76.5;83.3;86.0;76.8;74.0;76.5
+08/06/2012;Qatar;South Korea;91;35;371;718;1;4;FIFA World Cup qualification;Qatar;Lose;;73.0;;;;71.0;75.0;76.0
+03/06/2012;Canada;USA;75;29;449;778;0;0;Friendly;Canada;Draw;77.0;81.0;67.5;69.7;75.5;74.2;75.7;77.2
+03/06/2012;Mexico;Brazil;20;6;867;1165;2;0;Friendly;USA;Win;76.0;85.0;76.2;77.0;76.2;85.5;84.3;84.0
+02/06/2012;Argentina;Ecuador;9;37;1075;679;4;0;FIFA World Cup qualification;Argentina;Win;77.0;69.0;80.8;88.3;85.2;70.5;74.7;76.8
+02/06/2012;Denmark;Australia;10;21;1068;862;2;0;Friendly;Denmark;Win;78.0;80.0;76.8;74.0;76.5;70.2;73.7;71.8
+02/06/2012;England;Belgium;7;44;1131;603;1;0;Friendly;England;Win;83.0;76.0;84.0;81.3;85.8;81.2;80.3;78.5
+31/05/2012;France;Serbia;16;32;938;725;2;0;Friendly;France;Win;86.0;72.0;82.5;83.0;84.5;83.0;76.7;79.0
+30/05/2012;Spain;South Korea;1;31;1442;745;4;1;Friendly;Switzerland;Win;89.0;73.0;85.8;88.0;88.5;71.0;75.0;76.0
+30/05/2012;USA;Brazil;29;6;778;1165;1;4;Friendly;USA;Lose;81.0;85.0;74.2;75.7;77.2;85.5;84.3;84.0
+27/05/2012;Mexico;Wales;20;41;867;635;2;0;Friendly;USA;Win;76.0;77.0;76.2;77.0;76.2;73.2;72.7;80.8
+26/05/2012;Denmark;Brazil;10;6;1068;1165;1;3;Friendly;Germany;Lose;78.0;85.0;76.8;74.0;76.5;85.5;84.3;84.0
+26/05/2012;Spain;Serbia;1;32;1442;725;2;0;Friendly;Switzerland;Win;89.0;72.0;85.8;88.0;88.5;83.0;76.7;79.0
+26/05/2012;Switzerland;Germany;18;2;890;1344;5;3;Friendly;Switzerland;Win;78.0;87.0;77.0;76.7;78.8;83.0;83.7;85.0
+25/05/2012;Morocco;Senegal;60;77;547;448;0;1;Friendly;Morocco;Lose;67.0;67.0;72.0;76.7;78.8;76.5;80.3;74.2
+29/02/2012;Australia;Saudi Arabia;22;89;832;406;4;2;FIFA World Cup qualification;Australia;Win;80.0;;70.2;73.7;71.8;;;
+29/02/2012;England;Netherlands;5;3;1179;1359;2;3;Friendly;England;Lose;83.0;84.0;84.0;81.3;85.8;76.5;83.3;86.0
+29/02/2012;Germany;France;2;17;1369;930;1;2;Friendly;Germany;Lose;87.0;86.0;83.0;83.7;85.0;82.5;83.0;84.5
+29/02/2012;Iran;Qatar;47;96;605;372;2;2;FIFA World Cup qualification;Iran;Draw;54.0;;;;;;;
+29/02/2012;Poland;Portugal;70;6;469;1155;0;0;Friendly;Poland;Draw;80.0;81.0;73.0;76.0;76.0;82.0;86.3;82.5
+29/02/2012;Switzerland;Argentina;16;11;950;1080;1;3;Friendly;Switzerland;Lose;78.0;77.0;77.0;76.7;78.8;80.8;88.3;85.2
+29/02/2012;Wales;Costa Rica;42;63;635;538;0;1;Friendly;Wales;Lose;77.0;74.0;73.2;72.7;80.8;65.5;77.0;71.0
+05/02/2012;Ghana;Tunisia;26;59;778;541;2;1;African Cup of Nations;Gabon;Win;64.0;67.0;71.0;76.7;81.0;75.0;72.3;71.8
+23/01/2012;Morocco;Tunisia;61;59;523;541;1;2;African Cup of Nations;Gabon;Lose;67.0;67.0;72.0;76.7;78.8;75.0;72.3;71.8
+15/11/2011;Costa Rica;Spain;62;1;522;1624;2;2;Friendly;Costa Rica;Draw;74.0;89.0;65.5;77.0;71.0;85.8;88.0;88.5
+15/11/2011;France;Belgium;15;37;952;669;0;0;Friendly;France;Draw;86.0;76.0;82.5;83.0;84.5;81.2;80.3;78.5
+15/11/2011;Germany;Netherlands;3;2;1352;1425;3;0;Friendly;Germany;Win;87.0;84.0;83.0;83.7;85.0;76.5;83.3;86.0
+13/11/2011;Morocco;Cameroon;56;47;566;599;1;1;Friendly;Morocco;Draw;67.0;80.0;72.0;76.7;78.8;75.2;79.0;79.2
+12/11/2011;England;Spain;7;1;1100;1624;1;0;Friendly;England;Win;83.0;89.0;84.0;81.3;85.8;85.8;88.0;88.5
+11/11/2011;France;USA;15;34;952;719;1;0;Friendly;France;Win;86.0;81.0;82.5;83.0;84.5;74.2;75.7;77.2
+11/11/2011;Mexico;Serbia;22;23;859;854;2;0;Friendly;Mexico;Win;76.0;72.0;76.2;77.0;76.2;83.0;76.7;79.0
+11/11/2011;Netherlands;Switzerland;2;18;1425;920;0;0;Friendly;Netherlands;Draw;84.0;78.0;76.5;83.3;86.0;77.0;76.7;78.8
+11/10/2011;Denmark;Portugal;17;5;893;1158;2;1;UEFA Euro qualification;Denmark;Win;78.0;81.0;76.8;74.0;76.5;82.0;86.3;82.5
+11/10/2011;Germany;Belgium;3;34;1289;729;3;1;UEFA Euro qualification;Germany;Win;87.0;76.0;83.0;83.7;85.0;81.2;80.3;78.5
+11/10/2011;Mexico;Brazil;20;7;866;1131;1;2;Friendly;Mexico;Lose;76.0;85.0;76.2;77.0;76.2;85.5;84.3;84.0
+11/10/2011;USA;Ecuador;31;69;741;481;0;1;Friendly;USA;Lose;81.0;69.0;74.2;75.7;77.2;70.5;74.7;76.8
+07/10/2011;Costa Rica;Brazil;57;7;549;1131;0;1;Friendly;Costa Rica;Lose;74.0;85.0;65.5;77.0;71.0;85.5;84.3;84.0
+07/10/2011;South Korea;Poland;29;65;749;495;2;2;Friendly;South Korea;Draw;73.0;80.0;71.0;75.0;76.0;73.0;76.0;76.0
+07/10/2011;Wales;Switzerland;90;18;374;886;2;0;UEFA Euro qualification;Wales;Win;77.0;78.0;73.2;72.7;80.8;77.0;76.7;78.8
+28/09/2011;Brazil;Argentina;7;10;1131;1024;2;0;Superclásico de las Américas;Brazil;Win;85.0;77.0;85.5;84.3;84.0;80.8;88.3;85.2
+14/09/2011;Argentina;Brazil;9;6;1016;1156;0;0;Superclásico de las Américas;Argentina;Draw;77.0;85.0;80.8;88.3;85.2;85.5;84.3;84.0
+06/09/2011;Belgium;USA;37;28;674;791;1;0;Friendly;Belgium;Win;76.0;81.0;81.2;80.3;78.5;74.2;75.7;77.2
+06/09/2011;Ecuador;Costa Rica;66;60;491;530;4;0;Friendly;Ecuador;Win;69.0;74.0;70.5;74.7;76.8;65.5;77.0;71.0
+06/09/2011;England;Wales;4;117;1176;250;1;0;UEFA Euro qualification;England;Win;83.0;77.0;84.0;81.3;85.8;73.2;72.7;80.8
+06/09/2011;Poland;Germany;65;3;498;1329;2;2;Friendly;Poland;Draw;80.0;87.0;73.0;76.0;76.0;83.0;83.7;85.0
+06/09/2011;Qatar;Iran;88;53;364;558;1;1;FIFA World Cup qualification;Qatar;Draw;;54.0;;;;;;
+06/09/2011;Saudi Arabia;Australia;87;22;372;837;1;3;FIFA World Cup qualification;Saudi Arabia;Lose;;80.0;;;;70.2;73.7;71.8
+05/09/2011;Brazil;Ghana;6;36;1156;725;1;0;Friendly;England;Win;85.0;64.0;85.5;84.3;84.0;71.0;76.7;81.0
+02/09/2011;Poland;Mexico;65;20;498;863;1;1;Friendly;Poland;Draw;80.0;76.0;73.0;76.0;76.0;76.2;77.0;76.2
+02/09/2011;USA;Costa Rica;28;60;791;530;0;1;Friendly;USA;Lose;81.0;74.0;74.2;75.7;77.2;65.5;77.0;71.0
+10/08/2011;Costa Rica;Ecuador;56;67;0;0;0;2;Friendly;Costa Rica;Lose;69.0;75.0;67.2;75.3;67.5;70.2;75.7;76.8
+10/08/2011;Germany;Brazil;3;4;0;0;3;2;Friendly;Germany;Win;86.0;86.0;82.0;83.3;82.2;84.5;84.0;81.8
+10/08/2011;Japan;South Korea;14;28;0;0;3;0;Friendly;Japan;Win;69.0;71.0;73.0;69.3;75.5;69.5;71.3;75.0
+10/08/2011;Senegal;Morocco;46;63;0;0;0;2;Friendly;Senegal;Lose;68.0;71.0;77.2;80.0;73.5;71.2;80.0;73.8
+10/08/2011;USA;Mexico;30;20;0;0;1;1;Friendly;USA;Draw;81.0;76.0;73.0;75.0;78.5;74.5;76.3;77.5
+10/08/2011;Wales;Australia;112;22;0;0;1;2;Friendly;Wales;Lose;75.0;80.0;74.2;71.0;80.2;72.5;76.7;71.0
+16/07/2011;Argentina;Uruguay;10;18;0;0;1;1;Copa América;Argentina;Lose;77.0;76.0;81.0;87.0;82.8;79.0;83.7;78.5
+13/07/2011;Brazil;Ecuador;5;68;0;0;4;2;Copa América;Argentina;Win;86.0;75.0;84.5;84.0;81.8;70.2;75.7;76.8
+12/07/2011;Uruguay;Mexico;18;9;0;0;1;0;Copa América;Argentina;Win;76.0;76.0;79.0;83.7;78.5;74.5;76.3;77.5
+11/07/2011;Argentina;Costa Rica;10;55;0;0;3;0;Copa América;Argentina;Win;77.0;69.0;81.0;87.0;82.8;67.2;75.3;67.5
+25/06/2011;USA;Mexico;22;28;0;0;2;4;Gold Cup;USA;Lose;81.0;76.0;73.0;75.0;78.5;74.5;76.3;77.5
+12/06/2011;Mexico;Costa Rica;28;56;0;0;4;1;Gold Cup;USA;Win;76.0;69.0;74.5;76.3;77.5;67.2;75.3;67.5
+09/06/2011;Poland;France;71;19;0;0;0;1;Friendly;Poland;Lose;76.0;84.0;72.5;76.3;74.8;82.8;81.7;84.2
+08/06/2011;Uruguay;Netherlands;7;2;0;0;1;1;Copa Confraternidad;Uruguay;Win;76.0;83.0;79.0;83.7;78.5;77.0;83.7;83.5
+07/06/2011;Australia;Serbia;20;16;0;0;0;0;Friendly;Australia;Draw;80.0;72.0;72.5;76.7;71.0;81.8;76.0;80.0
+07/06/2011;South Korea;Ghana;31;15;0;0;2;1;Friendly;South Korea;Win;71.0;73.0;69.5;71.3;75.0;75.0;73.7;80.2
+07/06/2011;USA;Canada;22;77;0;0;2;0;Gold Cup;USA;Win;81.0;77.0;73.0;75.0;78.5;68.2;;74.2
+05/06/2011;Poland;Argentina;71;5;0;0;2;1;Friendly;Poland;Win;76.0;77.0;72.5;76.3;74.8;81.0;87.0;82.8
+04/06/2011;Brazil;Netherlands;3;2;0;0;0;0;Friendly;Brazil;Draw;86.0;83.0;84.5;84.0;81.8;77.0;83.7;83.5
+04/06/2011;Cameroon;Senegal;49;40;0;0;0;0;African Cup of Nations qualification;Cameroon;Draw;82.0;68.0;77.8;79.3;77.2;77.2;80.0;73.5
+04/06/2011;England;Switzerland;6;25;0;0;2;2;UEFA Euro qualification;England;Draw;82.0;80.0;84.0;83.7;84.0;77.5;76.7;76.8
+04/06/2011;USA;Spain;22;1;0;0;0;4;Friendly;USA;Lose;81.0;88.0;73.0;75.0;78.5;84.0;86.0;86.2
+03/06/2011;South Korea;Serbia;31;16;0;0;2;1;Friendly;South Korea;Win;71.0;72.0;69.5;71.3;75.0;81.8;76.0;80.0
+01/06/2011;Canada;Ecuador;77;64;0;0;2;2;Friendly;Canada;Draw;77.0;75.0;68.2;;74.2;70.2;75.7;76.8
+29/05/2011;Germany;Uruguay;4;7;0;0;2;1;Friendly;Germany;Win;86.0;76.0;82.0;83.3;82.2;79.0;83.7;78.5
+28/05/2011;Mexico;Ecuador;28;64;0;0;1;1;Friendly;USA;Draw;76.0;75.0;74.5;76.3;77.5;70.2;75.7;76.8
+20/04/2011;Argentina;Ecuador;5;56;0;0;2;2;Friendly;Argentina;Draw;77.0;75.0;81.0;87.0;82.8;70.2;75.7;76.8
+29/03/2011;Costa Rica;Argentina;53;4;0;0;0;0;Friendly;Costa Rica;Draw;69.0;77.0;67.2;75.3;67.5;81.0;87.0;82.8
+29/03/2011;England;Ghana;6;16;0;0;1;1;Friendly;England;Draw;82.0;73.0;84.0;83.7;84.0;75.0;73.7;80.2
+29/03/2011;France;Croatia;18;8;0;0;0;0;Friendly;France;Draw;84.0;74.0;82.8;81.7;84.2;78.5;80.7;79.5
+29/03/2011;Germany;Australia;3;20;0;0;1;2;Friendly;Germany;Lose;86.0;80.0;82.0;83.3;82.2;72.5;76.7;71.0
+26/03/2011;Senegal;Cameroon;69;42;0;0;1;0;African Cup of Nations qualification;Senegal;Win;68.0;82.0;77.2;80.0;73.5;77.8;79.3;77.2
+26/03/2011;USA;Argentina;19;4;0;0;1;1;Friendly;USA;Draw;81.0;77.0;73.0;75.0;78.5;81.0;87.0;82.8
+26/03/2011;Wales;England;116;6;0;0;0;2;UEFA Euro qualification;Wales;Lose;75.0;82.0;74.2;71.0;80.2;84.0;83.7;84.0
+09/02/2011;Argentina;Portugal;5;8;0;0;2;1;Friendly;Switzerland;Win;77.0;79.0;81.0;87.0;82.8;82.2;85.0;80.8
+09/02/2011;Denmark;England;28;6;0;0;1;2;Friendly;Denmark;Lose;76.0;82.0;77.5;77.7;75.2;84.0;83.7;84.0
+09/02/2011;France;Brazil;19;4;0;0;1;0;Friendly;France;Win;84.0;86.0;82.8;81.7;84.2;84.5;84.0;81.8
+29/01/2011;Australia;Japan;26;29;0;0;0;1;AFC Asian Cup;Qatar;Lose;80.0;69.0;72.5;76.7;71.0;73.0;69.3;75.5
+25/01/2011;Japan;South Korea;29;38;0;0;2;2;AFC Asian Cup;Qatar;Win;69.0;71.0;73.0;69.3;75.5;69.5;71.3;75.0
+22/01/2011;Iran;South Korea;65;38;0;0;0;1;AFC Asian Cup;Qatar;Lose;;71.0;;;70.5;69.5;71.3;75.0
+21/01/2011;Qatar;Japan;105;29;0;0;2;3;AFC Asian Cup;Qatar;Lose;;69.0;;;;73.0;69.3;75.5
+17/01/2011;Saudi Arabia;Japan;78;29;0;0;0;5;AFC Asian Cup;Qatar;Lose;;69.0;;;;73.0;69.3;75.5
+14/01/2011;Australia;South Korea;26;38;0;0;1;1;AFC Asian Cup;Qatar;Draw;80.0;71.0;72.5;76.7;71.0;69.5;71.3;75.0
+28/11/2010;Qatar;Saudi Arabia;113;68;0;0;1;1;Gulf Cup;Yemen;Draw;;;;;;;;
+17/11/2010;Argentina;Brazil;5;3;0;0;1;0;Friendly;Qatar;Win;77.0;86.0;81.0;87.0;82.8;84.5;84.0;81.8
+17/11/2010;England;France;6;21;0;0;1;2;Friendly;England;Lose;82.0;84.0;84.0;83.7;84.0;82.8;81.7;84.2
+17/11/2010;Portugal;Spain;8;1;0;0;4;0;Friendly;Portugal;Win;79.0;88.0;82.2;85.0;80.8;84.0;86.0;86.2
+17/11/2010;Saudi Arabia;Ghana;68;17;0;0;0;0;Friendly;United Arab Emirates;Draw;;73.0;;;;75.0;73.7;80.2
+12/10/2010;Ecuador;Poland;72;66;0;0;2;2;Friendly;Canada;Draw;75.0;76.0;70.2;75.7;76.8;72.5;76.3;74.8
+12/10/2010;South Korea;Japan;44;30;0;0;0;0;Friendly;South Korea;Draw;71.0;69.0;69.5;71.3;75.0;73.0;69.3;75.5
+12/10/2010;Switzerland;Wales;21;85;0;0;4;1;UEFA Euro qualification;Switzerland;Win;80.0;75.0;77.5;76.7;76.8;74.2;71.0;80.2
+09/10/2010;USA;Poland;18;66;0;0;2;2;Friendly;USA;Draw;81.0;76.0;73.0;75.0;78.5;72.5;76.3;74.8
+08/10/2010;Japan;Argentina;30;5;0;0;1;0;Friendly;Japan;Win;69.0;77.0;73.0;69.3;75.5;81.0;87.0;82.8
+08/10/2010;Portugal;Denmark;8;29;0;0;3;1;UEFA Euro qualification;Portugal;Win;79.0;76.0;82.2;85.0;80.8;77.5;77.7;75.2
+07/10/2010;Iran;Brazil;57;4;0;0;0;3;Friendly;United Arab Emirates;Lose;;86.0;;;70.5;84.5;84.0;81.8
+07/09/2010;Argentina;Spain;5;1;0;0;4;1;Friendly;Argentina;Win;77.0;88.0;81.0;87.0;82.8;84.0;86.0;86.2
+07/09/2010;South Korea;Iran;44;65;0;0;0;1;Friendly;South Korea;Lose;71.0;;69.5;71.3;75.0;;;70.5
+07/09/2010;Poland;Australia;56;20;0;0;1;2;Friendly;Poland;Lose;76.0;80.0;72.5;76.3;74.8;72.5;76.7;71.0
+07/09/2010;Switzerland;England;17;7;0;0;1;3;UEFA Euro qualification;Switzerland;Lose;80.0;82.0;77.5;76.7;76.8;84.0;83.7;84.0
+04/09/2010;Mexico;Ecuador;25;58;0;0;1;2;Friendly;Mexico;Lose;76.0;75.0;74.5;76.3;77.5;70.2;75.7;76.8
+03/09/2010;Belgium;Germany;48;4;0;0;0;1;UEFA Euro qualification;Belgium;Lose;74.0;86.0;79.8;78.0;77.8;82.0;83.3;82.2
+03/09/2010;Switzerland;Australia;17;20;0;0;0;0;Friendly;Switzerland;Draw;80.0;80.0;77.5;76.7;76.8;72.5;76.7;71.0
+11/08/2010;Denmark;Germany;29;4;0;0;2;2;Friendly;Denmark;Draw;76.0;85.0;77.0;75.7;76.2;82.8;82.7;82.2
+11/08/2010;Mexico;Spain;25;1;0;0;1;1;Friendly;Mexico;Draw;79.0;90.0;76.5;77.7;76.8;85.0;85.3;87.0
+11/08/2010;Poland;Cameroon;56;40;0;0;0;3;Friendly;Poland;Lose;80.0;81.0;71.5;74.0;76.0;75.2;78.0;78.5
+10/08/2010;USA;Brazil;13;3;0;0;0;2;Friendly;USA;Lose;82.0;89.0;73.8;73.7;78.2;84.8;85.3;82.5
+11/07/2010;Netherlands;Spain;4;2;0;0;0;1;FIFA World Cup;South Africa;Lose;83.0;90.0;77.8;83.7;83.8;85.0;85.3;87.0
+10/07/2010;Uruguay;Germany;16;6;0;0;2;3;FIFA World Cup;South Africa;Lose;76.0;85.0;78.0;83.0;77.5;82.8;82.7;82.2
+07/07/2010;Germany;Spain;6;2;0;0;0;1;FIFA World Cup;South Africa;Lose;85.0;90.0;82.8;82.7;82.2;85.0;85.3;87.0
+06/07/2010;Uruguay;Netherlands;16;4;0;0;2;3;FIFA World Cup;South Africa;Lose;76.0;83.0;78.0;83.0;77.5;77.8;83.7;83.8
+03/07/2010;Argentina;Germany;7;6;0;0;0;4;FIFA World Cup;South Africa;Lose;78.0;85.0;82.5;87.3;83.8;82.8;82.7;82.2
+02/07/2010;Netherlands;Brazil;4;1;0;0;2;1;FIFA World Cup;South Africa;Win;83.0;89.0;77.8;83.7;83.8;84.8;85.3;82.5
+02/07/2010;Uruguay;Ghana;16;32;0;0;1;1;FIFA World Cup;South Africa;Win;76.0;66.0;78.0;83.0;77.5;71.8;73.3;80.2
+29/06/2010;Spain;Portugal;2;3;0;0;1;0;FIFA World Cup;South Africa;Win;90.0;79.0;85.0;85.3;87.0;82.0;84.3;82.8
+27/06/2010;Argentina;Mexico;7;17;0;0;3;1;FIFA World Cup;South Africa;Win;78.0;79.0;82.5;87.3;83.8;76.5;77.7;76.8
+27/06/2010;Germany;England;6;8;0;0;4;1;FIFA World Cup;South Africa;Win;85.0;81.0;82.8;82.7;82.2;85.2;85.0;85.8
+26/06/2010;Uruguay;South Korea;16;47;0;0;2;1;FIFA World Cup;South Africa;Win;76.0;73.0;78.0;83.0;77.5;71.2;71.3;73.8
+26/06/2010;USA;Ghana;14;32;0;0;1;2;FIFA World Cup;South Africa;Lose;82.0;66.0;73.8;73.7;78.2;71.8;73.3;80.2
+25/06/2010;Portugal;Brazil;3;1;0;0;0;0;FIFA World Cup;South Africa;Draw;79.0;89.0;82.0;84.3;82.8;84.8;85.3;82.5
+24/06/2010;Cameroon;Netherlands;19;4;0;0;1;2;FIFA World Cup;South Africa;Lose;81.0;83.0;75.2;78.0;78.5;77.8;83.7;83.8
+24/06/2010;Denmark;Japan;36;45;0;0;1;3;FIFA World Cup;South Africa;Lose;76.0;;77.0;75.7;76.2;60.0;66.7;76.2
+23/06/2010;Australia;Serbia;20;15;0;0;2;1;FIFA World Cup;South Africa;Win;79.0;75.0;73.8;76.0;75.0;80.2;77.3;80.2
+23/06/2010;Ghana;Germany;32;6;0;0;0;1;FIFA World Cup;South Africa;Lose;66.0;85.0;71.8;73.3;80.2;82.8;82.7;82.2
+22/06/2010;Mexico;Uruguay;17;16;0;0;0;1;FIFA World Cup;South Africa;Lose;79.0;76.0;76.5;77.7;76.8;78.0;83.0;77.5
+19/06/2010;Cameroon;Denmark;19;36;0;0;1;2;FIFA World Cup;South Africa;Lose;81.0;76.0;75.2;78.0;78.5;77.0;75.7;76.2
+19/06/2010;Ghana;Australia;32;20;0;0;1;1;FIFA World Cup;South Africa;Draw;66.0;79.0;71.8;73.3;80.2;73.8;76.0;75.0
+19/06/2010;Netherlands;Japan;4;45;0;0;1;0;FIFA World Cup;South Africa;Win;83.0;;77.8;83.7;83.8;60.0;66.7;76.2
+18/06/2010;Germany;Serbia;6;15;0;0;0;1;FIFA World Cup;South Africa;Lose;85.0;75.0;82.8;82.7;82.2;80.2;77.3;80.2
+17/06/2010;Argentina;South Korea;7;47;0;0;4;1;FIFA World Cup;South Africa;Win;78.0;73.0;82.5;87.3;83.8;71.2;71.3;73.8
+17/06/2010;France;Mexico;9;17;0;0;0;2;FIFA World Cup;South Africa;Lose;86.0;79.0;84.0;83.3;84.5;76.5;77.7;76.8
+16/06/2010;Spain;Switzerland;2;24;0;0;0;1;FIFA World Cup;South Africa;Lose;90.0;80.0;85.0;85.3;87.0;76.5;76.0;77.0
+14/06/2010;Japan;Cameroon;45;19;0;0;1;0;FIFA World Cup;South Africa;Win;;81.0;60.0;66.7;76.2;75.2;78.0;78.5
+14/06/2010;Netherlands;Denmark;4;36;0;0;2;0;FIFA World Cup;South Africa;Win;83.0;76.0;77.8;83.7;83.8;77.0;75.7;76.2
+13/06/2010;Germany;Australia;6;20;0;0;4;0;FIFA World Cup;South Africa;Win;85.0;79.0;82.8;82.7;82.2;73.8;76.0;75.0
+13/06/2010;Serbia;Ghana;15;32;0;0;0;1;FIFA World Cup;South Africa;Lose;75.0;66.0;80.2;77.3;80.2;71.8;73.3;80.2
+12/06/2010;England;USA;8;14;0;0;1;1;FIFA World Cup;South Africa;Draw;81.0;82.0;85.2;85.0;85.8;73.8;73.7;78.2
+11/06/2010;Uruguay;France;16;9;0;0;0;0;FIFA World Cup;South Africa;Draw;76.0;86.0;78.0;83.0;77.5;84.0;83.3;84.5
+08/06/2010;Spain;Poland;2;58;0;0;6;0;Friendly;Spain;Win;90.0;80.0;85.0;85.3;87.0;71.5;74.0;76.0
+05/06/2010;Australia;USA;20;14;0;0;1;3;Friendly;South Africa;Lose;79.0;82.0;73.8;76.0;75.0;73.8;73.7;78.2
+05/06/2010;Serbia;Cameroon;15;19;0;0;4;3;Friendly;Serbia;Win;75.0;81.0;80.2;77.3;80.2;75.2;78.0;78.5
+03/06/2010;Spain;South Korea;2;47;0;0;1;0;Friendly;Austria;Win;90.0;73.0;85.0;85.3;87.0;71.2;71.3;73.8
+02/06/2010;Serbia;Poland;15;58;0;0;0;0;Friendly;Austria;Draw;75.0;80.0;80.2;77.3;80.2;71.5;74.0;76.0
+01/06/2010;Australia;Denmark;20;36;0;0;1;0;Friendly;South Africa;Win;79.0;76.0;73.8;76.0;75.0;77.0;75.7;76.2
+01/06/2010;Netherlands;Ghana;4;32;0;0;4;1;Friendly;Netherlands;Win;83.0;66.0;77.8;83.7;83.8;71.8;73.3;80.2
+01/06/2010;Portugal;Cameroon;3;19;0;0;3;1;Friendly;Portugal;Win;79.0;81.0;82.0;84.3;82.8;75.2;78.0;78.5
+01/06/2010;Switzerland;Costa Rica;24;40;0;0;0;1;Friendly;Switzerland;Lose;80.0;;76.5;76.0;77.0;67.2;73.0;69.2
+30/05/2010;Japan;England;45;8;0;0;1;2;Friendly;Austria;Lose;;81.0;60.0;66.7;76.2;85.2;85.0;85.8
+30/05/2010;Tunisia;France;55;9;0;0;1;1;Friendly;Tunisia;Draw;67.0;86.0;71.0;72.3;69.0;84.0;83.3;84.5
+29/05/2010;Spain;Saudi Arabia;2;66;0;0;3;2;Friendly;Austria;Win;90.0;;85.0;85.3;87.0;;;
+27/05/2010;Denmark;Senegal;36;75;0;0;2;0;Friendly;Denmark;Win;76.0;78.0;77.0;75.7;76.2;77.0;79.7;74.0
+26/05/2010;France;Costa Rica;9;40;0;0;2;1;Friendly;France;Win;86.0;;84.0;83.3;84.5;67.2;73.0;69.2
+26/05/2010;Netherlands;Mexico;4;17;0;0;2;1;Friendly;Germany;Win;83.0;79.0;77.8;83.7;83.8;76.5;77.7;76.8
+24/05/2010;Argentina;Canada;7;63;0;0;5;0;Friendly;Argentina;Win;78.0;71.0;82.5;87.3;83.8;69.5;74.0;72.0
+24/05/2010;England;Mexico;8;17;0;0;3;1;Friendly;England;Win;81.0;79.0;85.2;85.0;85.8;76.5;77.7;76.8
+24/05/2010;Japan;South Korea;45;47;0;0;0;2;Friendly;Japan;Lose;;73.0;60.0;66.7;76.2;71.2;71.3;73.8
+23/05/2010;Croatia;Wales;9;75;0;0;2;0;Friendly;Croatia;Win;80.0;76.0;77.8;81.3;79.2;73.5;70.0;79.5
+16/05/2010;South Korea;Ecuador;47;36;0;0;2;0;Friendly;South Korea;Win;73.0;74.0;71.2;71.3;73.8;71.2;75.7;75.2
+10/05/2010;Mexico;Senegal;17;77;0;0;1;0;Friendly;USA;Win;79.0;78.0;76.5;77.7;76.8;77.0;79.7;74.0
+07/05/2010;Mexico;Ecuador;17;36;0;0;0;0;Friendly;USA;Draw;79.0;74.0;76.5;77.7;76.8;71.2;75.7;75.2
+07/04/2010;Japan;Serbia;45;15;0;0;0;3;Friendly;Japan;Lose;;75.0;60.0;66.7;76.2;80.2;77.3;80.2
+03/03/2010;Belgium;Croatia;68;11;0;0;0;1;Friendly;Belgium;Lose;76.0;80.0;79.2;77.0;77.5;77.8;81.3;79.2
+03/03/2010;France;Spain;7;1;0;0;0;2;Friendly;France;Lose;86.0;90.0;84.0;83.3;84.5;85.0;85.3;87.0
+03/03/2010;Germany;Argentina;5;9;0;0;0;1;Friendly;Germany;Lose;85.0;78.0;82.8;82.7;82.2;82.5;87.3;83.8
+03/03/2010;Netherlands;USA;3;18;0;0;2;1;Friendly;Netherlands;Win;83.0;82.0;77.8;83.7;83.8;73.8;73.7;78.2
+03/03/2010;Switzerland;Uruguay;15;19;0;0;1;3;Friendly;Switzerland;Lose;80.0;76.0;76.5;76.0;77.0;78.0;83.0;77.5
+14/02/2010;Japan;South Korea;40;49;0;0;1;3;EAFF Championship;Japan;Lose;;73.0;60.0;66.7;76.2;71.2;71.3;73.8
+26/01/2010;Argentina;Costa Rica;8;44;0;0;3;2;Friendly;Argentina;Win;78.0;;82.5;87.3;83.8;67.2;73.0;69.2
+21/01/2010;Cameroon;Tunisia;11;53;0;0;2;2;African Cup of Nations;Angola;Draw;81.0;67.0;75.2;78.0;78.5;71.0;72.3;69.0
+28/12/2009;Qatar;Iran;86;64;0;0;3;2;Friendly;Qatar;Win;;;;;;;;
+18/11/2009;Denmark;USA;27;11;0;0;3;1;Friendly;Denmark;Win;76.0;82.0;77.0;75.7;76.2;73.8;73.7;78.2
+18/11/2009;South Korea;Serbia;48;20;0;0;0;1;Friendly;England;Lose;73.0;75.0;71.2;71.3;73.8;80.2;77.3;80.2
+18/11/2009;Poland;Canada;56;53;0;0;1;0;Friendly;Poland;Win;80.0;71.0;71.5;74.0;76.0;69.5;74.0;72.0
+18/11/2009;Uruguay;Costa Rica;25;43;0;0;1;1;FIFA World Cup qualification;Uruguay;Draw;76.0;;78.0;83.0;77.5;67.2;73.0;69.2
+17/11/2009;Belgium;Qatar;68;94;0;0;2;0;Friendly;France;Win;76.0;;79.2;77.0;77.5;;;
+14/11/2009;Brazil;England;1;7;0;0;1;0;Friendly;Qatar;Win;89.0;81.0;84.8;85.3;82.5;85.2;85.0;85.8
+14/11/2009;Costa Rica;Uruguay;43;25;0;0;0;1;FIFA World Cup qualification;Costa Rica;Lose;;76.0;67.2;73.0;69.2;78.0;83.0;77.5
+14/11/2009;Denmark;South Korea;27;48;0;0;0;0;Friendly;Denmark;Draw;76.0;73.0;77.0;75.7;76.2;71.2;71.3;73.8
+14/11/2009;Morocco;Cameroon;63;14;0;0;0;2;FIFA World Cup qualification;Morocco;Lose;71.0;81.0;70.5;79.0;73.2;75.2;78.0;78.5
+14/11/2009;Spain;Argentina;2;6;0;0;2;1;Friendly;Spain;Win;90.0;78.0;85.0;85.3;87.0;82.5;87.3;83.8
+14/10/2009;South Korea;Senegal;49;80;0;0;2;0;Friendly;South Korea;Win;73.0;78.0;71.2;71.3;73.8;77.0;79.7;74.0
+14/10/2009;Tunisia;Saudi Arabia;50;65;0;0;0;1;Friendly;Tunisia;Lose;67.0;;71.0;72.3;69.0;;;
+14/10/2009;Uruguay;Argentina;28;8;0;0;0;1;FIFA World Cup qualification;Uruguay;Lose;76.0;78.0;78.0;83.0;77.5;82.5;87.3;83.8
+14/10/2009;USA;Costa Rica;11;39;0;0;2;2;FIFA World Cup qualification;USA;Draw;82.0;;73.8;73.7;78.2;67.2;73.0;69.2
+10/10/2009;Australia;Netherlands;14;3;0;0;0;0;Friendly;Australia;Draw;79.0;83.0;73.8;76.0;75.0;77.8;83.7;83.8
+10/10/2009;Ecuador;Uruguay;36;28;0;0;1;2;FIFA World Cup qualification;Ecuador;Lose;74.0;76.0;71.2;75.7;75.2;78.0;83.0;77.5
+08/10/2009;Croatia;Qatar;9;83;0;0;3;2;Friendly;Croatia;Win;80.0;;77.8;81.3;79.2;;;
+30/09/2009;Argentina;Ghana;8;32;0;0;2;0;Friendly;Argentina;Win;78.0;66.0;82.5;87.3;83.8;71.8;73.3;80.2
+09/09/2009;England;Croatia;7;9;0;0;5;1;FIFA World Cup qualification;England;Win;81.0;80.0;85.2;85.0;85.8;77.8;81.3;79.2
+09/09/2009;Japan;Ghana;40;32;0;0;4;3;Friendly;Netherlands;Win;;66.0;60.0;66.7;76.2;71.8;73.3;80.2
+09/09/2009;Serbia;France;13;10;0;0;1;1;FIFA World Cup qualification;Serbia;Draw;75.0;86.0;80.2;77.3;80.2;84.0;83.3;84.5
+05/09/2009;Argentina;Brazil;8;1;0;0;1;3;FIFA World Cup qualification;Argentina;Lose;78.0;89.0;82.5;87.3;83.8;84.8;85.3;82.5
+05/09/2009;Costa Rica;Mexico;39;24;0;0;0;3;FIFA World Cup qualification;Costa Rica;Lose;;79.0;67.2;73.0;69.2;76.5;77.7;76.8
+05/09/2009;Denmark;Portugal;16;17;0;0;1;1;FIFA World Cup qualification;Denmark;Draw;76.0;79.0;77.0;75.7;76.2;82.0;84.3;82.8
+05/09/2009;South Korea;Australia;49;14;0;0;3;1;Friendly;South Korea;Win;73.0;79.0;71.2;71.3;73.8;73.8;76.0;75.0
+05/09/2009;Netherlands;Japan;3;40;0;0;3;0;Friendly;Netherlands;Win;83.0;;77.8;83.7;83.8;60.0;66.7;76.2
+05/09/2009;Spain;Belgium;2;68;0;0;5;0;FIFA World Cup qualification;Spain;Win;90.0;76.0;85.0;85.3;87.0;79.2;77.0;77.5
+12/08/2009;Mexico;USA;30;12;0;0;2;1;FIFA World Cup qualification;Mexico;Win;82.0;84.0;79.2;78.0;79.2;72.5;75.7;74.0
+12/08/2009;Netherlands;England;3;7;0;0;2;2;Friendly;Netherlands;Draw;85.0;82.0;81.0;86.7;85.5;85.0;83.3;86.0
+26/07/2009;USA;Mexico;12;33;0;0;0;5;Gold Cup;USA;Lose;84.0;82.0;72.5;75.7;74.0;79.2;78.0;79.2
+23/07/2009;Costa Rica;Mexico;30;33;0;0;1;1;Gold Cup;USA;Lose;;82.0;65.0;71.3;66.5;79.2;78.0;79.2
+10/07/2009;Costa Rica;Canada;30;92;0;0;2;2;Gold Cup;USA;Draw;;70.0;65.0;71.3;66.5;69.2;71.0;72.0
+28/06/2009;USA;Brazil;14;5;0;0;2;3;Confederations Cup;South Africa;Lose;84.0;87.0;72.5;75.7;74.0;85.2;85.7;85.8
+24/06/2009;Spain;USA;1;14;0;0;0;2;Confederations Cup;South Africa;Lose;91.0;84.0;83.8;86.0;86.0;72.5;75.7;74.0
+18/06/2009;USA;Brazil;14;5;0;0;0;3;Confederations Cup;South Africa;Lose;84.0;87.0;72.5;75.7;74.0;85.2;85.7;85.8
+17/06/2009;Australia;Japan;29;31;0;0;2;1;FIFA World Cup qualification;Australia;Win;77.0;;74.5;75.0;74.8;;70.3;75.5
+17/06/2009;South Korea;Iran;46;52;0;0;1;1;FIFA World Cup qualification;South Korea;Draw;73.0;;69.5;70.7;71.5;;68.7;
+10/06/2009;Ecuador;Argentina;44;7;0;0;2;0;FIFA World Cup qualification;Ecuador;Win;74.0;82.0;69.0;76.3;70.8;85.2;86.0;85.5
+10/06/2009;Japan;Qatar;31;94;0;0;1;1;FIFA World Cup qualification;Japan;Draw;;;;70.3;75.5;;;
+10/06/2009;South Korea;Saudi Arabia;46;56;0;0;0;0;FIFA World Cup qualification;South Korea;Draw;73.0;;69.5;70.7;71.5;;;
+06/06/2009;Qatar;Australia;94;29;0;0;0;0;FIFA World Cup qualification;Qatar;Draw;;77.0;;;;74.5;75.0;74.8
+06/06/2009;Uruguay;Brazil;17;5;0;0;0;4;FIFA World Cup qualification;Uruguay;Lose;75.0;87.0;78.5;80.0;75.8;85.2;85.7;85.8
+03/06/2009;Costa Rica;USA;41;14;0;0;3;1;FIFA World Cup qualification;Costa Rica;Win;;84.0;65.0;71.3;66.5;72.5;75.7;74.0
+31/05/2009;Japan;Belgium;35;62;0;0;4;0;Kirin Cup;Japan;Win;;73.0;;70.3;75.5;77.0;73.0;76.8
+26/05/2009;Qatar;Saudi Arabia;96;55;0;0;2;1;Friendly;Qatar;Win;;;;;;;;
+01/04/2009;Iran;Senegal;42;60;0;0;1;1;Friendly;Iran;Draw;;76.0;;68.7;;76.8;78.3;74.8
+01/04/2009;Wales;Germany;68;2;0;0;0;2;FIFA World Cup qualification;Wales;Lose;77.0;85.0;72.2;73.7;76.2;83.2;83.3;82.5
+29/03/2009;Ecuador;Brazil;39;5;0;0;1;1;FIFA World Cup qualification;Ecuador;Draw;74.0;87.0;69.0;76.3;70.8;85.2;85.7;85.8
+28/03/2009;Iran;Saudi Arabia;42;55;0;0;1;2;FIFA World Cup qualification;Iran;Lose;;;;68.7;;;;
+28/03/2009;Mexico;Costa Rica;23;32;0;0;2;0;FIFA World Cup qualification;Mexico;Win;82.0;;79.2;78.0;79.2;65.0;71.3;66.5
+11/02/2009;France;Argentina;11;6;0;0;0;2;Friendly;France;Lose;87.0;82.0;83.8;85.0;84.5;85.2;86.0;85.5
+11/02/2009;Iran;South Korea;44;46;0;0;1;1;FIFA World Cup qualification;Iran;Draw;;73.0;;68.7;;69.5;70.7;71.5
+11/02/2009;Japan;Australia;37;27;0;0;0;0;FIFA World Cup qualification;Japan;Draw;;77.0;;70.3;75.5;74.5;75.0;74.8
+11/02/2009;Spain;England;1;8;0;0;2;0;Friendly;Spain;Win;91.0;82.0;83.8;86.0;86.0;85.0;83.3;86.0
+11/02/2009;Tunisia;Netherlands;53;3;0;0;1;1;Friendly;Tunisia;Draw;;85.0;71.0;71.0;68.0;81.0;86.7;85.5
+11/02/2009;USA;Mexico;20;24;0;0;2;0;FIFA World Cup qualification;USA;Win;84.0;82.0;72.5;75.7;74.0;79.2;78.0;79.2
+11/02/2009;Wales;Poland;65;28;0;0;0;1;Friendly;Portugal;Lose;77.0;80.0;72.2;73.7;76.2;72.0;74.7;75.8
+05/01/2009;Saudi Arabia;Qatar;48;84;0;0;0;0;Gulf Cup;Oman;Draw;;;;;;;;
+17/12/2008;Iran;Ecuador;43;36;0;0;0;1;Friendly;Oman;Lose;;74.0;;68.7;;69.0;76.3;70.8
+14/12/2008;Serbia;Poland;30;32;0;0;0;1;Friendly;Turkey;Lose;78.0;80.0;79.8;78.0;78.8;72.0;74.7;75.8
+19/11/2008;Brazil;Portugal;5;10;0;0;6;2;Friendly;Brazil;Win;87.0;80.0;85.2;85.7;85.8;82.8;86.0;81.2
+19/11/2008;Denmark;Wales;34;62;0;0;0;1;Friendly;Denmark;Lose;75.0;77.0;78.2;76.3;77.8;72.2;73.7;76.2
+19/11/2008;France;Uruguay;12;23;0;0;0;0;Friendly;France;Draw;87.0;75.0;83.8;85.0;84.5;78.5;80.0;75.8
+19/11/2008;Germany;England;2;10;0;0;1;2;Friendly;Germany;Lose;85.0;82.0;83.2;83.3;82.5;85.0;83.3;86.0
+19/11/2008;Ghana;Tunisia;26;47;0;0;0;0;Friendly;Ghana;Draw;66.0;;72.5;72.3;79.5;71.0;71.0;68.0
+19/11/2008;Qatar;Japan;78;38;0;0;0;3;FIFA World Cup qualification;Qatar;Lose;;;;;;;70.3;75.5
+19/11/2008;Saudi Arabia;South Korea;52;53;0;0;0;2;FIFA World Cup qualification;Saudi Arabia;Lose;;73.0;;;;69.5;70.7;71.5
+12/11/2008;Mexico;Ecuador;25;31;0;0;2;1;Friendly;USA;Win;82.0;74.0;79.2;78.0;79.2;69.0;76.3;70.8
+09/11/2008;Qatar;Iran;78;48;0;0;0;1;Friendly;Qatar;Lose;;;;;;;68.7;
+15/10/2008;Australia;Qatar;34;78;0;0;4;0;FIFA World Cup qualification;Australia;Win;77.0;;74.5;75.0;74.8;;;
+15/10/2008;Belgium;Spain;51;1;0;0;1;2;FIFA World Cup qualification;Belgium;Lose;73.0;91.0;77.0;73.0;76.8;83.8;86.0;86.0
+15/10/2008;Canada;Mexico;84;24;0;0;2;2;FIFA World Cup qualification;Canada;Draw;70.0;82.0;69.2;71.0;72.0;79.2;78.0;79.2
+15/10/2008;Germany;Wales;3;61;0;0;1;0;FIFA World Cup qualification;Germany;Win;85.0;77.0;83.2;83.3;82.5;72.2;73.7;76.2
+14/10/2008;France;Tunisia;11;47;0;0;3;1;Friendly;France;Win;87.0;;83.8;85.0;84.5;71.0;71.0;68.0
+11/10/2008;Argentina;Uruguay;7;20;0;0;2;1;FIFA World Cup qualification;Argentina;Win;82.0;75.0;85.2;86.0;85.5;78.5;80.0;75.8
+10/09/2008;Croatia;England;5;15;0;0;1;4;FIFA World Cup qualification;Croatia;Lose;77.0;82.0;77.2;81.7;79.8;85.0;83.3;86.0
+10/09/2008;France;Serbia;11;33;0;0;2;1;FIFA World Cup qualification;France;Win;87.0;78.0;83.8;85.0;84.5;79.8;78.0;78.8
+10/09/2008;Mexico;Canada;24;81;0;0;2;1;FIFA World Cup qualification;Mexico;Win;82.0;70.0;79.2;78.0;79.2;69.2;71.0;72.0
+10/09/2008;Portugal;Denmark;9;36;0;0;2;3;FIFA World Cup qualification;Portugal;Lose;80.0;75.0;82.8;86.0;81.2;78.2;76.3;77.8
+10/09/2008;Uruguay;Ecuador;22;52;0;0;0;0;FIFA World Cup qualification;Uruguay;Draw;75.0;74.0;78.5;80.0;75.8;69.0;76.3;70.8
+06/09/2008;Netherlands;Australia;4;39;0;0;1;2;Friendly;Netherlands;Lose;85.0;77.0;81.0;86.7;85.5;74.5;75.0;74.8
+06/09/2008;Saudi Arabia;Iran;48;46;0;0;1;1;FIFA World Cup qualification;Saudi Arabia;Draw;;;;;;;68.7;
+30/08/2008;Saudi Arabia;Qatar;52;71;0;0;2;1;Friendly;Saudi Arabia;Win;;;;;;;;
+20/08/2008;Denmark;Spain;36;1;0;0;0;3;Friendly;Denmark;Lose;76.0;89.0;80.8;81.3;78.2;85.0;87.3;86.8
+20/08/2008;Germany;Belgium;2;46;0;0;2;0;Friendly;Germany;Win;87.0;71.0;85.0;84.0;85.2;78.2;77.7;75.0
+20/08/2008;Japan;Uruguay;35;24;0;0;1;3;Friendly;Japan;Lose;;75.0;;71.7;77.5;77.0;84.0;74.8
+11/08/2008;Iran;Qatar;45;71;0;0;6;1;WAFF Championship;Iran;Win;;;;;;;;
+29/06/2008;Germany;Spain;5;4;0;0;0;1;UEFA Euro;Austria;Lose;87.0;89.0;85.0;84.0;85.2;85.0;87.3;86.8
+19/06/2008;Portugal;Germany;11;5;0;0;2;3;UEFA Euro;Switzerland;Lose;81.0;87.0;84.0;87.3;83.8;85.0;84.0;85.2
+18/06/2008;Brazil;Argentina;2;1;0;0;0;0;FIFA World Cup qualification;Brazil;Draw;84.0;83.0;87.8;85.7;89.5;85.0;86.3;85.2
+16/06/2008;Poland;Croatia;28;15;0;0;0;1;UEFA Euro;Austria;Lose;82.0;77.0;73.8;79.7;76.0;77.2;81.3;75.5
+15/06/2008;Argentina;Ecuador;1;59;0;0;1;1;FIFA World Cup qualification;Argentina;Draw;83.0;65.0;85.0;86.3;85.2;70.8;71.3;69.8
+15/06/2008;Switzerland;Portugal;44;11;0;0;2;0;UEFA Euro;Switzerland;Win;72.0;81.0;77.0;79.3;79.0;84.0;87.3;83.8
+14/06/2008;Qatar;Australia;83;35;0;0;1;3;FIFA World Cup qualification;Qatar;Lose;;77.0;;;;75.0;80.3;77.2
+13/06/2008;Netherlands;France;10;7;0;0;4;1;UEFA Euro;Switzerland;Win;87.0;85.0;80.8;88.0;82.8;84.5;87.7;86.2
+12/06/2008;Croatia;Germany;15;5;0;0;2;1;UEFA Euro;Austria;Win;77.0;87.0;77.2;81.3;75.5;85.0;84.0;85.2
+08/06/2008;Germany;Poland;5;28;0;0;2;0;UEFA Euro;Austria;Win;87.0;82.0;85.0;84.0;85.2;73.8;79.7;76.0
+08/06/2008;USA;Argentina;21;1;0;0;0;0;Friendly;USA;Draw;82.0;83.0;75.2;78.3;75.5;85.0;86.3;85.2
+04/06/2008;Mexico;Argentina;14;1;0;0;1;4;Friendly;USA;Lose;79.0;83.0;80.0;79.0;79.8;85.0;86.3;85.2
+04/06/2008;Spain;USA;4;21;0;0;1;0;Friendly;Spain;Win;89.0;82.0;85.0;87.3;86.8;75.2;78.3;75.5
+01/06/2008;Netherlands;Wales;10;52;0;0;2;0;Friendly;Netherlands;Win;87.0;68.0;80.8;88.0;82.8;74.2;76.3;79.5
+01/06/2008;Poland;Denmark;27;33;0;0;1;1;Friendly;Poland;Draw;82.0;76.0;73.8;79.7;76.0;80.8;81.3;78.2
+31/05/2008;Brazil;Canada;2;62;0;0;3;2;Friendly;USA;Win;84.0;72.0;87.8;85.7;89.5;71.0;69.7;75.0
+31/05/2008;Germany;Serbia;5;31;0;0;2;1;Friendly;Germany;Win;87.0;75.0;85.0;84.0;85.2;81.0;82.0;80.0
+29/05/2008;Netherlands;Denmark;10;33;0;0;1;1;Friendly;Netherlands;Draw;87.0;76.0;80.8;88.0;82.8;80.8;81.3;78.2
+28/05/2008;England;USA;11;21;0;0;2;0;Friendly;England;Win;81.0;82.0;87.5;86.7;86.2;75.2;78.3;75.5
+27/05/2008;France;Ecuador;7;55;0;0;2;0;Friendly;France;Win;85.0;65.0;84.5;87.7;86.2;70.8;71.3;69.8
+23/05/2008;Australia;Ghana;43;14;0;0;1;0;Friendly;Australia;Win;77.0;66.0;75.0;80.3;77.2;76.2;74.7;80.8
+26/03/2008;Belgium;Morocco;42;49;0;0;1;4;Friendly;Belgium;Lose;71.0;75.0;78.2;77.7;75.0;74.2;77.3;71.5
+26/03/2008;France;England;7;11;0;0;1;0;Friendly;France;Win;85.0;81.0;84.5;87.7;86.2;87.5;86.7;86.2
+26/03/2008;Ghana;Mexico;15;16;0;0;1;2;Friendly;England;Lose;66.0;79.0;76.2;74.7;80.8;80.0;79.0;79.8
+26/03/2008;Poland;USA;24;28;0;0;0;3;Friendly;Poland;Lose;82.0;82.0;73.8;79.7;76.0;75.2;78.3;75.5
+26/03/2008;Switzerland;Germany;40;5;0;0;0;4;Friendly;Switzerland;Lose;72.0;87.0;77.0;79.3;79.0;85.0;84.0;85.2
+23/02/2008;Japan;South Korea;35;41;0;0;1;1;EAFF Championship;China PR;Draw;;70.0;;71.7;77.5;69.0;73.3;71.8
+07/02/2008;Ghana;Cameroon;43;25;0;0;0;1;African Cup of Nations;Ghana;Lose;66.0;79.0;76.2;74.7;80.8;76.5;80.7;77.0
+06/02/2008;Australia;Qatar;48;88;0;0;3;0;FIFA World Cup qualification;Australia;Win;77.0;;75.0;80.3;77.2;;;
+06/02/2008;Croatia;Netherlands;10;9;0;0;0;3;Friendly;Croatia;Lose;77.0;87.0;77.2;81.3;75.5;80.8;88.0;82.8
+06/02/2008;England;Switzerland;12;44;0;0;2;1;Friendly;England;Win;81.0;72.0;87.5;86.7;86.2;77.0;79.3;79.0
+06/02/2008;Spain;France;4;7;0;0;1;0;Friendly;Spain;Win;89.0;85.0;85.0;87.3;86.8;84.5;87.7;86.2
+06/02/2008;USA;Mexico;20;15;0;0;2;2;Friendly;USA;Draw;82.0;79.0;75.2;78.3;75.5;80.0;79.0;79.8
+04/02/2008;Tunisia;Cameroon;46;25;0;0;2;3;African Cup of Nations;Ghana;Lose;;79.0;72.8;70.7;70.2;76.5;80.7;77.0
+30/01/2008;Iran;Costa Rica;41;69;0;0;0;0;Friendly;Iran;Draw;;;;;;66.0;72.0;60.8
+28/01/2008;Ghana;Morocco;43;39;0;0;2;0;African Cup of Nations;Ghana;Win;66.0;75.0;76.2;74.7;80.8;74.2;77.3;71.5
+23/01/2008;Tunisia;Senegal;46;40;0;0;2;2;African Cup of Nations;Ghana;Draw;;63.0;72.8;70.7;70.2;76.8;81.3;74.8
+10/01/2008;Qatar;Iran;87;41;0;0;0;0;Friendly;Qatar;Draw;;;;;;;;
+21/11/2007;Brazil;Uruguay;2;17;0;0;2;1;FIFA World Cup qualification;Brazil;Win;84.0;75.0;87.8;85.7;89.5;77.0;84.0;74.8
+21/11/2007;England;Croatia;11;10;0;0;2;3;UEFA Euro qualification;England;Lose;81.0;77.0;87.5;86.7;86.2;77.2;81.3;75.5
+21/11/2007;Germany;Wales;5;58;0;0;0;0;UEFA Euro qualification;Germany;Draw;87.0;68.0;85.0;84.0;85.2;74.2;76.3;79.5
+21/11/2007;Morocco;Senegal;42;34;0;0;3;0;Friendly;France;Win;75.0;63.0;74.2;77.3;71.5;76.8;81.3;74.8
+21/11/2007;Serbia;Poland;27;20;0;0;2;2;UEFA Euro qualification;Serbia;Draw;75.0;82.0;81.0;82.0;80.0;73.8;79.7;76.0
+17/11/2007;Poland;Belgium;20;54;0;0;2;0;UEFA Euro qualification;Poland;Win;82.0;71.0;73.8;79.7;76.0;78.2;77.7;75.0
+16/11/2007;France;Morocco;4;42;0;0;2;2;Friendly;France;Draw;85.0;75.0;84.5;87.7;86.2;74.2;77.3;71.5
+17/10/2007;Brazil;Ecuador;3;57;0;0;5;0;FIFA World Cup qualification;Brazil;Win;84.0;65.0;87.8;85.7;89.5;70.8;71.3;69.8
+17/10/2007;Switzerland;USA;42;18;0;0;0;1;Friendly;Switzerland;Lose;72.0;82.0;77.0;79.3;79.0;75.2;78.3;75.5
+13/10/2007;Denmark;Spain;28;7;0;0;1;3;UEFA Euro qualification;Denmark;Lose;76.0;89.0;80.8;81.3;78.2;85.0;87.3;86.8
+12/09/2007;Canada;Costa Rica;53;52;0;0;1;1;Friendly;Canada;Draw;72.0;;71.0;69.7;75.0;66.0;72.0;60.8
+12/09/2007;Mexico;Brazil;11;1;0;0;1;3;Friendly;USA;Lose;79.0;84.0;80.0;79.0;79.8;87.8;85.7;89.5
+12/09/2007;Portugal;Serbia;10;18;0;0;1;1;UEFA Euro qualification;Portugal;Draw;81.0;75.0;84.0;87.3;83.8;81.0;82.0;80.0
+11/09/2007;Australia;Argentina;49;2;0;0;0;1;Friendly;Australia;Lose;77.0;83.0;75.0;80.3;77.2;85.0;86.3;85.2
+11/09/2007;Saudi Arabia;Ghana;51;43;0;0;5;0;Friendly;Saudi Arabia;Win;;66.0;;;;76.2;74.7;80.8
+11/09/2007;Switzerland;Japan;45;41;0;0;3;4;Friendly;Austria;Lose;72.0;;77.0;79.3;79.0;;71.7;77.5
+09/09/2007;USA;Brazil;17;1;0;0;2;4;Friendly;USA;Lose;82.0;84.0;75.2;78.3;75.5;87.8;85.7;89.5
+08/09/2007;Morocco;Ghana;34;43;0;0;0;2;Friendly;France;Lose;75.0;66.0;74.2;77.3;71.5;76.2;74.7;80.8
+08/09/2007;Portugal;Poland;10;20;0;0;2;2;UEFA Euro qualification;Portugal;Draw;81.0;82.0;84.0;87.3;83.8;73.8;79.7;76.0
+08/09/2007;Wales;Germany;74;5;0;0;0;2;UEFA Euro qualification;Wales;Lose;68.0;87.0;74.2;76.3;79.5;85.0;84.0;85.2
+22/08/2007;Belgium;Serbia;69;18;0;0;3;2;UEFA Euro qualification;Belgium;Win;74.0;78.0;80.2;77.0;75.5;80.5;84.3;77.8
+22/08/2007;England;Germany;12;5;0;0;1;2;Friendly;England;Lose;86.0;88.0;87.0;87.3;88.0;85.5;85.3;86.0
+22/08/2007;Japan;Cameroon;41;16;0;0;2;0;Friendly;Japan;Win;;81.0;;68.3;72.8;79.0;82.0;76.8
+22/08/2007;Switzerland;Netherlands;45;7;0;0;2;1;Friendly;Switzerland;Win;73.0;87.0;79.5;79.3;77.0;82.8;86.3;86.2
+21/08/2007;Ghana;Senegal;37;44;0;0;1;1;Friendly;England;Draw;66.0;78.0;76.5;75.7;79.2;77.0;79.3;77.0
+28/07/2007;South Korea;Japan;58;36;0;0;0;0;AFC Asian Cup;Indonesia;Win;76.0;;78.8;80.3;79.0;;68.3;72.8
+25/07/2007;Japan;Saudi Arabia;36;61;0;0;2;3;AFC Asian Cup;Vietnam;Lose;;;;68.3;72.8;;;
+22/07/2007;Iran;South Korea;46;58;0;0;0;0;AFC Asian Cup;Malaysia;Lose;;76.0;;;70.0;78.8;80.3;79.0
+21/07/2007;Japan;Australia;36;49;0;0;1;1;AFC Asian Cup;Vietnam;Win;;72.0;;68.3;72.8;78.2;81.3;75.2
+15/07/2007;Brazil;Argentina;3;5;0;0;3;0;Copa América;Venezuela;Win;88.0;84.0;88.0;89.3;87.5;85.5;86.7;85.2
+14/07/2007;Mexico;Uruguay;26;30;0;0;3;1;Copa América;Venezuela;Win;81.0;77.0;80.8;78.7;79.2;75.8;82.0;80.0
+11/07/2007;South Korea;Saudi Arabia;51;62;0;0;1;1;AFC Asian Cup;Indonesia;Draw;76.0;;78.8;80.3;79.0;;;
+11/07/2007;Mexico;Argentina;26;5;0;0;0;3;Copa América;Venezuela;Lose;81.0;84.0;80.8;78.7;79.2;85.5;86.7;85.2
+10/07/2007;Uruguay;Brazil;30;3;0;0;2;2;Copa América;Venezuela;Lose;77.0;88.0;75.8;82.0;80.0;88.0;89.3;87.5
+09/07/2007;Japan;Qatar;40;85;0;0;1;1;AFC Asian Cup;Vietnam;Draw;;;;68.3;72.8;;;
+04/07/2007;Brazil;Ecuador;3;44;0;0;1;0;Copa América;Venezuela;Win;88.0;65.0;88.0;89.3;87.5;71.0;74.7;71.8
+01/07/2007;Mexico;Ecuador;26;44;0;0;2;1;Copa América;Venezuela;Win;81.0;65.0;80.8;78.7;79.2;71.0;74.7;71.8
+28/06/2007;Argentina;USA;5;16;0;0;4;1;Copa América;Venezuela;Win;84.0;83.0;85.5;86.7;85.2;75.0;75.7;76.0
+27/06/2007;Brazil;Mexico;3;26;0;0;0;2;Copa América;Venezuela;Lose;88.0;81.0;88.0;89.3;87.5;80.8;78.7;79.2
+24/06/2007;USA;Mexico;16;26;0;0;2;1;Gold Cup;USA;Win;83.0;81.0;75.0;75.7;76.0;80.8;78.7;79.2
+21/06/2007;USA;Canada;16;56;0;0;2;1;Gold Cup;USA;Win;83.0;72.0;75.0;75.7;76.0;70.5;72.3;72.0
+17/06/2007;Mexico;Costa Rica;26;46;0;0;1;0;Gold Cup;USA;Win;81.0;;80.8;78.7;79.2;;60.7;
+06/06/2007;Costa Rica;Canada;52;94;0;0;1;2;Gold Cup;USA;Lose;;72.0;;60.7;;70.5;72.3;72.0
+02/06/2007;Australia;Uruguay;42;23;0;0;1;2;Friendly;Australia;Lose;72.0;77.0;78.2;81.3;75.2;75.8;82.0;80.0
+02/06/2007;Belgium;Portugal;62;7;0;0;1;2;UEFA Euro qualification;Belgium;Lose;74.0;81.0;80.2;77.0;75.5;83.8;86.3;84.2
+02/06/2007;South Korea;Netherlands;51;6;0;0;0;2;Friendly;South Korea;Lose;76.0;87.0;78.8;80.3;79.0;82.8;86.3;86.2
+02/06/2007;Mexico;Iran;20;41;0;0;4;0;Friendly;Mexico;Win;81.0;;80.8;78.7;79.2;;;70.0
+02/06/2007;Switzerland;Argentina;21;3;0;0;1;1;Friendly;Switzerland;Draw;73.0;84.0;79.5;79.3;77.0;85.5;86.7;85.2
+01/06/2007;England;Brazil;8;2;0;0;1;1;Friendly;England;Draw;86.0;88.0;87.0;87.3;88.0;88.0;89.3;87.5
+28/03/2007;Germany;Denmark;5;22;0;0;0;1;Friendly;Germany;Lose;88.0;78.0;85.5;85.3;86.0;79.2;80.0;81.8
+28/03/2007;Mexico;Ecuador;21;24;0;0;4;2;Friendly;USA;Win;81.0;65.0;80.8;78.7;79.2;71.0;74.7;71.8
+28/03/2007;Serbia;Portugal;28;8;0;0;1;1;UEFA Euro qualification;Serbia;Draw;78.0;81.0;80.5;84.3;77.8;83.8;86.3;84.2
+27/03/2007;Brazil;Ghana;3;19;0;0;1;0;Friendly;Sweden;Win;88.0;66.0;88.0;89.3;87.5;76.5;75.7;79.2
+25/03/2007;USA;Ecuador;30;24;0;0;3;1;Friendly;USA;Win;83.0;65.0;75.0;75.7;76.0;71.0;74.7;71.8
+24/03/2007;South Korea;Uruguay;48;26;0;0;0;2;Friendly;South Korea;Lose;76.0;77.0;78.8;80.3;79.0;75.8;82.0;80.0
+24/03/2007;Portugal;Belgium;8;55;0;0;4;0;UEFA Euro qualification;Portugal;Win;81.0;74.0;83.8;86.3;84.2;80.2;77.0;75.5
+24/03/2007;Qatar;Iran;80;34;0;0;0;1;Friendly;Qatar;Lose;;;;;;;;70.0
+24/03/2007;Spain;Denmark;10;22;0;0;2;1;UEFA Euro qualification;Spain;Win;89.0;78.0;85.2;87.3;86.2;79.2;80.0;81.8
+07/02/2007;England;Spain;6;12;0;0;0;1;Friendly;England;Lose;86.0;89.0;87.0;87.3;88.0;85.2;87.3;86.2
+07/02/2007;France;Argentina;4;3;0;0;0;1;Friendly;France;Lose;92.0;84.0;86.0;88.3;85.2;85.5;86.7;85.2
+07/02/2007;Germany;Switzerland;5;17;0;0;3;1;Friendly;Germany;Win;88.0;73.0;85.5;85.3;86.0;79.5;79.3;77.0
+07/02/2007;Morocco;Tunisia;42;32;0;0;1;1;Friendly;Morocco;Draw;76.0;69.0;74.0;77.7;72.2;73.8;72.3;69.5
+07/02/2007;USA;Mexico;31;21;0;0;2;0;Friendly;USA;Win;83.0;81.0;75.0;75.7;76.0;80.8;78.7;79.2
+06/02/2007;Australia;Denmark;39;23;0;0;1;3;Friendly;England;Lose;72.0;78.0;78.2;81.3;75.2;79.2;80.0;81.8
+06/02/2007;Portugal;Brazil;8;1;0;0;2;0;Friendly;England;Win;81.0;88.0;83.8;86.3;84.2;88.0;89.3;87.5
+21/01/2007;Saudi Arabia;Qatar;64;59;0;0;1;1;Gulf Cup;United Arab Emirates;Draw;;;;;;;;
+15/11/2006;Belgium;Poland;47;27;0;0;0;1;UEFA Euro qualification;Belgium;Lose;74.0;82.0;80.2;77.0;75.5;75.2;77.7;75.0
+15/11/2006;Iran;South Korea;43;48;0;0;2;0;AFC Asian Cup qualification;Iran;Win;;76.0;;;70.0;78.8;80.3;79.0
+15/11/2006;Japan;Saudi Arabia;46;62;0;0;3;1;AFC Asian Cup qualification;Japan;Win;;;;68.3;72.8;;;
+15/11/2006;Netherlands;England;7;5;0;0;1;1;Friendly;Netherlands;Draw;87.0;86.0;82.8;86.3;86.2;87.0;87.3;88.0
+15/11/2006;Switzerland;Brazil;15;1;0;0;1;2;Friendly;Switzerland;Lose;73.0;88.0;79.5;79.3;77.0;88.0;89.3;87.5
+14/11/2006;Australia;Ghana;37;24;0;0;1;1;Friendly;England;Draw;72.0;66.0;78.2;81.3;75.2;76.5;75.7;79.2
+11/10/2006;Croatia;England;24;4;0;0;2;0;UEFA Euro qualification;Croatia;Win;77.0;86.0;79.5;83.3;76.8;87.0;87.3;88.0
+11/10/2006;Poland;Portugal;35;9;0;0;2;1;UEFA Euro qualification;Poland;Win;82.0;81.0;75.2;77.7;75.0;83.8;86.3;84.2
+11/10/2006;Spain;Argentina;10;3;0;0;2;1;Friendly;Spain;Win;89.0;84.0;85.2;87.3;86.2;85.5;86.7;85.2
+10/10/2006;Brazil;Ecuador;1;30;0;0;2;1;Friendly;Sweden;Win;88.0;65.0;88.0;89.3;87.5;71.0;74.7;71.8
+08/10/2006;South Korea;Ghana;49;23;0;0;1;3;Friendly;South Korea;Lose;76.0;66.0;78.8;80.3;79.0;76.5;75.7;79.2
+07/10/2006;Serbia;Belgium;32;50;0;0;1;0;UEFA Euro qualification;Serbia;Win;78.0;74.0;80.5;84.3;77.8;80.2;77.0;75.5
+04/10/2006;Japan;Ghana;47;23;0;0;0;1;Friendly;Japan;Lose;;66.0;;68.3;72.8;76.5;75.7;79.2
+06/09/2006;Poland;Serbia;30;33;0;0;1;1;UEFA Euro qualification;Poland;Draw;82.0;78.0;75.2;77.7;75.0;80.5;84.3;77.8
+06/09/2006;Switzerland;Costa Rica;13;47;0;0;2;0;Friendly;Switzerland;Win;73.0;;79.5;79.3;77.0;;60.7;
+05/09/2006;Wales;Brazil;56;1;0;0;0;2;Friendly;England;Lose;73.0;88.0;74.2;76.7;79.5;88.0;89.3;87.5
+03/09/2006;Argentina;Brazil;3;1;0;0;0;3;Friendly;England;Lose;84.0;88.0;85.5;86.7;85.2;88.0;89.3;87.5
+03/09/2006;Saudi Arabia;Japan;75;48;0;0;1;0;AFC Asian Cup qualification;Saudi Arabia;Win;;;;;;;68.3;72.8
+02/09/2006;South Korea;Iran;52;45;0;0;1;1;AFC Asian Cup qualification;South Korea;Draw;76.0;;78.8;80.3;79.0;;;70.0
+01/09/2006;Denmark;Portugal;17;8;0;0;4;2;Friendly;Denmark;Win;78.0;81.0;79.2;80.0;81.8;83.8;86.3;84.2
+16/08/2006;Denmark;Poland;17;30;0;0;2;0;Friendly;Denmark;Win;81.0;88.0;79.0;81.7;80.5;78.2;82.0;76.2
+08/07/2006;Germany;Portugal;19;7;0;0;3;1;FIFA World Cup;Germany;Win;93.0;83.0;86.2;85.0;86.0;85.5;81.0;89.0
+05/07/2006;Portugal;France;7;8;0;0;0;1;FIFA World Cup;Germany;Lose;83.0;90.0;85.5;81.0;89.0;87.5;91.0;89.0
+01/07/2006;Brazil;France;1;8;0;0;0;1;FIFA World Cup;Germany;Lose;91.0;90.0;88.0;92.7;92.0;87.5;91.0;89.0
+01/07/2006;England;Portugal;10;7;0;0;0;0;FIFA World Cup;Germany;Lose;87.0;83.0;89.5;90.0;88.2;85.5;81.0;89.0
+30/06/2006;Germany;Argentina;19;9;0;0;1;1;FIFA World Cup;Germany;Win;93.0;87.0;86.2;85.0;86.0;86.5;86.0;87.0
+27/06/2006;Brazil;Ghana;1;48;0;0;3;0;FIFA World Cup;Germany;Win;91.0;;88.0;92.7;92.0;75.5;73.3;77.0
+27/06/2006;Spain;France;5;8;0;0;1;3;FIFA World Cup;Germany;Lose;95.0;90.0;87.5;88.7;89.2;87.5;91.0;89.0
+25/06/2006;England;Ecuador;10;39;0;0;1;0;FIFA World Cup;Germany;Win;87.0;;89.5;90.0;88.2;;;
+25/06/2006;Portugal;Netherlands;7;3;0;0;1;0;FIFA World Cup;Germany;Win;83.0;86.0;85.5;81.0;89.0;84.0;91.0;85.2
+24/06/2006;Argentina;Mexico;9;4;0;0;2;1;FIFA World Cup;Germany;Win;87.0;83.0;86.5;86.0;87.0;77.0;80.3;75.2
+23/06/2006;Saudi Arabia;Spain;34;5;0;0;0;1;FIFA World Cup;Germany;Lose;;95.0;;;;87.5;88.7;89.2
+23/06/2006;Switzerland;South Korea;35;29;0;0;2;0;FIFA World Cup;Germany;Win;75.0;76.0;78.8;77.7;77.0;76.0;79.3;75.0
+22/06/2006;Croatia;Australia;23;42;0;0;2;2;FIFA World Cup;Germany;Draw;77.0;83.0;82.5;82.0;77.5;72.8;76.3;78.8
+22/06/2006;Ghana;USA;48;5;0;0;2;1;FIFA World Cup;Germany;Win;;84.0;75.5;73.3;77.0;77.2;76.7;78.5
+22/06/2006;Japan;Brazil;18;1;0;0;1;4;FIFA World Cup;Germany;Lose;;91.0;;70.3;74.8;88.0;92.7;92.0
+21/06/2006;Netherlands;Argentina;3;9;0;0;0;0;FIFA World Cup;Germany;Draw;86.0;87.0;84.0;91.0;85.2;86.5;86.0;87.0
+21/06/2006;Portugal;Mexico;7;4;0;0;2;1;FIFA World Cup;Germany;Win;83.0;83.0;85.5;81.0;89.0;77.0;80.3;75.2
+20/06/2006;Costa Rica;Poland;26;29;0;0;1;2;FIFA World Cup;Germany;Lose;72.0;88.0;69.5;70.0;68.8;78.2;82.0;76.2
+20/06/2006;Germany;Ecuador;19;39;0;0;3;0;FIFA World Cup;Germany;Win;93.0;;86.2;85.0;86.0;;;
+19/06/2006;Spain;Tunisia;5;21;0;0;3;1;FIFA World Cup;Germany;Win;95.0;67.0;87.5;88.7;89.2;71.5;70.7;73.0
+18/06/2006;Brazil;Australia;1;42;0;0;2;0;FIFA World Cup;Germany;Win;91.0;83.0;88.0;92.7;92.0;72.8;76.3;78.8
+18/06/2006;France;South Korea;8;29;0;0;1;1;FIFA World Cup;Germany;Draw;90.0;76.0;87.5;91.0;89.0;76.0;79.3;75.0
+18/06/2006;Japan;Croatia;18;23;0;0;0;0;FIFA World Cup;Germany;Draw;;77.0;;70.3;74.8;82.5;82.0;77.5
+17/06/2006;Portugal;Iran;7;23;0;0;2;0;FIFA World Cup;Germany;Win;83.0;;85.5;81.0;89.0;;71.3;73.8
+16/06/2006;Argentina;Serbia;9;47;0;0;6;0;FIFA World Cup;Germany;Win;87.0;75.0;86.5;86.0;87.0;78.5;82.3;81.5
+15/06/2006;Ecuador;Costa Rica;39;26;0;0;3;0;FIFA World Cup;Germany;Win;;72.0;;;;69.5;70.0;68.8
+14/06/2006;Germany;Poland;19;29;0;0;1;0;FIFA World Cup;Germany;Win;93.0;88.0;86.2;85.0;86.0;78.2;82.0;76.2
+14/06/2006;Tunisia;Saudi Arabia;21;34;0;0;2;2;FIFA World Cup;Germany;Draw;67.0;;71.5;70.7;73.0;;;
+13/06/2006;Brazil;Croatia;1;23;0;0;1;0;FIFA World Cup;Germany;Win;91.0;77.0;88.0;92.7;92.0;82.5;82.0;77.5
+13/06/2006;France;Switzerland;8;35;0;0;0;0;FIFA World Cup;Germany;Draw;90.0;75.0;87.5;91.0;89.0;78.8;77.7;77.0
+12/06/2006;Australia;Japan;42;18;0;0;3;1;FIFA World Cup;Germany;Win;83.0;;72.8;76.3;78.8;;70.3;74.8
+11/06/2006;Mexico;Iran;4;23;0;0;3;1;FIFA World Cup;Germany;Win;83.0;;77.0;80.3;75.2;;71.3;73.8
+11/06/2006;Serbia;Netherlands;47;3;0;0;0;1;FIFA World Cup;Germany;Lose;75.0;86.0;78.5;82.3;81.5;84.0;91.0;85.2
+09/06/2006;Germany;Costa Rica;19;26;0;0;4;2;FIFA World Cup;Germany;Win;93.0;72.0;86.2;85.0;86.0;69.5;70.0;68.8
+09/06/2006;Poland;Ecuador;29;39;0;0;0;2;FIFA World Cup;Germany;Lose;88.0;;78.2;82.0;76.2;;;
+07/06/2006;Spain;Croatia;5;23;0;0;2;1;Friendly;Switzerland;Win;95.0;77.0;87.5;88.7;89.2;82.5;82.0;77.5
+04/06/2006;Ghana;South Korea;48;29;0;0;3;1;Friendly;Scotland;Win;;76.0;75.5;73.3;77.0;76.0;79.3;75.0
+04/06/2006;Netherlands;Australia;3;42;0;0;1;1;Friendly;Netherlands;Draw;86.0;83.0;84.0;91.0;85.2;72.8;76.3;78.8
+03/06/2006;Croatia;Poland;23;29;0;0;0;1;Friendly;Germany;Lose;77.0;88.0;82.5;82.0;77.5;78.2;82.0;76.2
+02/06/2006;Tunisia;Uruguay;21;22;0;0;0;0;Friendly;Tunisia;Draw;67.0;82.0;71.5;70.7;73.0;79.0;83.7;80.0
+01/06/2006;Netherlands;Mexico;3;4;0;0;2;1;Friendly;Netherlands;Win;86.0;83.0;84.0;91.0;85.2;77.0;80.3;75.2
+31/05/2006;France;Denmark;8;11;0;0;2;0;Friendly;France;Win;90.0;81.0;87.5;91.0;89.0;79.0;81.7;80.5
+30/05/2006;Germany;Japan;19;18;0;0;2;2;Friendly;Germany;Draw;93.0;;86.2;85.0;86.0;;70.3;74.8
+28/05/2006;Croatia;Iran;23;23;0;0;2;2;Friendly;Croatia;Draw;77.0;;82.5;82.0;77.5;;71.3;73.8
+27/05/2006;France;Mexico;8;4;0;0;1;0;Friendly;France;Win;90.0;83.0;87.5;91.0;89.0;77.0;80.3;75.2
+27/05/2006;Netherlands;Cameroon;3;15;0;0;1;0;Friendly;Netherlands;Win;86.0;84.0;84.0;91.0;85.2;80.0;83.3;76.2
+27/05/2006;Serbia;Uruguay;47;22;0;0;1;1;Friendly;Serbia and Montenegro;Draw;75.0;82.0;78.5;82.3;81.5;79.0;83.7;80.0
+23/05/2006;South Korea;Senegal;29;28;0;0;1;1;Friendly;South Korea;Draw;76.0;75.0;76.0;79.3;75.0;76.5;79.0;76.2
+23/05/2006;USA;Morocco;5;36;0;0;0;1;Friendly;USA;Lose;84.0;63.0;77.2;76.7;78.5;73.5;76.0;71.5
+11/05/2006;Belgium;Saudi Arabia;56;34;0;0;2;1;Friendly;Netherlands;Win;74.0;;81.2;79.7;76.2;;;
+30/03/2006;Japan;Ecuador;18;38;0;0;1;0;Friendly;Japan;Win;;;;70.3;74.8;;;
+28/03/2006;Saudi Arabia;Poland;34;26;0;0;1;2;Friendly;Saudi Arabia;Lose;;88.0;;;;78.2;82.0;76.2
+22/03/2006;Germany;USA;22;5;0;0;4;1;Friendly;Germany;Win;93.0;84.0;86.2;85.0;86.0;77.2;76.7;78.5
+01/03/2006;Argentina;Croatia;4;23;0;0;2;3;Friendly;Switzerland;Lose;87.0;77.0;86.5;86.0;87.0;82.5;82.0;77.5
+01/03/2006;England;Uruguay;9;21;0;0;2;1;Friendly;England;Win;87.0;82.0;89.5;90.0;88.2;79.0;83.7;80.0
+01/03/2006;Iran;Costa Rica;22;25;0;0;3;2;Friendly;Iran;Win;;72.0;;71.3;73.8;69.5;70.0;68.8
+01/03/2006;Mexico;Ghana;6;48;0;0;1;0;Friendly;USA;Win;83.0;;77.0;80.3;75.2;75.5;73.3;77.0
+01/03/2006;Netherlands;Ecuador;3;38;0;0;1;0;Friendly;Netherlands;Win;86.0;;84.0;91.0;85.2;;;
+01/03/2006;Poland;USA;26;6;0;0;0;1;Friendly;Germany;Lose;88.0;84.0;78.2;82.0;76.2;77.2;76.7;78.5
+01/03/2006;Saudi Arabia;Portugal;35;10;0;0;0;3;Friendly;Germany;Lose;;83.0;;;;85.5;81.0;89.0
+01/03/2006;Tunisia;Serbia;23;47;0;0;0;1;Friendly;Tunisia;Lose;67.0;75.0;71.5;70.7;73.0;78.5;82.3;81.5
+15/02/2006;Mexico;South Korea;6;31;0;0;0;1;Friendly;USA;Lose;83.0;76.0;77.0;80.3;75.2;76.0;79.3;75.0
+11/02/2006;Costa Rica;South Korea;21;29;0;0;1;0;Friendly;USA;Win;72.0;76.0;69.5;70.0;68.8;76.0;79.3;75.0
+10/02/2006;USA;Japan;7;15;0;0;3;2;Friendly;USA;Win;84.0;;77.2;76.7;78.5;;70.3;74.8
+29/01/2006;South Korea;Croatia;29;20;0;0;2;0;Lunar New Year Cup;Hong Kong;Win;76.0;77.0;76.0;79.3;75.0;82.5;82.0;77.5
+27/01/2006;Ghana;Senegal;50;30;0;0;1;0;African Cup of Nations;Egypt;Win;;75.0;75.5;73.3;77.0;76.5;79.0;76.2
+22/01/2006;USA;Canada;7;84;0;0;0;0;Friendly;USA;Draw;84.0;73.0;77.2;76.7;78.5;68.8;72.7;70.0
+15/01/2006;Tunisia;Ghana;28;50;0;0;2;0;Friendly;Tunisia;Win;67.0;;71.5;70.7;73.0;75.5;73.3;77.0
+27/12/2005;Ecuador;Senegal;37;30;0;0;1;2;Friendly;Egypt;Lose;;75.0;;;;76.5;79.0;76.2
+16/11/2005;Australia;Uruguay;54;17;0;0;1;0;FIFA World Cup qualification;Australia;Win;83.0;82.0;72.8;76.3;78.8;79.0;83.7;80.0
+16/11/2005;Qatar;Argentina;77;4;0;0;0;3;Friendly;Qatar;Lose;;87.0;;;;86.5;86.0;87.0
+15/11/2005;Morocco;Cameroon;35;23;0;0;0;0;Friendly;France;Draw;63.0;84.0;73.5;76.0;71.5;80.0;83.3;76.2
+14/11/2005;Saudi Arabia;Ghana;31;51;0;0;1;3;Friendly;Saudi Arabia;Lose;;;;;;75.5;73.3;77.0
+13/11/2005;Ecuador;Poland;36;23;0;0;0;3;Friendly;Spain;Lose;;88.0;;;;78.2;82.0;76.2
+12/11/2005;England;Argentina;9;4;0;0;3;2;Friendly;Switzerland;Win;87.0;87.0;89.5;90.0;88.2;86.5;86.0;87.0
+12/11/2005;France;Germany;5;15;0;0;0;0;Friendly;France;Draw;90.0;93.0;87.5;91.0;89.0;86.2;85.0;86.0
+12/11/2005;Portugal;Croatia;9;19;0;0;2;0;Friendly;Portugal;Win;83.0;77.0;85.5;81.0;89.0;82.5;82.0;77.5
+12/11/2005;Uruguay;Australia;17;54;0;0;1;0;FIFA World Cup qualification;Uruguay;Win;82.0;83.0;79.0;83.7;80.0;72.8;76.3;78.8
+09/11/2005;France;Costa Rica;5;20;0;0;3;2;Friendly;Martinique;Win;90.0;72.0;87.5;91.0;89.0;69.5;70.0;68.8
+26/10/2005;Mexico;Uruguay;6;17;0;0;3;1;Friendly;Mexico;Win;83.0;82.0;77.0;80.3;75.2;79.0;83.7;80.0
+12/10/2005;England;Poland;11;17;0;0;2;1;FIFA World Cup qualification;England;Win;87.0;88.0;89.5;90.0;88.2;78.2;82.0;76.2
+12/10/2005;South Korea;Iran;26;18;0;0;2;0;Friendly;South Korea;Win;76.0;;76.0;79.3;75.0;;71.3;73.8
+12/10/2005;Uruguay;Argentina;25;3;0;0;1;0;FIFA World Cup qualification;Uruguay;Win;82.0;87.0;79.0;83.7;80.0;86.5;86.0;87.0
+08/10/2005;Belgium;Spain;47;8;0;0;0;2;FIFA World Cup qualification;Belgium;Lose;74.0;95.0;81.2;79.7;76.2;87.5;88.7;89.2
+08/10/2005;Costa Rica;USA;19;7;0;0;3;0;FIFA World Cup qualification;Costa Rica;Win;72.0;84.0;69.5;70.0;68.8;77.2;76.7;78.5
+08/10/2005;Ecuador;Uruguay;33;25;0;0;0;0;FIFA World Cup qualification;Ecuador;Draw;;82.0;;;;79.0;83.7;80.0
+08/10/2005;Switzerland;France;38;6;0;0;1;1;FIFA World Cup qualification;Switzerland;Draw;75.0;90.0;78.8;77.7;77.0;87.5;91.0;89.0
+08/10/2005;Tunisia;Morocco;23;36;0;0;2;2;FIFA World Cup qualification;Tunisia;Draw;67.0;63.0;71.5;70.7;73.0;73.5;76.0;71.5
+07/09/2005;Poland;Wales;22;83;0;0;1;0;FIFA World Cup qualification;Poland;Win;88.0;74.0;78.2;82.0;76.2;72.8;77.7;77.2
+03/09/2005;Spain;Canada;8;84;0;0;2;1;Friendly;Spain;Win;95.0;73.0;87.5;88.7;89.2;68.8;72.7;70.0
+03/09/2005;USA;Mexico;6;5;0;0;2;0;FIFA World Cup qualification;USA;Win;84.0;83.0;77.2;76.7;78.5;77.0;80.3;75.2
+03/09/2005;Wales;England;83;7;0;0;0;1;FIFA World Cup qualification;Wales;Lose;74.0;87.0;72.8;77.7;77.2;89.5;90.0;88.2
+17/08/2005;Croatia;Brazil;20;1;0;0;1;1;Friendly;Croatia;Draw;77.0;93.0;80.5;78.7;79.0;89.0;92.3;89.8
+17/08/2005;Denmark;England;18;7;0;0;4;1;Friendly;Denmark;Win;82.0;88.0;79.5;85.0;81.5;90.5;88.7;91.2
+17/08/2005;Japan;Iran;17;15;0;0;2;1;FIFA World Cup qualification;Japan;Win;59.0;;;;75.8;;;
+17/08/2005;South Korea;Saudi Arabia;23;27;0;0;0;1;FIFA World Cup qualification;South Korea;Lose;76.0;;75.8;76.7;72.8;;;
+17/08/2005;Mexico;Costa Rica;5;21;0;0;2;0;FIFA World Cup qualification;Mexico;Win;78.0;72.0;76.0;71.7;76.2;69.5;72.7;70.5
+17/08/2005;Netherlands;Germany;3;11;0;0;2;2;Friendly;Netherlands;Draw;93.0;94.0;85.0;93.0;87.0;87.5;82.7;87.5
+17/08/2005;Senegal;Ghana;40;70;0;0;0;0;Friendly;England;Draw;75.0;;71.8;76.3;74.5;77.2;72.7;75.2
+17/08/2005;Spain;Uruguay;8;25;0;0;2;0;Friendly;Spain;Win;94.0;74.0;86.5;89.3;89.5;75.5;83.0;78.8
+07/08/2005;South Korea;Japan;21;13;0;0;0;1;EAFF Championship;South Korea;Lose;76.0;59.0;75.8;76.7;72.8;;;75.8
+12/07/2005;USA;Costa Rica;10;24;0;0;0;0;Gold Cup;USA;Draw;89.0;72.0;78.2;80.0;82.0;69.5;72.7;70.5
+09/07/2005;USA;Canada;10;85;0;0;2;0;Gold Cup;USA;Win;89.0;82.0;78.2;80.0;82.0;71.8;73.7;68.8
+07/07/2005;Canada;Costa Rica;85;24;0;0;0;1;Gold Cup;USA;Lose;82.0;72.0;71.8;73.7;68.8;69.5;72.7;70.5
+29/06/2005;Brazil;Argentina;1;3;0;0;4;1;Confederations Cup;Germany;Win;93.0;78.0;89.0;92.3;89.8;87.0;87.0;88.5
+29/06/2005;Germany;Mexico;21;6;0;0;4;3;Confederations Cup;Germany;Win;94.0;78.0;87.5;82.7;87.5;76.0;71.7;76.2
+26/06/2005;Mexico;Argentina;6;3;0;0;1;1;Confederations Cup;Germany;Lose;78.0;78.0;76.0;71.7;76.2;87.0;87.0;88.5
+25/06/2005;Germany;Brazil;21;1;0;0;2;3;Confederations Cup;Germany;Lose;94.0;93.0;87.5;82.7;87.5;89.0;92.3;89.8
+22/06/2005;Japan;Brazil;18;1;0;0;2;2;Confederations Cup;Germany;Draw;59.0;93.0;;;75.8;89.0;92.3;89.8
+21/06/2005;Australia;Tunisia;57;38;0;0;0;2;Confederations Cup;Germany;Lose;83.0;51.0;74.2;80.3;76.5;67.5;71.0;72.5
+21/06/2005;Germany;Argentina;21;3;0;0;2;2;Confederations Cup;Germany;Draw;94.0;78.0;87.5;82.7;87.5;87.0;87.0;88.5
+19/06/2005;Mexico;Brazil;6;1;0;0;1;0;Confederations Cup;Germany;Win;78.0;93.0;76.0;71.7;76.2;89.0;92.3;89.8
+18/06/2005;Australia;Argentina;57;3;0;0;2;4;Confederations Cup;Germany;Lose;83.0;78.0;74.2;80.3;76.5;87.0;87.0;88.5
+18/06/2005;Germany;Tunisia;21;38;0;0;3;0;Confederations Cup;Germany;Win;94.0;51.0;87.5;82.7;87.5;67.5;71.0;72.5
+16/06/2005;Japan;Mexico;18;6;0;0;1;2;Confederations Cup;Germany;Lose;59.0;78.0;;;75.8;76.0;71.7;76.2
+15/06/2005;Argentina;Tunisia;3;38;0;0;2;1;Confederations Cup;Germany;Win;78.0;51.0;87.0;87.0;88.5;67.5;71.0;72.5
+15/06/2005;Germany;Australia;21;57;0;0;4;3;Confederations Cup;Germany;Win;94.0;83.0;87.5;82.7;87.5;74.2;80.3;76.5
+08/06/2005;Argentina;Brazil;3;1;0;0;3;1;FIFA World Cup qualification;Argentina;Win;78.0;93.0;87.0;87.0;88.5;89.0;92.3;89.8
+04/06/2005;Ecuador;Argentina;34;3;0;0;2;0;FIFA World Cup qualification;Ecuador;Win;;78.0;64.5;;;87.0;87.0;88.5
+04/06/2005;USA;Costa Rica;10;21;0;0;3;0;FIFA World Cup qualification;USA;Win;89.0;72.0;78.2;80.0;82.0;69.5;72.7;70.5
+28/05/2005;USA;England;10;6;0;0;1;2;Friendly;USA;Lose;89.0;88.0;78.2;80.0;82.0;90.5;88.7;91.2
+27/04/2005;Mexico;Poland;8;25;0;0;1;1;Friendly;USA;Draw;78.0;83.0;76.0;71.7;76.2;78.0;80.3;78.0
+30/03/2005;Uruguay;Brazil;15;1;0;0;1;1;FIFA World Cup qualification;Uruguay;Draw;74.0;93.0;75.5;83.0;78.8;89.0;92.3;89.8
+27/03/2005;Mexico;USA;6;10;0;0;2;1;FIFA World Cup qualification;Mexico;Win;78.0;89.0;76.0;71.7;76.2;78.2;80.0;82.0
+26/03/2005;France;Switzerland;2;49;0;0;0;0;FIFA World Cup qualification;France;Draw;90.0;75.0;88.0;93.0;93.2;80.2;77.0;78.2
+26/03/2005;Portugal;Canada;9;84;0;0;4;1;Friendly;Portugal;Win;82.0;82.0;86.8;84.3;87.2;71.8;73.7;68.8
+25/03/2005;Iran;Japan;20;18;0;0;2;1;FIFA World Cup qualification;Iran;Win;;59.0;;;;;;75.8
+25/03/2005;Saudi Arabia;South Korea;30;22;0;0;2;0;FIFA World Cup qualification;Saudi Arabia;Win;;76.0;;;;75.8;76.7;72.8
+09/03/2005;Mexico;Argentina;6;3;0;0;1;1;Friendly;USA;Draw;78.0;78.0;76.0;71.7;76.2;87.0;87.0;88.5
+16/02/2005;Costa Rica;Ecuador;27;37;0;0;1;2;Friendly;Costa Rica;Lose;72.0;;69.5;72.7;70.5;64.5;;
+09/02/2005;Cameroon;Senegal;23;30;0;0;1;0;Friendly;France;Win;74.0;75.0;81.2;80.3;78.5;71.8;76.3;74.5
+09/02/2005;Costa Rica;Mexico;27;7;0;0;1;2;FIFA World Cup qualification;Costa Rica;Lose;72.0;78.0;69.5;72.7;70.5;76.0;71.7;76.2
+09/02/2005;England;Netherlands;8;6;0;0;0;0;Friendly;England;Draw;88.0;93.0;90.5;88.7;91.2;85.0;93.0;87.0
+09/02/2005;Germany;Argentina;16;3;0;0;2;2;Friendly;Germany;Draw;94.0;78.0;87.5;82.7;87.5;87.0;87.0;88.5
+19/12/2004;South Korea;Germany;24;16;0;0;3;1;Friendly;South Korea;Win;76.0;94.0;75.8;76.7;72.8;87.5;82.7;87.5
+16/12/2004;Japan;Germany;17;16;0;0;0;3;Friendly;Japan;Lose;59.0;94.0;;;75.8;87.5;82.7;87.5
+17/11/2004;Ecuador;Brazil;44;1;0;0;1;0;FIFA World Cup qualification;Ecuador;Win;;93.0;64.5;;;89.0;92.3;89.8
+17/11/2004;France;Poland;2;26;0;0;0;0;Friendly;France;Draw;90.0;83.0;88.0;93.0;93.2;78.0;80.3;78.0
+17/11/2004;Germany;Cameroon;16;22;0;0;3;0;Friendly;Germany;Win;94.0;74.0;87.5;82.7;87.5;81.2;80.3;78.5
+17/11/2004;Spain;England;4;7;0;0;1;0;Friendly;Spain;Win;94.0;88.0;86.5;89.3;89.5;90.5;88.7;91.2
+27/10/2004;Mexico;Ecuador;10;48;0;0;2;1;Friendly;USA;Win;78.0;;76.0;71.7;76.2;64.5;;
+13/10/2004;Canada;Costa Rica;95;32;0;0;1;3;FIFA World Cup qualification;Canada;Lose;82.0;72.0;71.8;73.7;68.8;69.5;72.7;70.5
+13/10/2004;Qatar;Iran;62;20;0;0;2;3;FIFA World Cup qualification;Qatar;Lose;;;;;;;;
+13/10/2004;Wales;Poland;57;29;0;0;2;3;FIFA World Cup qualification;Wales;Lose;72.0;83.0;71.5;79.3;80.5;78.0;80.3;78.0
+09/10/2004;Argentina;Uruguay;3;17;0;0;4;2;FIFA World Cup qualification;Argentina;Win;78.0;74.0;87.0;87.0;88.5;75.5;83.0;78.8
+09/10/2004;England;Wales;7;57;0;0;2;0;FIFA World Cup qualification;England;Win;88.0;72.0;90.5;88.7;91.2;71.5;79.3;80.5
+09/10/2004;Iran;Germany;20;13;0;0;0;2;Friendly;Iran;Lose;;94.0;;;;87.5;82.7;87.5
+09/10/2004;Spain;Belgium;4;35;0;0;2;0;FIFA World Cup qualification;Spain;Win;94.0;75.0;86.5;89.3;89.5;81.0;78.0;77.2
+08/09/2004;Costa Rica;Canada;33;99;0;0;1;0;FIFA World Cup qualification;Costa Rica;Win;72.0;82.0;69.5;72.7;70.5;71.8;73.7;68.8
+08/09/2004;Germany;Brazil;11;1;0;0;1;1;Friendly;Germany;Draw;94.0;93.0;87.5;82.7;87.5;89.0;92.3;89.8
+08/09/2004;Poland;England;29;7;0;0;1;2;FIFA World Cup qualification;Poland;Lose;83.0;88.0;78.0;80.3;78.0;90.5;88.7;91.2
+05/09/2004;Uruguay;Ecuador;19;42;0;0;1;0;FIFA World Cup qualification;Uruguay;Win;74.0;;75.5;83.0;78.8;64.5;;
+04/09/2004;Morocco;Tunisia;33;36;0;0;1;1;FIFA World Cup qualification;Morocco;Draw;68.0;51.0;75.2;73.7;71.0;67.5;71.0;72.5
+18/08/2004;Japan;Argentina;20;4;0;0;1;2;Friendly;Japan;Lose;;;;;;;;
+18/08/2004;Poland;Denmark;28;15;0;0;1;5;Friendly;Poland;Lose;;;;;;;;
+31/07/2004;South Korea;Iran;20;21;0;0;3;4;AFC Asian Cup;China PR;Lose;;;;;;;;
+28/07/2004;Japan;Iran;24;21;0;0;0;0;AFC Asian Cup;China PR;Draw;;;;;;;;
+25/07/2004;Argentina;Brazil;11;1;0;0;2;2;Copa América;Peru;Lose;;;;;;;;
+21/07/2004;Uruguay;Brazil;32;1;0;0;1;1;Copa América;Peru;Lose;;;;;;;;
+18/07/2004;Mexico;Brazil;6;1;0;0;0;4;Copa América;Peru;Lose;;;;;;;;
+13/07/2004;Argentina;Uruguay;11;32;0;0;4;2;Copa América;Peru;Win;;;;;;;;
+13/07/2004;Mexico;Ecuador;6;37;0;0;2;1;Copa América;Peru;Win;;;;;;;;
+11/07/2004;Brazil;Costa Rica;1;29;0;0;4;1;Copa América;Peru;Win;;;;;;;;
+11/07/2004;USA;Poland;7;27;0;0;1;1;Friendly;USA;Draw;;;;;;;;
+10/07/2004;Argentina;Mexico;11;6;0;0;0;1;Copa América;Peru;Lose;;;;;;;;
+10/07/2004;Uruguay;Ecuador;32;37;0;0;2;1;Copa América;Peru;Win;;;;;;;;
+07/07/2004;Argentina;Ecuador;11;37;0;0;6;1;Copa América;Peru;Win;;;;;;;;
+07/07/2004;Mexico;Uruguay;6;32;0;0;2;2;Copa América;Peru;Draw;;;;;;;;
+30/06/2004;Portugal;Netherlands;22;5;0;0;2;1;UEFA Euro;Portugal;Win;;;;;;;;
+24/06/2004;Portugal;England;22;13;0;0;2;2;UEFA Euro;Portugal;Win;;;;;;;;
+21/06/2004;Croatia;England;20;13;0;0;2;4;UEFA Euro;Portugal;Lose;;;;;;;;
+21/06/2004;Switzerland;France;47;2;0;0;1;3;UEFA Euro;Portugal;Lose;;;;;;;;
+20/06/2004;Portugal;Spain;22;3;0;0;1;0;UEFA Euro;Portugal;Win;;;;;;;;
+17/06/2004;Croatia;France;20;2;0;0;2;2;UEFA Euro;Portugal;Draw;;;;;;;;
+17/06/2004;England;Switzerland;13;47;0;0;3;0;UEFA Euro;Portugal;Win;;;;;;;;
+15/06/2004;Germany;Netherlands;8;5;0;0;1;1;UEFA Euro;Portugal;Draw;;;;;;;;
+13/06/2004;France;England;2;13;0;0;2;1;UEFA Euro;Portugal;Win;;;;;;;;
+13/06/2004;Switzerland;Croatia;47;20;0;0;0;0;UEFA Euro;Portugal;Draw;;;;;;;;
+05/06/2004;Denmark;Croatia;14;25;0;0;1;2;Friendly;Denmark;Lose;;;;;;;;
+02/06/2004;Brazil;Argentina;1;5;0;0;3;1;FIFA World Cup qualification;Brazil;Win;;;;;;;;
+02/06/2004;Switzerland;Germany;47;9;0;0;0;2;Friendly;Switzerland;Lose;;;;;;;;
+01/06/2004;England;Japan;12;25;0;0;1;1;Friendly;England;Draw;;;;;;;;
+30/05/2004;Wales;Canada;66;93;0;0;1;0;Friendly;Wales;Win;;;;;;;;
+29/05/2004;Netherlands;Belgium;4;17;0;0;0;1;Friendly;Netherlands;Lose;;;;;;;;
+20/05/2004;France;Brazil;2;1;0;0;0;0;Friendly;France;Draw;;;;;;;;
+28/04/2004;Morocco;Argentina;30;5;0;0;0;1;Friendly;Morocco;Lose;;;;;;;;
+28/04/2004;USA;Mexico;11;4;0;0;1;0;Friendly;USA;Win;;;;;;;;
+31/03/2004;Germany;Belgium;10;16;0;0;3;0;Friendly;Germany;Win;;;;;;;;
+31/03/2004;Mexico;Costa Rica;5;18;0;0;2;0;Friendly;USA;Win;;;;;;;;
+31/03/2004;Netherlands;France;4;2;0;0;0;0;Friendly;Netherlands;Draw;;;;;;;;
+31/03/2004;Poland;USA;24;12;0;0;0;1;Friendly;Poland;Lose;;;;;;;;
+31/03/2004;Spain;Denmark;3;14;0;0;2;0;Friendly;Spain;Win;;;;;;;;
+30/03/2004;Argentina;Ecuador;6;40;0;0;1;0;FIFA World Cup qualification;Argentina;Win;;;;;;;;
+10/03/2004;Mexico;Ecuador;5;40;0;0;2;1;Friendly;Mexico;Win;;;;;;;;
+18/02/2004;Belgium;France;16;2;0;0;0;2;Friendly;Belgium;Lose;;;;;;;;
+18/02/2004;Croatia;Germany;19;12;0;0;1;2;Friendly;Croatia;Lose;;;;;;;;
+18/02/2004;Iran;Qatar;31;58;0;0;3;1;FIFA World Cup qualification;Iran;Win;;;;;;;;
+18/02/2004;Morocco;Switzerland;33;45;0;0;2;1;Friendly;Morocco;Win;;;;;;;;
+18/02/2004;Netherlands;USA;4;11;0;0;1;0;Friendly;Netherlands;Win;;;;;;;;
+18/02/2004;Portugal;England;17;7;0;0;1;1;Friendly;Portugal;Draw;;;;;;;;
+14/02/2004;Tunisia;Morocco;45;38;0;0;2;1;African Cup of Nations;Tunisia;Win;;;;;;;;
+07/02/2004;Tunisia;Senegal;45;33;0;0;1;0;African Cup of Nations;Tunisia;Win;;;;;;;;
+29/12/2003;Saudi Arabia;Qatar;26;65;0;0;0;0;Gulf Cup;Kuwait;Draw;;;;;;;;
+10/12/2003;Japan;South Korea;28;22;0;0;0;0;EAFF Championship;Japan;Draw;;;;;;;;
+19/11/2003;Brazil;Uruguay;1;20;0;0;3;3;FIFA World Cup qualification;Brazil;Draw;;;;;;;;
+19/11/2003;Japan;Cameroon;28;14;0;0;0;0;Friendly;Japan;Draw;;;;;;;;
+16/11/2003;England;Denmark;6;14;0;0;2;3;Friendly;England;Lose;;;;;;;;
+15/11/2003;Germany;France;7;2;0;0;0;3;Friendly;Germany;Lose;;;;;;;;
+15/10/2003;Mexico;Uruguay;5;22;0;0;0;2;Friendly;USA;Lose;;;;;;;;
+11/10/2003;Tunisia;Morocco;42;36;0;0;0;0;Friendly;Tunisia;Draw;;;;;;;;
+08/10/2003;Tunisia;Japan;42;24;0;0;0;1;Friendly;Tunisia;Lose;;;;;;;;
+10/09/2003;Belgium;Croatia;18;26;0;0;2;1;UEFA Euro qualification;Belgium;Win;;;;;;;;
+10/09/2003;Brazil;Ecuador;1;37;0;0;1;0;FIFA World Cup qualification;Brazil;Win;;;;;;;;
+10/09/2003;Japan;Senegal;23;28;0;0;0;1;Friendly;Japan;Lose;;;;;;;;
+06/09/2003;Portugal;Spain;16;3;0;0;0;3;Friendly;Portugal;Lose;;;;;;;;
+20/08/2003;Argentina;Uruguay;6;26;0;0;3;2;Friendly;Italy;Win;;;;;;;;
+20/08/2003;Belgium;Netherlands;18;4;0;0;1;1;Friendly;Belgium;Draw;;;;;;;;
+20/08/2003;England;Croatia;10;25;0;0;3;1;Friendly;England;Win;;;;;;;;
+20/08/2003;Switzerland;France;40;2;0;0;0;2;Friendly;Switzerland;Lose;;;;;;;;
+27/07/2003;Mexico;Brazil;11;1;0;0;1;0;Gold Cup;Mexico;Win;;;;;;;;
+26/07/2003;USA;Costa Rica;9;18;0;0;3;2;Gold Cup;USA;Win;;;;;;;;
+24/07/2003;Mexico;Costa Rica;11;18;0;0;2;0;Gold Cup;Mexico;Win;;;;;;;;
+23/07/2003;USA;Brazil;9;1;0;0;1;2;Gold Cup;USA;Lose;;;;;;;;
+16/07/2003;Argentina;Uruguay;4;31;0;0;2;2;Friendly;Argentina;Draw;;;;;;;;
+13/07/2003;Mexico;Brazil;11;1;0;0;1;0;Gold Cup;Mexico;Win;;;;;;;;
+12/07/2003;Costa Rica;Canada;18;78;0;0;0;1;Gold Cup;USA;Lose;;;;;;;;
+29/06/2003;France;Cameroon;2;16;0;0;1;0;Confederations Cup;France;Win;;;;;;;;
+23/06/2003;USA;Cameroon;10;18;0;0;0;0;Confederations Cup;France;Draw;;;;;;;;
+21/06/2003;Brazil;USA;1;10;0;0;1;0;Confederations Cup;France;Win;;;;;;;;
+20/06/2003;France;Japan;2;23;0;0;2;1;Confederations Cup;France;Win;;;;;;;;
+19/06/2003;Brazil;Cameroon;1;18;0;0;0;1;Confederations Cup;France;Lose;;;;;;;;
+11/06/2003;South Korea;Argentina;21;5;0;0;0;1;Friendly;South Korea;Lose;;;;;;;;
+08/06/2003;Japan;Argentina;23;5;0;0;1;4;Kirin Cup;Japan;Lose;;;;;;;;
+08/06/2003;South Korea;Uruguay;21;28;0;0;0;2;Friendly;South Korea;Lose;;;;;;;;
+01/06/2003;Germany;Canada;4;77;0;0;4;1;Friendly;Germany;Win;;;;;;;;
+31/05/2003;Japan;South Korea;23;21;0;0;0;1;Friendly;Japan;Lose;;;;;;;;
+26/05/2003;USA;Wales;10;50;0;0;2;0;Friendly;USA;Win;;;;;;;;
+08/05/2003;USA;Mexico;10;9;0;0;0;0;Friendly;USA;Draw;;;;;;;;
+30/04/2003;Belgium;Poland;16;28;0;0;3;1;Friendly;Belgium;Win;;;;;;;;
+30/04/2003;Mexico;Brazil;9;1;0;0;0;0;Friendly;Mexico;Draw;;;;;;;;
+30/04/2003;Netherlands;Portugal;5;12;0;0;1;1;Friendly;Netherlands;Draw;;;;;;;;
+30/04/2003;Spain;Ecuador;2;33;0;0;4;0;Friendly;Spain;Win;;;;;;;;
+30/04/2003;Tunisia;Senegal;41;30;0;0;1;0;Friendly;Tunisia;Win;;;;;;;;
+16/04/2003;South Korea;Japan;19;25;0;0;0;1;Friendly;South Korea;Lose;;;;;;;;
+30/03/2003;Tunisia;Cameroon;44;17;0;0;1;0;Friendly;Tunisia;Win;;;;;;;;
+29/03/2003;Croatia;Belgium;34;16;0;0;4;0;UEFA Euro qualification;Croatia;Win;;;;;;;;
+29/03/2003;Portugal;Brazil;12;1;0;0;2;1;Friendly;Portugal;Win;;;;;;;;
+28/03/2003;Japan;Uruguay;25;27;0;0;2;2;Friendly;Japan;Draw;;;;;;;;
+27/03/2003;Tunisia;Ghana;44;61;0;0;2;2;Friendly;Tunisia;Win;;;;;;;;
+12/02/2003;Croatia;Poland;32;33;0;0;0;0;Friendly;Croatia;Draw;;;;;;;;
+12/02/2003;England;Australia;8;50;0;0;1;3;Friendly;England;Lose;;;;;;;;
+12/02/2003;Morocco;Senegal;35;27;0;0;1;0;Friendly;France;Win;;;;;;;;
+12/02/2003;Netherlands;Argentina;6;5;0;0;1;0;Friendly;Netherlands;Win;;;;;;;;
+12/02/2003;Spain;Germany;3;4;0;0;3;1;Friendly;Spain;Win;;;;;;;;
+08/02/2003;USA;Argentina;10;5;0;0;0;1;Friendly;USA;Lose;;;;;;;;
+04/02/2003;Mexico;Argentina;9;5;0;0;0;1;Friendly;USA;Lose;;;;;;;;
+04/02/2003;Uruguay;Iran;28;34;0;0;1;1;Lunar New Year Cup;Hong Kong;Win;;;;;;;;
+18/01/2003;USA;Canada;10;70;0;0;4;0;Friendly;USA;Win;;;;;;;;
+20/11/2002;Denmark;Poland;13;33;0;0;2;0;Friendly;Denmark;Win;;;;;;;;
+20/11/2002;Ecuador;Costa Rica;32;26;0;0;2;2;Friendly;Ecuador;Draw;;;;;;;;
+20/11/2002;Germany;Netherlands;4;10;0;0;1;3;Friendly;Germany;Lose;;;;;;;;
+20/11/2002;Japan;Argentina;22;5;0;0;0;2;Friendly;Japan;Lose;;;;;;;;
+20/11/2002;South Korea;Brazil;20;1;0;0;2;3;Friendly;South Korea;Lose;;;;;;;;
+16/10/2002;Costa Rica;Ecuador;25;31;0;0;1;1;Friendly;Costa Rica;Draw;;;;;;;;
+12/10/2002;Portugal;Tunisia;11;39;0;0;1;1;Friendly;Portugal;Draw;;;;;;;;
+17/09/2002;Iran;Morocco;33;41;0;0;1;1;Friendly;Iran;Win;;;;;;;;
+07/09/2002;England;Portugal;7;8;0;0;1;1;Friendly;England;Draw;;;;;;;;
+21/08/2002;Croatia;Wales;26;89;0;0;1;1;Friendly;Croatia;Draw;;;;;;;;
+21/08/2002;Poland;Belgium;37;18;0;0;1;1;Friendly;Poland;Draw;;;;;;;;
+21/08/2002;Tunisia;France;39;4;0;0;1;1;Friendly;Tunisia;Draw;;;;;;;;
+30/06/2002;Germany;Brazil;11;2;0;0;0;2;FIFA World Cup;Japan;Lose;;;;;;;;
+25/06/2002;South Korea;Germany;40;11;0;0;0;1;FIFA World Cup;South Korea;Lose;;;;;;;;
+22/06/2002;South Korea;Spain;40;8;0;0;0;0;FIFA World Cup;South Korea;Win;;;;;;;;
+21/06/2002;England;Brazil;12;2;0;0;1;2;FIFA World Cup;Japan;Lose;;;;;;;;
+21/06/2002;Germany;USA;11;13;0;0;1;0;FIFA World Cup;South Korea;Win;;;;;;;;
+17/06/2002;Brazil;Belgium;2;23;0;0;2;0;FIFA World Cup;Japan;Win;;;;;;;;
+17/06/2002;Mexico;USA;7;13;0;0;0;2;FIFA World Cup;South Korea;Lose;;;;;;;;
+15/06/2002;Denmark;England;20;12;0;0;0;3;FIFA World Cup;Japan;Lose;;;;;;;;
+14/06/2002;Japan;Tunisia;32;31;0;0;2;0;FIFA World Cup;Japan;Win;;;;;;;;
+14/06/2002;South Korea;Portugal;40;5;0;0;1;0;FIFA World Cup;South Korea;Win;;;;;;;;
+14/06/2002;Poland;USA;38;13;0;0;3;1;FIFA World Cup;South Korea;Win;;;;;;;;
+13/06/2002;Costa Rica;Brazil;29;2;0;0;2;5;FIFA World Cup;South Korea;Lose;;;;;;;;
+13/06/2002;Ecuador;Croatia;36;21;0;0;1;0;FIFA World Cup;Japan;Win;;;;;;;;
+11/06/2002;Cameroon;Germany;17;11;0;0;0;2;FIFA World Cup;Japan;Lose;;;;;;;;
+11/06/2002;Denmark;France;20;1;0;0;2;0;FIFA World Cup;South Korea;Win;;;;;;;;
+11/06/2002;Senegal;Uruguay;42;24;0;0;3;3;FIFA World Cup;South Korea;Draw;;;;;;;;
+10/06/2002;South Korea;USA;40;13;0;0;1;1;FIFA World Cup;South Korea;Draw;;;;;;;;
+10/06/2002;Portugal;Poland;5;38;0;0;4;0;FIFA World Cup;South Korea;Win;;;;;;;;
+10/06/2002;Tunisia;Belgium;31;23;0;0;1;1;FIFA World Cup;Japan;Draw;;;;;;;;
+09/06/2002;Mexico;Ecuador;7;36;0;0;2;1;FIFA World Cup;Japan;Win;;;;;;;;
+07/06/2002;Argentina;England;3;12;0;0;0;1;FIFA World Cup;Japan;Lose;;;;;;;;
+06/06/2002;Cameroon;Saudi Arabia;17;34;0;0;1;0;FIFA World Cup;Japan;Win;;;;;;;;
+06/06/2002;Denmark;Senegal;20;42;0;0;1;1;FIFA World Cup;South Korea;Draw;;;;;;;;
+06/06/2002;France;Uruguay;1;24;0;0;0;0;FIFA World Cup;South Korea;Draw;;;;;;;;
+05/06/2002;USA;Portugal;13;5;0;0;3;2;FIFA World Cup;South Korea;Win;;;;;;;;
+04/06/2002;Japan;Belgium;32;23;0;0;2;2;FIFA World Cup;Japan;Draw;;;;;;;;
+04/06/2002;South Korea;Poland;40;38;0;0;2;0;FIFA World Cup;South Korea;Win;;;;;;;;
+03/06/2002;Croatia;Mexico;21;7;0;0;0;1;FIFA World Cup;Japan;Lose;;;;;;;;
+01/06/2002;Germany;Saudi Arabia;11;34;0;0;8;0;FIFA World Cup;Japan;Win;;;;;;;;
+01/06/2002;Uruguay;Denmark;24;20;0;0;1;2;FIFA World Cup;South Korea;Lose;;;;;;;;
+31/05/2002;France;Senegal;1;42;0;0;0;1;FIFA World Cup;South Korea;Lose;;;;;;;;
+26/05/2002;Belgium;Costa Rica;23;29;0;0;1;0;Friendly;Japan;Win;;;;;;;;
+26/05/2002;Cameroon;England;17;12;0;0;2;2;Friendly;Japan;Draw;;;;;;;;
+26/05/2002;Denmark;Tunisia;20;31;0;0;2;1;Friendly;Japan;Win;;;;;;;;
+26/05/2002;South Korea;France;40;1;0;0;2;3;Friendly;South Korea;Lose;;;;;;;;
+23/05/2002;Ecuador;Senegal;36;42;0;0;0;1;Friendly;Japan;Lose;;;;;;;;
+21/05/2002;South Korea;England;40;12;0;0;1;1;Friendly;South Korea;Draw;;;;;;;;
+19/05/2002;USA;Netherlands;13;9;0;0;0;2;Friendly;USA;Lose;;;;;;;;
+18/05/2002;France;Belgium;1;23;0;0;1;2;Friendly;France;Lose;;;;;;;;
+17/05/2002;Denmark;Cameroon;20;17;0;0;2;1;Friendly;Denmark;Win;;;;;;;;
+15/05/2002;Switzerland;Canada;64;75;0;0;1;3;Friendly;Switzerland;Lose;;;;;;;;
+14/05/2002;Saudi Arabia;Senegal;34;43;0;0;3;2;Friendly;Saudi Arabia;Win;;;;;;;;
+14/05/2002;Wales;Germany;97;12;0;0;1;0;Friendly;Wales;Win;;;;;;;;
+12/05/2002;USA;Uruguay;13;21;0;0;2;1;Friendly;USA;Win;;;;;;;;
+21/04/2002;South Korea;Costa Rica;41;27;0;0;2;0;Friendly;South Korea;Win;;;;;;;;
+17/04/2002;Germany;Argentina;12;3;0;0;0;1;Friendly;Germany;Lose;;;;;;;;
+17/04/2002;Japan;Costa Rica;33;27;0;0;1;1;Friendly;Japan;Draw;;;;;;;;
+17/04/2002;Portugal;Brazil;5;2;0;0;1;1;Friendly;Portugal;Draw;;;;;;;;
+27/03/2002;Argentina;Cameroon;2;19;0;0;2;2;Friendly;Switzerland;Draw;;;;;;;;
+27/03/2002;Germany;USA;10;13;0;0;4;2;Friendly;Germany;Win;;;;;;;;
+27/03/2002;Netherlands;Spain;9;7;0;0;1;0;Friendly;Netherlands;Win;;;;;;;;
+27/03/2002;Poland;Japan;33;38;0;0;0;2;Friendly;Poland;Lose;;;;;;;;
+27/03/2002;Saudi Arabia;Uruguay;35;22;0;0;3;2;Friendly;Saudi Arabia;Win;;;;;;;;
+13/03/2002;Tunisia;South Korea;29;41;0;0;0;0;Friendly;Tunisia;Draw;;;;;;;;
+10/03/2002;USA;Ecuador;13;37;0;0;1;0;Friendly;USA;Win;;;;;;;;
+13/02/2002;Netherlands;England;8;10;0;0;1;1;Friendly;Netherlands;Draw;;;;;;;;
+13/02/2002;Saudi Arabia;Denmark;34;20;0;0;0;1;Friendly;Saudi Arabia;Lose;;;;;;;;
+13/02/2002;Spain;Portugal;7;4;0;0;1;1;Friendly;Spain;Draw;;;;;;;;
+13/02/2002;Uruguay;South Korea;24;41;0;0;2;1;Friendly;Uruguay;Win;;;;;;;;
+13/02/2002;Wales;Argentina;101;2;0;0;1;1;Friendly;Wales;Draw;;;;;;;;
+10/02/2002;Senegal;Cameroon;68;37;0;0;0;0;African Cup of Nations;Mali;Lose;;;;;;;;
+06/02/2002;Saudi Arabia;Brazil;32;3;0;0;0;1;Friendly;Saudi Arabia;Lose;;;;;;;;
+02/02/2002;Canada;South Korea;93;42;0;0;2;1;Gold Cup;USA;Win;;;;;;;;
+02/02/2002;USA;Costa Rica;24;30;0;0;2;0;Gold Cup;USA;Win;;;;;;;;
+31/01/2002;Senegal;Tunisia;68;28;0;0;0;0;African Cup of Nations;Mali;Draw;;;;;;;;
+30/01/2002;Costa Rica;South Korea;30;42;0;0;3;1;Gold Cup;USA;Win;;;;;;;;
+30/01/2002;USA;Canada;24;93;0;0;0;0;Gold Cup;USA;Win;;;;;;;;
+30/01/2002;Saudi Arabia;Qatar;32;80;0;0;3;1;Gulf Cup;Saudi Arabia;Win;;;;;;;;
+27/01/2002;Mexico;South Korea;9;42;0;0;0;0;Gold Cup;USA;Lose;;;;;;;;
+22/01/2002;Canada;Ecuador;93;38;0;0;0;2;Gold Cup;USA;Lose;;;;;;;;
+21/01/2002;Morocco;Ghana;36;61;0;0;0;0;African Cup of Nations;Mali;Draw;;;;;;;;
+19/01/2002;USA;South Korea;24;42;0;0;2;1;Gold Cup;USA;Win;;;;;;;;
+11/01/2002;Tunisia;Cameroon;28;38;0;0;0;1;Friendly;Tunisia;Lose;;;;;;;;
+09/12/2001;South Korea;USA;43;21;0;0;1;0;Friendly;South Korea;Win;;;;;;;;
+25/11/2001;Uruguay;Australia;24;50;0;0;3;0;FIFA World Cup qualification;Uruguay;Win;;;;;;;;
+20/11/2001;Australia;Uruguay;48;23;0;0;1;0;FIFA World Cup qualification;Australia;Win;;;;;;;;
+14/11/2001;Poland;Cameroon;28;38;0;0;0;0;Friendly;Poland;Draw;;;;;;;;
+14/11/2001;Spain;Mexico;6;11;0;0;1;0;Friendly;Spain;Win;;;;;;;;
+14/11/2001;Uruguay;Argentina;23;3;0;0;1;1;FIFA World Cup qualification;Uruguay;Draw;;;;;;;;
+13/11/2001;South Korea;Croatia;43;16;0;0;1;1;Friendly;South Korea;Draw;;;;;;;;
+11/11/2001;Australia;France;48;1;0;0;1;1;Friendly;Australia;Draw;;;;;;;;
+10/11/2001;Denmark;Netherlands;17;7;0;0;1;1;Friendly;Denmark;Draw;;;;;;;;
+10/11/2001;South Korea;Croatia;43;16;0;0;2;0;Friendly;South Korea;Win;;;;;;;;
+08/11/2001;South Korea;Senegal;43;65;0;0;0;1;Friendly;South Korea;Lose;;;;;;;;
+07/11/2001;Ecuador;Uruguay;39;23;0;0;1;1;FIFA World Cup qualification;Ecuador;Draw;;;;;;;;
+07/10/2001;Costa Rica;Mexico;29;10;0;0;0;0;FIFA World Cup qualification;Costa Rica;Draw;;;;;;;;
+06/10/2001;Croatia;Belgium;16;26;0;0;1;0;FIFA World Cup qualification;Croatia;Win;;;;;;;;
+04/10/2001;Japan;Senegal;28;69;0;0;0;2;Friendly;France;Lose;;;;;;;;
+28/09/2001;Saudi Arabia;Iran;35;38;0;0;2;2;FIFA World Cup qualification;Saudi Arabia;Draw;;;;;;;;
+05/09/2001;Argentina;Brazil;3;2;0;0;2;1;FIFA World Cup qualification;Argentina;Win;;;;;;;;
+05/09/2001;Costa Rica;USA;31;16;0;0;2;0;FIFA World Cup qualification;Costa Rica;Win;;;;;;;;
+01/09/2001;Germany;England;5;15;0;0;1;5;FIFA World Cup qualification;Germany;Lose;;;;;;;;
+24/08/2001;Iran;Saudi Arabia;46;36;0;0;2;0;FIFA World Cup qualification;Iran;Win;;;;;;;;
+15/08/2001;Ecuador;Argentina;50;3;0;0;0;2;FIFA World Cup qualification;Ecuador;Lose;;;;;;;;
+15/08/2001;England;Netherlands;15;10;0;0;0;2;Friendly;England;Lose;;;;;;;;
+15/08/2001;France;Denmark;1;17;0;0;1;0;Friendly;France;Win;;;;;;;;
+15/08/2001;Japan;Australia;32;46;0;0;3;0;Friendly;Japan;Win;;;;;;;;
+05/08/2001;Saudi Arabia;Qatar;29;90;0;0;1;2;Friendly;Saudi Arabia;Lose;;;;;;;;
+01/08/2001;Qatar;Iran;90;51;0;0;2;1;Friendly;Qatar;Win;;;;;;;;
+25/07/2001;Mexico;Uruguay;13;30;0;0;2;1;Copa América;Colombia;Win;;;;;;;;
+22/07/2001;Uruguay;Costa Rica;30;33;0;0;2;1;Copa América;Colombia;Win;;;;;;;;
+16/07/2001;Uruguay;Costa Rica;40;47;0;0;1;1;Copa América;Colombia;Draw;;;;;;;;
+14/07/2001;Senegal;Morocco;80;28;0;0;1;0;FIFA World Cup qualification;Senegal;Win;;;;;;;;
+12/07/2001;Brazil;Mexico;2;15;0;0;0;1;Copa América;Colombia;Lose;;;;;;;;
+01/07/2001;Mexico;USA;15;17;0;0;1;0;FIFA World Cup qualification;Mexico;Win;;;;;;;;
+01/07/2001;Uruguay;Brazil;40;2;0;0;1;0;FIFA World Cup qualification;Uruguay;Win;;;;;;;;
+16/06/2001;Mexico;Costa Rica;13;54;0;0;1;2;FIFA World Cup qualification;Mexico;Lose;;;;;;;;
+10/06/2001;Japan;France;44;1;0;0;0;1;Confederations Cup;Japan;Lose;;;;;;;;
+09/06/2001;Australia;Brazil;68;2;0;0;1;0;Confederations Cup;South Korea;Win;;;;;;;;
+07/06/2001;France;Brazil;1;2;0;0;2;1;Confederations Cup;South Korea;Win;;;;;;;;
+07/06/2001;Japan;Australia;44;68;0;0;1;0;Confederations Cup;Japan;Win;;;;;;;;
+07/06/2001;USA;Ecuador;15;45;0;0;0;0;Friendly;USA;Draw;;;;;;;;
+04/06/2001;Cameroon;Canada;37;71;0;0;2;0;Confederations Cup;Japan;Win;;;;;;;;
+04/06/2001;Japan;Brazil;44;2;0;0;0;0;Confederations Cup;Japan;Draw;;;;;;;;
+03/06/2001;France;Mexico;1;13;0;0;4;0;Confederations Cup;South Korea;Win;;;;;;;;
+03/06/2001;South Korea;Australia;39;68;0;0;1;0;Confederations Cup;South Korea;Win;;;;;;;;
+02/06/2001;Canada;Brazil;71;2;0;0;0;0;Confederations Cup;Japan;Draw;;;;;;;;
+02/06/2001;Japan;Cameroon;44;37;0;0;2;0;Confederations Cup;Japan;Win;;;;;;;;
+02/06/2001;Wales;Poland;110;23;0;0;1;2;FIFA World Cup qualification;Wales;Lose;;;;;;;;
+01/06/2001;Australia;France;68;1;0;0;1;0;Confederations Cup;South Korea;Win;;;;;;;;
+01/06/2001;South Korea;Mexico;39;13;0;0;2;1;Confederations Cup;South Korea;Win;;;;;;;;
+31/05/2001;Brazil;Cameroon;2;37;0;0;2;0;Confederations Cup;Japan;Win;;;;;;;;
+31/05/2001;Japan;Canada;44;71;0;0;3;0;Confederations Cup;Japan;Win;;;;;;;;
+30/05/2001;South Korea;France;39;1;0;0;0;5;Confederations Cup;South Korea;Lose;;;;;;;;
+30/05/2001;Mexico;Australia;13;68;0;0;0;2;Confederations Cup;South Korea;Lose;;;;;;;;
+25/05/2001;England;Mexico;14;13;0;0;4;0;Friendly;England;Win;;;;;;;;
+25/05/2001;South Korea;Cameroon;39;37;0;0;0;0;Friendly;South Korea;Draw;;;;;;;;
+26/04/2001;Canada;Iran;65;40;0;0;1;0;Friendly;Egypt;Win;;;;;;;;
+25/04/2001;France;Portugal;2;5;0;0;4;0;Friendly;France;Win;;;;;;;;
+25/04/2001;Spain;Japan;7;42;0;0;1;0;Friendly;Spain;Win;;;;;;;;
+25/04/2001;USA;Costa Rica;18;52;0;0;1;0;FIFA World Cup qualification;USA;Win;;;;;;;;
+24/04/2001;Iran;South Korea;40;41;0;0;0;1;Friendly;Egypt;Lose;;;;;;;;
+28/03/2001;Ecuador;Brazil;53;1;0;0;1;0;FIFA World Cup qualification;Ecuador;Win;;;;;;;;
+28/03/2001;Portugal;Netherlands;4;9;0;0;2;2;FIFA World Cup qualification;Portugal;Draw;;;;;;;;
+28/03/2001;Spain;France;7;2;0;0;2;1;Friendly;Spain;Win;;;;;;;;
+24/03/2001;France;Japan;2;42;0;0;5;0;Friendly;France;Win;;;;;;;;
+24/03/2001;Morocco;Tunisia;30;27;0;0;2;0;African Cup of Nations qualification;Morocco;Win;;;;;;;;
+07/03/2001;Mexico;Brazil;12;1;0;0;3;3;Friendly;Mexico;Draw;;;;;;;;
+03/03/2001;USA;Brazil;16;1;0;0;1;2;Friendly;USA;Lose;;;;;;;;
+28/02/2001;England;Spain;17;7;0;0;3;0;Friendly;England;Win;;;;;;;;
+28/02/2001;Switzerland;Poland;59;38;0;0;0;4;Friendly;Cyprus;Lose;;;;;;;;
+28/02/2001;USA;Mexico;16;12;0;0;2;0;FIFA World Cup qualification;USA;Win;;;;;;;;
+27/02/2001;France;Germany;2;11;0;0;1;0;Friendly;France;Win;;;;;;;;
+24/02/2001;Morocco;Senegal;28;89;0;0;0;0;FIFA World Cup qualification;Morocco;Draw;;;;;;;;
+08/02/2001;Morocco;South Korea;28;42;0;0;1;1;United Arab Emirates Friendship Tournament;United Arab Emirates;Draw;;;;;;;;
+13/01/2001;Tunisia;Morocco;26;28;0;0;0;1;African Cup of Nations qualification;Tunisia;Lose;;;;;;;;
+20/12/2000;Japan;South Korea;38;40;0;0;1;1;Friendly;Japan;Draw;;;;;;;;
+20/12/2000;Mexico;Argentina;12;3;0;0;0;2;Friendly;USA;Lose;;;;;;;;
+15/11/2000;Canada;Mexico;63;11;0;0;0;0;FIFA World Cup qualification;Canada;Draw;;;;;;;;
+15/11/2000;Denmark;Germany;24;8;0;0;2;1;Friendly;Denmark;Win;;;;;;;;
+15/11/2000;Spain;Netherlands;6;10;0;0;1;2;Friendly;Spain;Lose;;;;;;;;
+15/11/2000;Tunisia;Switzerland;25;59;0;0;1;1;Friendly;Tunisia;Draw;;;;;;;;
+29/10/2000;Japan;Saudi Arabia;49;47;0;0;1;0;AFC Asian Cup;Lebanon;Win;;;;;;;;
+26/10/2000;South Korea;Saudi Arabia;44;47;0;0;1;2;AFC Asian Cup;Lebanon;Lose;;;;;;;;
+25/10/2000;USA;Mexico;18;11;0;0;2;0;Friendly;USA;Win;;;;;;;;
+23/10/2000;Iran;South Korea;43;44;0;0;1;2;AFC Asian Cup;Lebanon;Lose;;;;;;;;
+20/10/2000;Japan;Qatar;49;96;0;0;1;1;AFC Asian Cup;Lebanon;Draw;;;;;;;;
+17/10/2000;Saudi Arabia;Qatar;47;96;0;0;0;0;AFC Asian Cup;Lebanon;Draw;;;;;;;;
+14/10/2000;Saudi Arabia;Japan;47;49;0;0;1;4;AFC Asian Cup;Lebanon;Lose;;;;;;;;
+11/10/2000;Netherlands;Portugal;9;7;0;0;0;2;FIFA World Cup qualification;Netherlands;Lose;;;;;;;;
+11/10/2000;Poland;Wales;36;109;0;0;0;0;FIFA World Cup qualification;Poland;Draw;;;;;;;;
+11/10/2000;USA;Costa Rica;18;54;0;0;0;0;FIFA World Cup qualification;USA;Draw;;;;;;;;
+08/10/2000;Argentina;Uruguay;3;32;0;0;2;1;FIFA World Cup qualification;Argentina;Win;;;;;;;;
+07/10/2000;Australia;South Korea;67;43;0;0;2;4;United Arab Emirates Friendship Tournament;United Arab Emirates;Lose;;;;;;;;
+07/10/2000;England;Germany;14;9;0;0;0;1;FIFA World Cup qualification;England;Lose;;;;;;;;
+04/10/2000;France;Cameroon;2;34;0;0;1;1;Friendly;France;Draw;;;;;;;;
+27/09/2000;Qatar;Iran;92;44;0;0;1;2;Friendly;Qatar;Lose;;;;;;;;
+20/09/2000;Mexico;Ecuador;13;60;0;0;2;0;Friendly;USA;Win;;;;;;;;
+03/09/2000;Uruguay;Ecuador;36;65;0;0;4;0;FIFA World Cup qualification;Uruguay;Win;;;;;;;;
+02/09/2000;Belgium;Croatia;28;15;0;0;0;0;FIFA World Cup qualification;Belgium;Draw;;;;;;;;
+02/09/2000;France;England;2;13;0;0;1;1;Friendly;France;Draw;;;;;;;;
+16/08/2000;Germany;Spain;11;5;0;0;4;1;Friendly;Germany;Win;;;;;;;;
+15/08/2000;Mexico;Canada;14;56;0;0;2;0;FIFA World Cup qualification;Mexico;Win;;;;;;;;
+26/07/2000;Brazil;Argentina;1;5;0;0;3;1;FIFA World Cup qualification;Brazil;Win;;;;;;;;
+23/07/2000;Costa Rica;USA;69;20;0;0;2;1;FIFA World Cup qualification;Costa Rica;Win;;;;;;;;
+19/07/2000;Argentina;Ecuador;5;66;0;0;2;0;FIFA World Cup qualification;Argentina;Win;;;;;;;;
+28/06/2000;Brazil;Uruguay;1;43;0;0;1;1;FIFA World Cup qualification;Brazil;Draw;;;;;;;;
+28/06/2000;France;Portugal;2;15;0;0;2;1;UEFA Euro;Belgium;Win;;;;;;;;
+25/06/2000;Spain;France;4;2;0;0;1;2;UEFA Euro;Belgium;Lose;;;;;;;;
+21/06/2000;Netherlands;France;21;2;0;0;3;2;UEFA Euro;Netherlands;Win;;;;;;;;
+20/06/2000;Portugal;Germany;15;6;0;0;3;0;UEFA Euro;Netherlands;Win;;;;;;;;
+17/06/2000;England;Germany;12;6;0;0;1;0;UEFA Euro;Belgium;Win;;;;;;;;
+16/06/2000;Netherlands;Denmark;21;13;0;0;3;0;UEFA Euro;Netherlands;Win;;;;;;;;
+12/06/2000;Portugal;England;15;12;0;0;3;2;UEFA Euro;Netherlands;Win;;;;;;;;
+11/06/2000;France;Denmark;2;13;0;0;3;0;UEFA Euro;Belgium;Win;;;;;;;;
+11/06/2000;Tunisia;Senegal;27;79;0;0;4;1;Friendly;Tunisia;Win;;;;;;;;
+11/06/2000;USA;Mexico;19;8;0;0;3;0;USA Cup;USA;Win;;;;;;;;
+06/06/2000;Morocco;France;25;3;0;0;1;5;King Hassan II Tournament;Morocco;Lose;;;;;;;;
+04/06/2000;France;Japan;3;56;0;0;2;2;King Hassan II Tournament;Morocco;Win;;;;;;;;
+04/06/2000;Netherlands;Poland;21;35;0;0;3;1;Friendly;Switzerland;Win;;;;;;;;
+03/06/2000;Denmark;Belgium;13;30;0;0;2;2;Friendly;Denmark;Draw;;;;;;;;
+02/06/2000;Portugal;Wales;15;101;0;0;3;0;Friendly;Portugal;Win;;;;;;;;
+28/05/2000;Croatia;France;7;3;0;0;0;2;Friendly;Croatia;Lose;;;;;;;;
+27/05/2000;England;Brazil;12;1;0;0;1;1;Friendly;England;Draw;;;;;;;;
+23/05/2000;Wales;Brazil;101;1;0;0;0;3;Friendly;Wales;Lose;;;;;;;;
+26/04/2000;Brazil;Ecuador;1;71;0;0;3;2;FIFA World Cup qualification;Brazil;Win;;;;;;;;
+26/04/2000;Germany;Switzerland;5;55;0;0;1;1;Friendly;Germany;Draw;;;;;;;;
+26/04/2000;South Korea;Japan;43;50;0;0;1;0;Friendly;South Korea;Win;;;;;;;;
+29/03/2000;Belgium;Netherlands;33;19;0;0;2;2;Friendly;Belgium;Draw;;;;;;;;
+29/03/2000;Croatia;Germany;9;5;0;0;1;1;Friendly;Croatia;Draw;;;;;;;;
+29/03/2000;Portugal;Denmark;15;12;0;0;2;1;Friendly;Portugal;Win;;;;;;;;
+12/03/2000;USA;Tunisia;22;27;0;0;1;1;Friendly;USA;Draw;;;;;;;;
+23/02/2000;Belgium;Portugal;33;15;0;0;1;1;Friendly;Belgium;Draw;;;;;;;;
+23/02/2000;Croatia;Spain;9;4;0;0;0;0;Friendly;Croatia;Draw;;;;;;;;
+23/02/2000;England;Argentina;11;6;0;0;0;0;Friendly;England;Draw;;;;;;;;
+23/02/2000;France;Poland;3;32;0;0;1;0;Friendly;France;Win;;;;;;;;
+23/02/2000;Netherlands;Germany;19;5;0;0;2;1;Friendly;Netherlands;Win;;;;;;;;
+23/02/2000;Qatar;Wales;106;99;0;0;0;1;Friendly;Qatar;Lose;;;;;;;;
+20/02/2000;Mexico;Canada;10;85;0;0;1;2;Gold Cup;USA;Lose;;;;;;;;
+17/02/2000;South Korea;Costa Rica;48;63;0;0;2;2;Gold Cup;USA;Draw;;;;;;;;
+15/02/2000;Canada;South Korea;80;52;0;0;0;0;Gold Cup;USA;Draw;;;;;;;;
+13/02/2000;Costa Rica;Canada;64;80;0;0;2;2;Gold Cup;USA;Draw;;;;;;;;
+10/02/2000;Cameroon;Tunisia;57;28;0;0;3;0;African Cup of Nations;Ghana;Win;;;;;;;;
+05/02/2000;Japan;Mexico;58;10;0;0;0;1;Lunar New Year Cup;Hong Kong;Lose;;;;;;;;
+29/01/2000;Tunisia;Morocco;28;25;0;0;0;0;African Cup of Nations;Nigeria;Draw;;;;;;;;
+26/01/2000;Spain;Poland;4;32;0;0;3;0;Friendly;Spain;Win;;;;;;;;
+22/01/2000;Ghana;Cameroon;50;57;0;0;1;1;African Cup of Nations;Ghana;Draw;;;;;;;;
+18/01/2000;Ghana;Tunisia;48;31;0;0;2;0;Friendly;Ghana;Win;;;;;;;;
+16/01/2000;USA;Iran;22;49;0;0;1;1;Friendly;USA;Draw;;;;;;;;
+13/01/2000;Senegal;Cameroon;79;58;0;0;0;0;Friendly;Senegal;Draw;;;;;;;;
+09/01/2000;Mexico;Iran;10;49;0;0;2;1;Friendly;USA;Win;;;;;;;;
+22/12/1999;Tunisia;Ghana;31;48;0;0;2;0;Friendly;Tunisia;Win;;;;;;;;
+21/12/1999;Morocco;Senegal;24;83;0;0;0;0;Friendly;Morocco;Draw;;;;;;;;
+17/11/1999;Morocco;USA;24;21;0;0;2;1;Friendly;Morocco;Win;;;;;;;;
+17/11/1999;Spain;Argentina;4;7;0;0;0;2;Friendly;Spain;Lose;;;;;;;;
+13/11/1999;France;Croatia;3;6;0;0;3;0;Friendly;France;Win;;;;;;;;
+13/11/1999;Spain;Brazil;4;1;0;0;0;0;Friendly;Spain;Draw;;;;;;;;
+27/10/1999;Mexico;Ecuador;11;61;0;0;0;0;Friendly;USA;Draw;;;;;;;;
+12/10/1999;Uruguay;Ecuador;41;60;0;0;0;0;Friendly;Uruguay;Draw;;;;;;;;
+10/10/1999;Denmark;Iran;16;50;0;0;0;0;Friendly;Denmark;Draw;;;;;;;;
+10/10/1999;England;Belgium;12;32;0;0;2;1;Friendly;England;Win;;;;;;;;
+09/10/1999;Netherlands;Brazil;14;1;0;0;2;2;Friendly;Netherlands;Draw;;;;;;;;
+09/10/1999;Wales;Switzerland;78;53;0;0;0;2;UEFA Euro qualification;Wales;Lose;;;;;;;;
+08/09/1999;Japan;Iran;46;51;0;0;1;1;Friendly;Japan;Draw;;;;;;;;
+08/09/1999;Poland;England;27;14;0;0;0;0;UEFA Euro qualification;Poland;Draw;;;;;;;;
+07/09/1999;Belgium;Morocco;33;19;0;0;4;0;Friendly;Belgium;Win;;;;;;;;
+07/09/1999;Brazil;Argentina;1;6;0;0;4;2;Friendly;Brazil;Win;;;;;;;;
+04/09/1999;Argentina;Brazil;6;1;0;0;2;0;Friendly;Argentina;Win;;;;;;;;
+04/09/1999;Denmark;Switzerland;17;54;0;0;2;1;UEFA Euro qualification;Denmark;Win;;;;;;;;
+04/09/1999;Netherlands;Belgium;13;33;0;0;5;5;Friendly;Netherlands;Draw;;;;;;;;
+18/08/1999;Denmark;Netherlands;17;13;0;0;0;0;Friendly;Denmark;Draw;;;;;;;;
+18/08/1999;Poland;Spain;27;7;0;0;1;2;Friendly;Poland;Lose;;;;;;;;
+18/08/1999;Uruguay;Costa Rica;43;68;0;0;5;4;Friendly;Uruguay;Win;;;;;;;;
+04/08/1999;Mexico;Brazil;11;1;0;0;4;3;Confederations Cup;Mexico;Win;;;;;;;;
+03/08/1999;USA;Saudi Arabia;30;40;0;0;2;0;Confederations Cup;Mexico;Win;;;;;;;;
+01/08/1999;Brazil;Saudi Arabia;1;40;0;0;8;2;Confederations Cup;Mexico;Win;;;;;;;;
+01/08/1999;Mexico;USA;11;30;0;0;1;0;Confederations Cup;Mexico;Win;;;;;;;;
+30/07/1999;USA;Germany;30;5;0;0;2;0;Confederations Cup;Mexico;Win;;;;;;;;
+28/07/1999;Brazil;USA;1;30;0;0;1;0;Confederations Cup;Mexico;Win;;;;;;;;
+25/07/1999;Mexico;Saudi Arabia;11;40;0;0;5;1;Confederations Cup;Mexico;Win;;;;;;;;
+24/07/1999;Brazil;Germany;1;5;0;0;4;0;Confederations Cup;Mexico;Win;;;;;;;;
+18/07/1999;Brazil;Uruguay;1;74;0;0;3;0;Copa América;Paraguay;Win;;;;;;;;
+17/07/1999;Costa Rica;Saudi Arabia;67;40;0;0;1;0;Friendly;USA;Win;;;;;;;;
+14/07/1999;Mexico;Brazil;14;1;0;0;0;2;Copa América;Paraguay;Lose;;;;;;;;
+11/07/1999;Brazil;Argentina;1;8;0;0;2;1;Copa América;Paraguay;Win;;;;;;;;
+09/07/1999;Canada;Saudi Arabia;95;40;0;0;0;2;Friendly;USA;Lose;;;;;;;;
+07/07/1999;Uruguay;Argentina;74;8;0;0;0;2;Copa América;Paraguay;Lose;;;;;;;;
+04/07/1999;Uruguay;Ecuador;74;49;0;0;2;1;Copa América;Paraguay;Win;;;;;;;;
+03/07/1999;Brazil;Mexico;1;14;0;0;2;1;Copa América;Paraguay;Win;;;;;;;;
+01/07/1999;Argentina;Ecuador;8;49;0;0;3;1;Copa América;Paraguay;Win;;;;;;;;
+19/06/1999;South Korea;Croatia;38;7;0;0;1;1;Korea Cup;South Korea;Draw;;;;;;;;
+16/06/1999;Brazil;Poland;1;23;0;0;2;0;Friendly;Thailand;Win;;;;;;;;
+16/06/1999;Croatia;Mexico;7;14;0;0;2;1;Korea Cup;South Korea;Win;;;;;;;;
+13/06/1999;USA;Argentina;24;7;0;0;1;0;Friendly;USA;Win;;;;;;;;
+12/06/1999;South Korea;Mexico;34;13;0;0;1;1;Korea Cup;South Korea;Draw;;;;;;;;
+09/06/1999;Mexico;Argentina;13;7;0;0;2;2;Friendly;USA;Draw;;;;;;;;
+09/06/1999;Wales;Denmark;82;18;0;0;0;2;UEFA Euro qualification;England;Lose;;;;;;;;
+08/06/1999;Brazil;Netherlands;1;9;0;0;3;1;Friendly;Brazil;Win;;;;;;;;
+06/06/1999;Canada;Ecuador;93;55;0;0;1;2;Friendly;Canada;Lose;;;;;;;;
+05/06/1999;Brazil;Netherlands;1;9;0;0;2;2;Friendly;Brazil;Draw;;;;;;;;
+05/06/1999;South Korea;Belgium;34;27;0;0;1;2;Friendly;South Korea;Lose;;;;;;;;
+04/06/1999;Canada;Iran;93;47;0;0;0;1;Friendly;Canada;Lose;;;;;;;;
+03/06/1999;Japan;Belgium;41;27;0;0;0;0;Kirin Cup;Japan;Draw;;;;;;;;
+02/06/1999;Ecuador;Iran;55;47;0;0;1;1;Friendly;Canada;Draw;;;;;;;;
+05/05/1999;Spain;Croatia;8;6;0;0;3;1;Friendly;Spain;Win;;;;;;;;
+28/04/1999;Netherlands;Morocco;9;19;0;0;1;2;Friendly;Netherlands;Lose;;;;;;;;
+14/04/1999;Mexico;Ecuador;12;55;0;0;0;0;Friendly;Mexico;Draw;;;;;;;;
+31/03/1999;Japan;Brazil;37;1;0;0;0;2;Friendly;Japan;Lose;;;;;;;;
+31/03/1999;Netherlands;Argentina;8;6;0;0;1;1;Friendly;Netherlands;Draw;;;;;;;;
+31/03/1999;Switzerland;Wales;63;77;0;0;2;0;UEFA Euro qualification;Switzerland;Win;;;;;;;;
+28/03/1999;South Korea;Brazil;36;1;0;0;1;0;Friendly;South Korea;Win;;;;;;;;
+27/03/1999;England;Poland;11;27;0;0;3;1;UEFA Euro qualification;England;Win;;;;;;;;
+13/03/1999;USA;Mexico;23;12;0;0;1;2;USA Cup;USA;Lose;;;;;;;;
+10/02/1999;Croatia;Denmark;3;15;0;0;0;1;Friendly;Croatia;Lose;;;;;;;;
+10/02/1999;England;France;11;2;0;0;0;2;Friendly;England;Lose;;;;;;;;
+10/02/1999;Mexico;Argentina;12;6;0;0;0;1;Friendly;USA;Lose;;;;;;;;
+10/02/1999;Portugal;Netherlands;17;8;0;0;0;0;Friendly;France;Draw;;;;;;;;
+06/02/1999;USA;Germany;23;5;0;0;3;0;Friendly;USA;Win;;;;;;;;
+28/01/1999;Costa Rica;Ecuador;69;61;0;0;0;0;Friendly;Costa Rica;Draw;;;;;;;;
+20/01/1999;France;Morocco;2;13;0;0;1;0;Friendly;France;Win;;;;;;;;
+18/11/1998;Germany;Netherlands;3;9;0;0;1;1;Friendly;Germany;Draw;;;;;;;;
+11/11/1998;Qatar;Saudi Arabia;56;30;0;0;0;0;Gulf Cup;Bahrain;Draw;;;;;;;;
+06/11/1998;USA;Australia;17;33;0;0;0;0;Friendly;USA;Draw;;;;;;;;
+14/10/1998;Brazil;Ecuador;1;51;0;0;5;1;Friendly;USA;Win;;;;;;;;
+14/10/1998;Switzerland;Denmark;77;18;0;0;1;1;UEFA Euro qualification;Switzerland;Draw;;;;;;;;
+13/10/1998;Netherlands;Ghana;9;60;0;0;0;0;Friendly;Netherlands;Draw;;;;;;;;
+10/10/1998;Denmark;Wales;18;107;0;0;1;2;UEFA Euro qualification;Denmark;Lose;;;;;;;;
+04/10/1998;Cameroon;Ghana;37;60;0;0;1;3;African Cup of Nations qualification;Cameroon;Lose;;;;;;;;
+01/10/1998;Qatar;Saudi Arabia;75;32;0;0;1;3;Arab Cup;Qatar;Lose;;;;;;;;
+17/09/1998;Saudi Arabia;Senegal;32;80;0;0;3;2;Friendly;Saudi Arabia;Win;;;;;;;;
+02/09/1998;Morocco;Senegal;16;73;0;0;2;0;Friendly;Morocco;Win;;;;;;;;
+12/07/1998;France;Brazil;18;1;0;0;3;0;FIFA World Cup;France;Win;;;;;;;;
+11/07/1998;Netherlands;Croatia;25;19;0;0;1;2;FIFA World Cup;France;Lose;;;;;;;;
+08/07/1998;France;Croatia;18;19;0;0;2;1;FIFA World Cup;France;Win;;;;;;;;
+07/07/1998;Brazil;Netherlands;1;25;0;0;1;1;FIFA World Cup;France;Win;;;;;;;;
+04/07/1998;Germany;Croatia;2;19;0;0;0;3;FIFA World Cup;France;Lose;;;;;;;;
+04/07/1998;Netherlands;Argentina;25;6;0;0;2;1;FIFA World Cup;France;Win;;;;;;;;
+03/07/1998;Brazil;Denmark;1;27;0;0;3;2;FIFA World Cup;France;Win;;;;;;;;
+30/06/1998;Argentina;England;6;5;0;0;2;2;FIFA World Cup;France;Win;;;;;;;;
+29/06/1998;Germany;Mexico;2;4;0;0;2;1;FIFA World Cup;France;Win;;;;;;;;
+26/06/1998;Argentina;Croatia;6;19;0;0;1;0;FIFA World Cup;France;Win;;;;;;;;
+25/06/1998;Belgium;South Korea;36;20;0;0;1;1;FIFA World Cup;France;Draw;;;;;;;;
+25/06/1998;Germany;Iran;2;42;0;0;2;0;FIFA World Cup;France;Win;;;;;;;;
+25/06/1998;Netherlands;Mexico;25;4;0;0;2;2;FIFA World Cup;France;Draw;;;;;;;;
+24/06/1998;France;Denmark;18;27;0;0;2;1;FIFA World Cup;France;Win;;;;;;;;
+21/06/1998;USA;Iran;11;42;0;0;1;2;FIFA World Cup;France;Lose;;;;;;;;
+20/06/1998;Belgium;Mexico;36;4;0;0;2;2;FIFA World Cup;France;Draw;;;;;;;;
+20/06/1998;Japan;Croatia;12;19;0;0;0;1;FIFA World Cup;France;Lose;;;;;;;;
+20/06/1998;Netherlands;South Korea;25;20;0;0;5;0;FIFA World Cup;France;Win;;;;;;;;
+18/06/1998;France;Saudi Arabia;18;34;0;0;4;0;FIFA World Cup;France;Win;;;;;;;;
+16/06/1998;Brazil;Morocco;1;13;0;0;3;0;FIFA World Cup;France;Win;;;;;;;;
+15/06/1998;England;Tunisia;5;21;0;0;2;0;FIFA World Cup;France;Win;;;;;;;;
+15/06/1998;Germany;USA;2;11;0;0;2;0;FIFA World Cup;France;Win;;;;;;;;
+14/06/1998;Argentina;Japan;6;12;0;0;1;0;FIFA World Cup;France;Win;;;;;;;;
+13/06/1998;South Korea;Mexico;20;4;0;0;1;3;FIFA World Cup;France;Lose;;;;;;;;
+13/06/1998;Netherlands;Belgium;25;36;0;0;0;0;FIFA World Cup;France;Draw;;;;;;;;
+12/06/1998;Saudi Arabia;Denmark;34;27;0;0;0;1;FIFA World Cup;France;Lose;;;;;;;;
+06/06/1998;Croatia;Australia;19;32;0;0;7;0;Friendly;Croatia;Win;;;;;;;;
+06/06/1998;Tunisia;Wales;21;103;0;0;4;0;Friendly;Tunisia;Win;;;;;;;;
+05/06/1998;Denmark;Cameroon;27;49;0;0;1;2;Friendly;Denmark;Lose;;;;;;;;
+03/06/1998;Croatia;Iran;19;42;0;0;2;0;Friendly;Croatia;Win;;;;;;;;
+03/06/1998;Saudi Arabia;Mexico;34;4;0;0;0;0;Friendly;France;Draw;;;;;;;;
+31/05/1998;Japan;Mexico;12;4;0;0;1;2;Friendly;Switzerland;Lose;;;;;;;;
+29/05/1998;Belgium;England;36;5;0;0;0;0;King Hassan II Tournament;Morocco;Win;;;;;;;;
+29/05/1998;Morocco;France;13;18;0;0;2;2;King Hassan II Tournament;Morocco;Win;;;;;;;;
+27/05/1998;Belgium;France;36;18;0;0;0;1;King Hassan II Tournament;Morocco;Lose;;;;;;;;
+27/05/1998;Morocco;England;13;5;0;0;0;1;King Hassan II Tournament;Morocco;Lose;;;;;;;;
+27/05/1998;Netherlands;Cameroon;25;49;0;0;0;0;Friendly;Netherlands;Draw;;;;;;;;
+23/05/1998;England;Saudi Arabia;5;34;0;0;0;0;Friendly;England;Draw;;;;;;;;
+29/04/1998;Brazil;Argentina;1;7;0;0;0;1;Friendly;Brazil;Lose;;;;;;;;
+22/04/1998;Croatia;Poland;23;55;0;0;4;1;Friendly;Croatia;Win;;;;;;;;
+22/04/1998;England;Portugal;5;39;0;0;3;0;Friendly;England;Win;;;;;;;;
+01/04/1998;South Korea;Japan;24;9;0;0;2;1;Friendly;South Korea;Win;;;;;;;;
+25/03/1998;Germany;Brazil;2;1;0;0;1;2;Friendly;Germany;Lose;;;;;;;;
+25/03/1998;Switzerland;England;69;5;0;0;1;1;Friendly;Switzerland;Draw;;;;;;;;
+01/03/1998;Japan;South Korea;9;20;0;0;2;1;Dynasty Cup;Japan;Win;;;;;;;;
+25/02/1998;Belgium;USA;41;12;0;0;2;0;Friendly;Belgium;Win;;;;;;;;
+24/02/1998;Mexico;Netherlands;4;25;0;0;2;3;Friendly;USA;Lose;;;;;;;;
+22/02/1998;Saudi Arabia;Germany;32;2;0;0;0;3;Friendly;Saudi Arabia;Lose;;;;;;;;
+21/02/1998;USA;Netherlands;12;25;0;0;0;2;Friendly;USA;Lose;;;;;;;;
+15/02/1998;Australia;Japan;35;14;0;0;0;3;Friendly;Australia;Lose;;;;;;;;
+15/02/1998;USA;Mexico;26;5;0;0;0;1;Gold Cup;USA;Lose;;;;;;;;
+11/02/1998;Australia;South Korea;35;27;0;0;1;0;Friendly;Australia;Win;;;;;;;;
+10/02/1998;USA;Brazil;26;1;0;0;1;0;Gold Cup;USA;Win;;;;;;;;
+09/02/1998;Ghana;Tunisia;57;23;0;0;2;0;African Cup of Nations;Burkina Faso;Win;;;;;;;;
+07/02/1998;USA;Costa Rica;26;51;0;0;2;1;Gold Cup;USA;Win;;;;;;;;
+28/01/1998;France;Spain;6;11;0;0;1;0;Friendly;France;Win;;;;;;;;
+21/12/1997;Brazil;Australia;1;32;0;0;6;0;Confederations Cup;Saudi Arabia;Win;;;;;;;;
+19/12/1997;Uruguay;Australia;43;32;0;0;0;1;Confederations Cup;Saudi Arabia;Lose;;;;;;;;
+16/12/1997;Brazil;Mexico;1;11;0;0;3;2;Confederations Cup;Saudi Arabia;Win;;;;;;;;
+16/12/1997;Saudi Arabia;Australia;34;32;0;0;1;0;Confederations Cup;Saudi Arabia;Win;;;;;;;;
+14/12/1997;Australia;Brazil;32;1;0;0;0;0;Confederations Cup;Saudi Arabia;Draw;;;;;;;;
+14/12/1997;Saudi Arabia;Mexico;34;11;0;0;0;5;Confederations Cup;Saudi Arabia;Lose;;;;;;;;
+12/12/1997;Mexico;Australia;11;32;0;0;1;3;Confederations Cup;Saudi Arabia;Lose;;;;;;;;
+12/12/1997;Saudi Arabia;Brazil;34;1;0;0;0;3;Confederations Cup;Saudi Arabia;Lose;;;;;;;;
+29/11/1997;Australia;Iran;32;50;0;0;2;2;FIFA World Cup qualification;Australia;Draw;;;;;;;;
+22/11/1997;Iran;Australia;50;32;0;0;1;1;FIFA World Cup qualification;Iran;Draw;;;;;;;;
+16/11/1997;Costa Rica;Canada;56;62;0;0;3;1;FIFA World Cup qualification;Costa Rica;Win;;;;;;;;
+16/11/1997;Japan;Iran;20;49;0;0;3;2;FIFA World Cup qualification;Malaysia;Win;;;;;;;;
+16/11/1997;Uruguay;Ecuador;52;31;0;0;5;3;FIFA World Cup qualification;Uruguay;Win;;;;;;;;
+15/11/1997;England;Cameroon;7;44;0;0;2;0;Friendly;England;Win;;;;;;;;
+12/11/1997;Qatar;Saudi Arabia;96;37;0;0;0;1;FIFA World Cup qualification;Qatar;Lose;;;;;;;;
+11/11/1997;Brazil;Wales;1;98;0;0;3;0;Friendly;Brazil;Win;;;;;;;;
+09/11/1997;Canada;USA;62;35;0;0;0;3;FIFA World Cup qualification;Canada;Lose;;;;;;;;
+09/11/1997;Mexico;Costa Rica;10;56;0;0;3;3;FIFA World Cup qualification;Mexico;Draw;;;;;;;;
+07/11/1997;Qatar;Iran;96;49;0;0;2;0;FIFA World Cup qualification;Qatar;Win;;;;;;;;
+02/11/1997;Mexico;USA;10;35;0;0;0;0;FIFA World Cup qualification;Mexico;Draw;;;;;;;;
+01/11/1997;South Korea;Japan;34;20;0;0;0;2;FIFA World Cup qualification;South Korea;Lose;;;;;;;;
+24/10/1997;Saudi Arabia;Iran;37;49;0;0;1;0;FIFA World Cup qualification;Saudi Arabia;Win;;;;;;;;
+12/10/1997;Argentina;Uruguay;10;47;0;0;0;0;FIFA World Cup qualification;Argentina;Draw;;;;;;;;
+12/10/1997;Canada;Mexico;59;11;0;0;2;2;FIFA World Cup qualification;Canada;Draw;;;;;;;;
+11/10/1997;Belgium;Wales;48;98;0;0;3;2;FIFA World Cup qualification;Belgium;Win;;;;;;;;
+11/10/1997;Saudi Arabia;Qatar;38;85;0;0;1;0;FIFA World Cup qualification;Saudi Arabia;Win;;;;;;;;
+09/10/1997;Brazil;Morocco;1;15;0;0;2;0;Friendly;Brazil;Win;;;;;;;;
+03/10/1997;Iran;Qatar;53;85;0;0;3;0;FIFA World Cup qualification;Iran;Win;;;;;;;;
+28/09/1997;Japan;South Korea;18;35;0;0;1;2;FIFA World Cup qualification;Japan;Lose;;;;;;;;
+19/09/1997;Iran;Saudi Arabia;53;38;0;0;1;1;FIFA World Cup qualification;Iran;Draw;;;;;;;;
+10/09/1997;Brazil;Ecuador;1;29;0;0;4;2;Friendly;Brazil;Win;;;;;;;;
+10/09/1997;Denmark;Croatia;3;33;0;0;3;1;FIFA World Cup qualification;Denmark;Win;;;;;;;;
+07/09/1997;USA;Costa Rica;28;56;0;0;1;0;FIFA World Cup qualification;USA;Win;;;;;;;;
+06/09/1997;Germany;Portugal;4;30;0;0;1;1;FIFA World Cup qualification;Germany;Draw;;;;;;;;
+06/09/1997;Netherlands;Belgium;6;38;0;0;3;1;FIFA World Cup qualification;Netherlands;Win;;;;;;;;
+17/08/1997;Canada;Iran;47;57;0;0;0;1;Friendly;Canada;Lose;;;;;;;;
+13/08/1997;Japan;Brazil;17;1;0;0;0;3;Friendly;Japan;Lose;;;;;;;;
+10/08/1997;South Korea;Brazil;34;1;0;0;1;2;Friendly;South Korea;Lose;;;;;;;;
+07/08/1997;USA;Ecuador;26;30;0;0;0;1;Friendly;USA;Lose;;;;;;;;
+27/07/1997;Morocco;Senegal;15;65;0;0;3;0;African Cup of Nations qualification;Morocco;Win;;;;;;;;
+22/06/1997;Ecuador;Mexico;38;12;0;0;1;1;Copa América;Bolivia;Lose;;;;;;;;
+19/06/1997;Mexico;Costa Rica;12;53;0;0;1;1;Copa América;Bolivia;Draw;;;;;;;;
+16/06/1997;Brazil;Mexico;1;12;0;0;3;2;Copa América;Bolivia;Win;;;;;;;;
+14/06/1997;South Korea;Ghana;36;35;0;0;3;0;Korea Cup;South Korea;Win;;;;;;;;
+13/06/1997;Brazil;Costa Rica;1;53;0;0;5;0;Copa América;Bolivia;Win;;;;;;;;
+11/06/1997;Argentina;Ecuador;21;40;0;0;0;0;Copa América;Bolivia;Draw;;;;;;;;
+10/06/1997;England;Brazil;13;1;0;0;0;1;Tournoi de France;France;Lose;;;;;;;;
+08/06/1997;Japan;Croatia;18;28;0;0;4;3;Kirin Cup;Japan;Win;;;;;;;;
+07/06/1997;France;England;4;13;0;0;0;1;Tournoi de France;France;Lose;;;;;;;;
+07/06/1997;Morocco;Ghana;19;35;0;0;1;0;FIFA World Cup qualification;Morocco;Win;;;;;;;;
+03/06/1997;France;Brazil;4;1;0;0;1;1;Tournoi de France;France;Draw;;;;;;;;
+01/06/1997;Canada;Costa Rica;52;53;0;0;1;0;FIFA World Cup qualification;Canada;Win;;;;;;;;
+31/05/1997;Poland;England;57;13;0;0;0;2;FIFA World Cup qualification;Poland;Lose;;;;;;;;
+21/05/1997;Japan;South Korea;18;36;0;0;1;1;Friendly;Japan;Draw;;;;;;;;
+30/04/1997;Argentina;Ecuador;19;35;0;0;2;1;FIFA World Cup qualification;Argentina;Win;;;;;;;;
+30/04/1997;Brazil;Mexico;1;12;0;0;4;0;Friendly;USA;Win;;;;;;;;
+20/04/1997;USA;Mexico;21;12;0;0;2;2;FIFA World Cup qualification;USA;Draw;;;;;;;;
+29/03/1997;Croatia;Denmark;25;4;0;0;1;1;FIFA World Cup qualification;Croatia;Draw;;;;;;;;
+29/03/1997;England;Mexico;12;11;0;0;2;0;Friendly;England;Win;;;;;;;;
+29/03/1997;Wales;Belgium;82;44;0;0;1;2;FIFA World Cup qualification;Wales;Lose;;;;;;;;
+23/03/1997;Costa Rica;USA;66;22;0;0;3;2;FIFA World Cup qualification;Costa Rica;Win;;;;;;;;
+16/03/1997;Costa Rica;Mexico;66;11;0;0;0;0;FIFA World Cup qualification;Costa Rica;Draw;;;;;;;;
+16/03/1997;USA;Canada;22;48;0;0;3;0;FIFA World Cup qualification;USA;Win;;;;;;;;
+09/03/1997;Costa Rica;Cameroon;66;59;0;0;5;0;Friendly;Costa Rica;Win;;;;;;;;
+02/03/1997;Mexico;Canada;11;48;0;0;4;0;FIFA World Cup qualification;Mexico;Win;;;;;;;;
+26/02/1997;Brazil;Poland;1;53;0;0;4;2;Friendly;Brazil;Win;;;;;;;;
+26/02/1997;France;Netherlands;3;9;0;0;2;1;Friendly;France;Win;;;;;;;;
+12/02/1997;Ecuador;Uruguay;33;43;0;0;4;0;FIFA World Cup qualification;Ecuador;Win;;;;;;;;
+05/02/1997;Mexico;Ecuador;11;33;0;0;3;1;Friendly;Mexico;Win;;;;;;;;
+22/01/1997;Australia;South Korea;50;44;0;0;2;1;Friendly;Australia;Win;;;;;;;;
+22/01/1997;Portugal;France;13;3;0;0;0;2;Friendly;Portugal;Lose;;;;;;;;
+19/01/1997;USA;Mexico;18;11;0;0;0;2;USA Cup;USA;Lose;;;;;;;;
+12/01/1997;Ghana;Morocco;25;27;0;0;2;2;FIFA World Cup qualification;Ghana;Draw;;;;;;;;
+12/01/1997;Uruguay;Argentina;43;22;0;0;0;0;FIFA World Cup qualification;Uruguay;Draw;;;;;;;;
+19/12/1996;Iran;Saudi Arabia;83;37;0;0;0;0;AFC Asian Cup;United Arab Emirates;Lose;;;;;;;;
+16/12/1996;South Korea;Iran;46;77;0;0;2;6;AFC Asian Cup;United Arab Emirates;Lose;;;;;;;;
+14/12/1996;Belgium;Netherlands;42;10;0;0;0;3;FIFA World Cup qualification;Belgium;Lose;;;;;;;;
+14/12/1996;Portugal;Germany;15;2;0;0;0;0;FIFA World Cup qualification;Portugal;Draw;;;;;;;;
+14/12/1996;USA;Costa Rica;16;83;0;0;2;1;FIFA World Cup qualification;USA;Win;;;;;;;;
+11/12/1996;Morocco;Croatia;27;24;0;0;2;2;King Hassan II Tournament;Morocco;Lose;;;;;;;;
+11/12/1996;Saudi Arabia;Iran;40;77;0;0;0;3;AFC Asian Cup;United Arab Emirates;Lose;;;;;;;;
+01/12/1996;Costa Rica;USA;83;16;0;0;2;1;FIFA World Cup qualification;Costa Rica;Win;;;;;;;;
+13/11/1996;Brazil;Cameroon;1;47;0;0;2;0;Friendly;Brazil;Win;;;;;;;;
+09/11/1996;Denmark;France;6;3;0;0;1;0;Friendly;Denmark;Win;;;;;;;;
+09/11/1996;Netherlands;Wales;9;75;0;0;7;1;FIFA World Cup qualification;Netherlands;Win;;;;;;;;
+23/10/1996;Mexico;Ecuador;15;32;0;0;0;1;Friendly;USA;Lose;;;;;;;;
+19/10/1996;Qatar;Saudi Arabia;84;42;0;0;2;2;Gulf Cup;Oman;Draw;;;;;;;;
+13/10/1996;Japan;Tunisia;20;24;0;0;1;0;Friendly;Japan;Win;;;;;;;;
+09/10/1996;England;Poland;12;56;0;0;2;1;FIFA World Cup qualification;England;Win;;;;;;;;
+09/10/1996;Saudi Arabia;Australia;42;52;0;0;0;0;Friendly;Saudi Arabia;Draw;;;;;;;;
+05/10/1996;Wales;Netherlands;68;7;0;0;1;3;FIFA World Cup qualification;Wales;Lose;;;;;;;;
+14/09/1996;Australia;Ghana;61;19;0;0;2;0;Simba Tournament;South Africa;Win;;;;;;;;
+04/09/1996;Poland;Germany;55;2;0;0;0;2;Friendly;Poland;Lose;;;;;;;;
+31/08/1996;France;Mexico;3;14;0;0;2;0;Friendly;France;Win;;;;;;;;
+31/08/1996;Netherlands;Brazil;6;1;0;0;2;2;Friendly;Netherlands;Draw;;;;;;;;
+25/08/1996;Japan;Uruguay;25;38;0;0;5;3;Friendly;Japan;Win;;;;;;;;
+16/08/1996;Ecuador;Costa Rica;32;93;0;0;1;1;Friendly;Ecuador;Draw;;;;;;;;
+26/06/1996;England;Germany;24;2;0;0;1;1;UEFA Euro;England;Lose;;;;;;;;
+23/06/1996;Germany;Croatia;2;27;0;0;2;1;UEFA Euro;England;Win;;;;;;;;
+22/06/1996;England;Spain;24;6;0;0;0;0;UEFA Euro;England;Win;;;;;;;;
+22/06/1996;France;Netherlands;5;13;0;0;0;0;UEFA Euro;England;Win;;;;;;;;
+19/06/1996;Croatia;Portugal;27;18;0;0;0;3;UEFA Euro;England;Lose;;;;;;;;
+18/06/1996;England;Netherlands;24;13;0;0;4;1;UEFA Euro;England;Win;;;;;;;;
+16/06/1996;Croatia;Denmark;27;11;0;0;3;0;UEFA Euro;England;Win;;;;;;;;
+16/06/1996;USA;Mexico;14;12;0;0;2;2;USA Cup;USA;Draw;;;;;;;;
+15/06/1996;France;Spain;5;6;0;0;1;1;UEFA Euro;England;Draw;;;;;;;;
+13/06/1996;Switzerland;Netherlands;21;13;0;0;0;2;UEFA Euro;England;Lose;;;;;;;;
+09/06/1996;Denmark;Portugal;11;18;0;0;1;1;UEFA Euro;England;Draw;;;;;;;;
+08/06/1996;England;Switzerland;24;21;0;0;1;1;UEFA Euro;England;Draw;;;;;;;;
+05/06/1996;Canada;Costa Rica;65;87;0;0;0;1;Friendly;Canada;Lose;;;;;;;;
+02/06/1996;Denmark;Ghana;11;17;0;0;1;0;Friendly;Denmark;Win;;;;;;;;
+02/06/1996;Ecuador;Argentina;38;8;0;0;2;0;FIFA World Cup qualification;Ecuador;Win;;;;;;;;
+01/06/1996;Germany;France;2;5;0;0;0;1;Friendly;Germany;Lose;;;;;;;;
+01/06/1996;Qatar;Iran;81;122;0;0;0;1;Friendly;Qatar;Lose;;;;;;;;
+29/05/1996;Japan;Mexico;26;12;0;0;3;2;Kirin Cup;Japan;Win;;;;;;;;
+26/05/1996;Tunisia;Senegal;22;58;0;0;2;0;Friendly;Tunisia;Win;;;;;;;;
+17/05/1996;Iran;Qatar;118;84;0;0;2;0;Friendly;Iran;Win;;;;;;;;
+24/04/1996;England;Croatia;23;28;0;0;0;0;Friendly;England;Draw;;;;;;;;
+24/04/1996;Netherlands;Germany;11;2;0;0;0;1;Friendly;Netherlands;Lose;;;;;;;;
+24/04/1996;Switzerland;Wales;26;66;0;0;2;0;Friendly;Switzerland;Win;;;;;;;;
+27/03/1996;Belgium;France;28;7;0;0;0;2;Friendly;Belgium;Lose;;;;;;;;
+27/03/1996;Brazil;Ghana;1;16;0;0;8;2;Friendly;Brazil;Win;;;;;;;;
+27/03/1996;Germany;Denmark;3;9;0;0;2;0;Friendly;Germany;Win;;;;;;;;
+23/03/1996;South Korea;Morocco;62;26;0;0;2;2;United Arab Emirates Friendship Tournament;United Arab Emirates;Draw;;;;;;;;
+13/03/1996;Croatia;South Korea;43;62;0;0;3;0;Friendly;Croatia;Win;;;;;;;;
+28/02/1996;Croatia;Poland;43;37;0;0;2;1;Friendly;Croatia;Win;;;;;;;;
+25/02/1996;Qatar;Ecuador;85;54;0;0;1;2;Friendly;Qatar;Lose;;;;;;;;
+21/02/1996;Portugal;Germany;20;3;0;0;1;2;Friendly;Portugal;Lose;;;;;;;;
+19/02/1996;Japan;Poland;30;35;0;0;5;0;Lunar New Year Cup;Hong Kong;Win;;;;;;;;
+18/02/1996;Qatar;Ecuador;84;57;0;0;1;1;Friendly;Qatar;Draw;;;;;;;;
+14/02/1996;Australia;Japan;54;30;0;0;3;0;Friendly;Australia;Win;;;;;;;;
+10/02/1996;Australia;Japan;54;30;0;0;1;4;Friendly;Australia;Lose;;;;;;;;
+21/01/1996;Mexico;Brazil;12;1;0;0;2;0;Gold Cup;USA;Win;;;;;;;;
+19/01/1996;Ghana;Tunisia;29;22;0;0;2;1;African Cup of Nations;South Africa;Win;;;;;;;;
+18/01/1996;USA;Brazil;19;1;0;0;0;1;Gold Cup;USA;Lose;;;;;;;;
+12/01/1996;Brazil;Canada;1;65;0;0;4;1;Gold Cup;USA;Win;;;;;;;;
+05/01/1996;Saudi Arabia;Ghana;54;29;0;0;1;1;Friendly;Saudi Arabia;Draw;;;;;;;;
+03/01/1996;Morocco;Tunisia;38;22;0;0;3;1;Friendly;Morocco;Win;;;;;;;;
+12/12/1995;England;Portugal;20;16;0;0;1;1;Friendly;England;Draw;;;;;;;;
+15/11/1995;England;Switzerland;22;9;0;0;3;1;Friendly;England;Win;;;;;;;;
+08/11/1995;Argentina;Brazil;7;1;0;0;0;1;Friendly;Argentina;Lose;;;;;;;;
+31/10/1995;South Korea;Saudi Arabia;48;39;0;0;1;1;Friendly;South Korea;Draw;;;;;;;;
+28/10/1995;Japan;Saudi Arabia;34;39;0;0;2;1;Friendly;Japan;Win;;;;;;;;
+24/10/1995;Japan;Saudi Arabia;34;39;0;0;2;1;Friendly;Japan;Win;;;;;;;;
+11/10/1995;Brazil;Uruguay;1;36;0;0;2;0;Friendly;Brazil;Win;;;;;;;;
+11/10/1995;Denmark;Spain;13;6;0;0;1;1;UEFA Euro qualification;Denmark;Draw;;;;;;;;
+11/10/1995;Mexico;Saudi Arabia;16;29;0;0;2;1;Friendly;USA;Win;;;;;;;;
+11/10/1995;Wales;Germany;34;4;0;0;1;2;UEFA Euro qualification;Wales;Lose;;;;;;;;
+08/10/1995;USA;Saudi Arabia;22;29;0;0;4;3;Friendly;USA;Win;;;;;;;;
+20/09/1995;Spain;Argentina;6;9;0;0;2;1;Friendly;Spain;Win;;;;;;;;
+06/09/1995;Belgium;Denmark;29;7;0;0;1;3;UEFA Euro qualification;Belgium;Lose;;;;;;;;
+23/08/1995;Belgium;Germany;29;4;0;0;1;2;Friendly;Belgium;Lose;;;;;;;;
+16/08/1995;France;Poland;18;32;0;0;1;1;UEFA Euro qualification;France;Draw;;;;;;;;
+12/08/1995;South Korea;Brazil;39;1;0;0;0;1;Friendly;South Korea;Lose;;;;;;;;
+09/08/1995;Japan;Brazil;36;1;0;0;1;5;Friendly;Japan;Lose;;;;;;;;
+06/08/1995;Japan;Costa Rica;36;71;0;0;3;0;Friendly;Japan;Win;;;;;;;;
+23/07/1995;Uruguay;Brazil;36;1;0;0;1;1;Copa América;Uruguay;Win;;;;;;;;
+20/07/1995;USA;Brazil;34;1;0;0;0;1;Copa América;Uruguay;Lose;;;;;;;;
+17/07/1995;Brazil;Argentina;1;10;0;0;2;2;Copa América;Uruguay;Win;;;;;;;;
+17/07/1995;USA;Mexico;34;7;0;0;0;0;Copa América;Uruguay;Win;;;;;;;;
+15/07/1995;Tunisia;Senegal;24;43;0;0;4;0;African Cup of Nations qualification;Tunisia;Win;;;;;;;;
+14/07/1995;Argentina;USA;10;34;0;0;0;3;Copa América;Uruguay;Lose;;;;;;;;
+13/07/1995;Uruguay;Mexico;36;7;0;0;1;1;Copa América;Uruguay;Draw;;;;;;;;
+07/07/1995;Brazil;Ecuador;1;76;0;0;1;0;Copa América;Uruguay;Win;;;;;;;;
+30/06/1995;Argentina;Australia;10;58;0;0;2;0;Friendly;Argentina;Win;;;;;;;;
+24/06/1995;Australia;Ghana;58;27;0;0;0;1;Friendly;Australia;Lose;;;;;;;;
+23/06/1995;Switzerland;Germany;14;5;0;0;1;2;Friendly;Switzerland;Lose;;;;;;;;
+21/06/1995;Australia;Ghana;58;27;0;0;1;0;Friendly;Australia;Win;;;;;;;;
+18/06/1995;Australia;Ghana;58;27;0;0;2;1;Friendly;Australia;Win;;;;;;;;
+18/06/1995;USA;Mexico;34;7;0;0;4;0;USA Cup;USA;Win;;;;;;;;
+11/06/1995;England;Brazil;21;1;0;0;1;3;Friendly;England;Lose;;;;;;;;
+10/06/1995;Costa Rica;Ecuador;72;62;0;0;1;2;Korea Cup;South Korea;Lose;;;;;;;;
+06/06/1995;Brazil;Japan;1;35;0;0;3;0;Friendly;England;Win;;;;;;;;
+05/06/1995;South Korea;Costa Rica;37;72;0;0;1;0;Korea Cup;South Korea;Win;;;;;;;;
+03/06/1995;England;Japan;21;35;0;0;2;1;Friendly;England;Win;;;;;;;;
+28/05/1995;Japan;Ecuador;35;62;0;0;3;0;Kirin Cup;Japan;Win;;;;;;;;
+28/05/1995;USA;Costa Rica;27;72;0;0;1;2;Friendly;USA;Lose;;;;;;;;
+26/04/1995;Germany;Wales;4;49;0;0;1;1;UEFA Euro qualification;Germany;Draw;;;;;;;;
+22/04/1995;Belgium;USA;21;22;0;0;1;0;Friendly;Belgium;Win;;;;;;;;
+29/03/1995;England;Uruguay;20;36;0;0;0;0;Friendly;England;Draw;;;;;;;;
+29/03/1995;Spain;Belgium;2;23;0;0;1;1;UEFA Euro qualification;Spain;Draw;;;;;;;;
+25/03/1995;USA;Uruguay;22;36;0;0;2;2;Friendly;USA;Draw;;;;;;;;
+01/03/1995;Morocco;Senegal;35;51;0;0;2;0;Friendly;Morocco;Win;;;;;;;;
+26/02/1995;Japan;South Korea;37;33;0;0;2;2;Dynasty Cup;Hong Kong;Win;;;;;;;;
+22/02/1995;Netherlands;Portugal;8;19;0;0;0;1;Friendly;Netherlands;Lose;;;;;;;;
+22/02/1995;Spain;Germany;2;5;0;0;0;0;Friendly;Spain;Draw;;;;;;;;
+21/02/1995;Japan;South Korea;37;33;0;0;1;1;Dynasty Cup;Hong Kong;Draw;;;;;;;;
+15/02/1995;Australia;Japan;58;36;0;0;2;1;Friendly;Australia;Win;;;;;;;;
+01/02/1995;Mexico;Uruguay;15;37;0;0;1;0;Friendly;USA;Win;;;;;;;;
+26/01/1995;Canada;Portugal;63;20;0;0;1;1;Friendly;Canada;Draw;;;;;;;;
+18/01/1995;Netherlands;France;6;19;0;0;0;1;Friendly;Netherlands;Lose;;;;;;;;
+18/01/1995;Spain;Uruguay;2;37;0;0;2;2;Friendly;Spain;Draw;;;;;;;;
+13/01/1995;Denmark;Argentina;14;10;0;0;2;0;Confederations Cup;Saudi Arabia;Win;;;;;;;;
+10/01/1995;Denmark;Mexico;14;15;0;0;1;1;Confederations Cup;Saudi Arabia;Win;;;;;;;;
+08/01/1995;Japan;Argentina;36;10;0;0;1;5;Confederations Cup;Saudi Arabia;Lose;;;;;;;;
+08/01/1995;Saudi Arabia;Denmark;27;14;0;0;0;2;Confederations Cup;Saudi Arabia;Lose;;;;;;;;
+07/01/1995;Senegal;Tunisia;50;30;0;0;0;0;African Cup of Nations qualification;Senegal;Draw;;;;;;;;
+06/01/1995;Saudi Arabia;Mexico;27;15;0;0;0;2;Confederations Cup;Saudi Arabia;Lose;;;;;;;;
+17/12/1994;Belgium;Spain;22;5;0;0;1;4;UEFA Euro qualification;Belgium;Lose;;;;;;;;
+17/12/1994;Saudi Arabia;Costa Rica;27;63;0;0;1;3;Friendly;Saudi Arabia;Lose;;;;;;;;
+10/12/1994;Saudi Arabia;Poland;27;33;0;0;1;2;Friendly;Saudi Arabia;Lose;;;;;;;;
+08/12/1994;Saudi Arabia;Poland;27;33;0;0;0;2;Friendly;Saudi Arabia;Lose;;;;;;;;
+30/11/1994;Cameroon;Ghana;28;26;0;0;0;1;Simba Tournament;South Africa;Lose;;;;;;;;
+16/11/1994;Poland;France;36;19;0;0;0;0;UEFA Euro qualification;Poland;Draw;;;;;;;;
+16/11/1994;Spain;Denmark;6;13;0;0;3;0;UEFA Euro qualification;Spain;Win;;;;;;;;
+12/11/1994;Qatar;Saudi Arabia;60;27;0;0;1;2;Gulf Cup;United Arab Emirates;Lose;;;;;;;;
+07/11/1994;Morocco;Cameroon;33;29;0;0;1;1;Friendly;Morocco;Draw;;;;;;;;
+19/10/1994;Saudi Arabia;USA;29;22;0;0;2;1;Friendly;Saudi Arabia;Win;;;;;;;;
+12/10/1994;Denmark;Belgium;13;19;0;0;3;1;UEFA Euro qualification;Denmark;Win;;;;;;;;
+27/09/1994;Japan;Australia;41;52;0;0;0;0;Friendly;Japan;Draw;;;;;;;;
+07/09/1994;England;USA;18;22;0;0;2;0;Friendly;England;Win;;;;;;;;
+14/07/1994;Japan;Ghana;52;26;0;0;2;1;Friendly;Japan;Win;;;;;;;;
+09/07/1994;Netherlands;Brazil;2;3;0;0;2;3;FIFA World Cup;USA;Lose;;;;;;;;
+08/07/1994;Japan;Ghana;52;26;0;0;3;2;Friendly;Japan;Win;;;;;;;;
+04/07/1994;USA;Brazil;23;3;0;0;0;1;FIFA World Cup;USA;Lose;;;;;;;;
+02/07/1994;Germany;Belgium;1;27;0;0;3;2;FIFA World Cup;USA;Win;;;;;;;;
+02/07/1994;Spain;Switzerland;5;12;0;0;3;0;FIFA World Cup;USA;Win;;;;;;;;
+29/06/1994;Belgium;Saudi Arabia;27;34;0;0;0;1;FIFA World Cup;USA;Lose;;;;;;;;
+29/06/1994;Morocco;Netherlands;28;2;0;0;1;2;FIFA World Cup;USA;Lose;;;;;;;;
+27/06/1994;Germany;South Korea;1;37;0;0;3;2;FIFA World Cup;USA;Win;;;;;;;;
+25/06/1994;Belgium;Netherlands;27;2;0;0;1;0;FIFA World Cup;USA;Win;;;;;;;;
+25/06/1994;Saudi Arabia;Morocco;34;28;0;0;2;1;FIFA World Cup;USA;Win;;;;;;;;
+24/06/1994;Brazil;Cameroon;3;24;0;0;3;0;FIFA World Cup;USA;Win;;;;;;;;
+21/06/1994;Germany;Spain;1;5;0;0;1;1;FIFA World Cup;USA;Draw;;;;;;;;
+20/06/1994;Netherlands;Saudi Arabia;2;34;0;0;2;1;FIFA World Cup;USA;Win;;;;;;;;
+19/06/1994;Belgium;Morocco;27;28;0;0;1;0;FIFA World Cup;USA;Win;;;;;;;;
+18/06/1994;USA;Switzerland;23;12;0;0;1;1;FIFA World Cup;USA;Draw;;;;;;;;
+17/06/1994;Spain;South Korea;5;37;0;0;2;2;FIFA World Cup;USA;Draw;;;;;;;;
+12/06/1994;Canada;Netherlands;58;11;0;0;0;3;Friendly;Canada;Lose;;;;;;;;
+10/06/1994;Canada;Spain;58;9;0;0;0;2;Friendly;Canada;Lose;;;;;;;;
+08/06/1994;Canada;Germany;58;2;0;0;0;2;Friendly;Canada;Lose;;;;;;;;
+05/06/1994;Canada;Brazil;58;1;0;0;1;1;Friendly;Canada;Draw;;;;;;;;
+05/06/1994;Ecuador;South Korea;47;37;0;0;2;1;Friendly;USA;Win;;;;;;;;
+04/06/1994;Croatia;Argentina;102;6;0;0;0;0;Friendly;Croatia;Draw;;;;;;;;
+04/06/1994;USA;Mexico;23;13;0;0;1;0;Friendly;USA;Win;;;;;;;;
+01/06/1994;Canada;Morocco;58;30;0;0;1;1;Friendly;Canada;Draw;;;;;;;;
+29/05/1994;Japan;France;54;17;0;0;1;4;Kirin Cup;Japan;Lose;;;;;;;;
+26/05/1994;Australia;France;44;17;0;0;0;1;Kirin Cup;Japan;Lose;;;;;;;;
+25/05/1994;Ecuador;Argentina;47;6;0;0;1;0;Friendly;Ecuador;Win;;;;;;;;
+25/05/1994;USA;Saudi Arabia;23;35;0;0;0;0;Friendly;USA;Draw;;;;;;;;
+22/05/1994;Japan;Australia;54;44;0;0;1;1;Kirin Cup;Japan;Draw;;;;;;;;
+03/05/1994;South Korea;Cameroon;40;27;0;0;2;1;Friendly;South Korea;Win;;;;;;;;
+01/05/1994;South Korea;Cameroon;40;27;0;0;2;2;Friendly;South Korea;Draw;;;;;;;;
+20/04/1994;Argentina;Morocco;10;26;0;0;3;1;Friendly;Argentina;Win;;;;;;;;
+18/04/1994;Tunisia;Saudi Arabia;32;36;0;0;2;0;Friendly;Tunisia;Win;;;;;;;;
+13/04/1994;Poland;Saudi Arabia;24;36;0;0;1;0;Friendly;France;Win;;;;;;;;
+31/03/1994;Ghana;Senegal;31;58;0;0;1;0;African Cup of Nations;Tunisia;Win;;;;;;;;
+23/03/1994;Brazil;Argentina;2;8;0;0;2;0;Friendly;Brazil;Win;;;;;;;;
+23/03/1994;Spain;Croatia;6;125;0;0;0;2;Friendly;Spain;Lose;;;;;;;;
+12/03/1994;USA;South Korea;21;42;0;0;1;1;Friendly;USA;Draw;;;;;;;;
+09/03/1994;England;Denmark;12;4;0;0;1;0;Friendly;England;Win;;;;;;;;
+05/03/1994;USA;South Korea;21;42;0;0;1;0;Friendly;USA;Win;;;;;;;;
+09/02/1994;Spain;Poland;5;28;0;0;1;1;Friendly;Spain;Draw;;;;;;;;
+26/01/1994;Mexico;Switzerland;16;12;0;0;1;5;Friendly;USA;Lose;;;;;;;;
+22/01/1994;USA;Switzerland;22;12;0;0;1;1;Friendly;USA;Draw;;;;;;;;
+19/01/1994;Spain;Portugal;5;20;0;0;2;2;Friendly;Spain;Draw;;;;;;;;
+19/01/1994;Tunisia;Netherlands;32;7;0;0;2;2;Friendly;Tunisia;Draw;;;;;;;;
+31/12/1993;Ghana;Tunisia;37;32;0;0;1;1;Friendly;Ghana;Draw;;;;;;;;
+22/12/1993;Mexico;Germany;17;3;0;0;0;0;Friendly;Mexico;Draw;;;;;;;;
+18/12/1993;USA;Germany;27;3;0;0;0;3;Friendly;USA;Lose;;;;;;;;
+16/12/1993;Mexico;Brazil;17;4;0;0;0;1;Friendly;Mexico;Lose;;;;;;;;
+15/12/1993;Argentina;Germany;9;3;0;0;2;1;Friendly;USA;Win;;;;;;;;
+17/11/1993;Argentina;Australia;9;61;0;0;1;0;FIFA World Cup qualification;Argentina;Win;;;;;;;;
+17/11/1993;Germany;Brazil;4;1;0;0;2;1;Friendly;Germany;Win;;;;;;;;
+17/11/1993;Poland;Netherlands;23;6;0;0;1;3;FIFA World Cup qualification;Poland;Lose;;;;;;;;
+17/11/1993;Spain;Denmark;7;5;0;0;1;0;FIFA World Cup qualification;Spain;Win;;;;;;;;
+31/10/1993;Australia;Argentina;61;9;0;0;1;1;FIFA World Cup qualification;Australia;Draw;;;;;;;;
+28/10/1993;Saudi Arabia;Iran;46;59;0;0;4;3;FIFA World Cup qualification;Qatar;Win;;;;;;;;
+25/10/1993;Japan;South Korea;44;37;0;0;1;0;FIFA World Cup qualification;Qatar;Win;;;;;;;;
+22/10/1993;South Korea;Saudi Arabia;37;46;0;0;1;1;FIFA World Cup qualification;Qatar;Draw;;;;;;;;
+18/10/1993;Japan;Iran;43;58;0;0;1;2;FIFA World Cup qualification;Qatar;Lose;;;;;;;;
+16/10/1993;Iran;South Korea;58;36;0;0;0;3;FIFA World Cup qualification;Qatar;Lose;;;;;;;;
+15/10/1993;Saudi Arabia;Japan;44;43;0;0;0;0;FIFA World Cup qualification;Qatar;Draw;;;;;;;;
+13/10/1993;Germany;Uruguay;5;15;0;0;5;0;Friendly;Germany;Win;;;;;;;;
+13/10/1993;Netherlands;England;13;5;0;0;2;0;FIFA World Cup qualification;Netherlands;Win;;;;;;;;
+13/10/1993;Portugal;Switzerland;21;10;0;0;1;0;FIFA World Cup qualification;Portugal;Win;;;;;;;;
+13/10/1993;USA;Mexico;26;16;0;0;1;1;Friendly;USA;Draw;;;;;;;;
+29/09/1993;Mexico;Poland;16;22;0;0;0;0;Friendly;USA;Draw;;;;;;;;
+27/09/1993;Saudi Arabia;Costa Rica;44;38;0;0;3;2;Friendly;Saudi Arabia;Win;;;;;;;;
+26/09/1993;South Korea;Australia;36;65;0;0;1;0;Friendly;South Korea;Win;;;;;;;;
+24/09/1993;South Korea;Australia;36;65;0;0;1;1;Friendly;South Korea;Draw;;;;;;;;
+23/09/1993;Saudi Arabia;Costa Rica;44;38;0;0;1;2;Friendly;Saudi Arabia;Lose;;;;;;;;
+22/09/1993;Mexico;Cameroon;14;24;0;0;1;0;Friendly;USA;Win;;;;;;;;
+22/09/1993;Tunisia;Germany;31;1;0;0;1;1;Friendly;Tunisia;Draw;;;;;;;;
+19/09/1993;Brazil;Uruguay;8;22;0;0;2;0;FIFA World Cup qualification;Brazil;Win;;;;;;;;
+08/09/1993;England;Poland;11;20;0;0;3;0;FIFA World Cup qualification;England;Win;;;;;;;;
+05/09/1993;Ecuador;Uruguay;35;22;0;0;0;1;FIFA World Cup qualification;Ecuador;Lose;;;;;;;;
+22/08/1993;Brazil;Ecuador;8;35;0;0;2;0;FIFA World Cup qualification;Brazil;Win;;;;;;;;
+15/08/1993;Australia;Canada;52;46;0;0;2;1;FIFA World Cup qualification;Australia;Win;;;;;;;;
+15/08/1993;Uruguay;Brazil;22;8;0;0;1;1;FIFA World Cup qualification;Uruguay;Draw;;;;;;;;
+08/08/1993;Brazil;Mexico;8;14;0;0;1;1;Friendly;Brazil;Draw;;;;;;;;
