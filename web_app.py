@@ -213,11 +213,11 @@ matriz = match['matrix']
 scoreboards = match['scoreboards']
 
 col1, col2, col3, col4, col5 = st.columns(5)
-col1.image(data.loc[team1, 'LinkBandeiraPequena'])  
+col1.image(data.loc[team1, 'LinkBandeiraGrande'])  
 col2.metric(team1, prob[0])
 col3.metric('Draw', prob[1])
 col4.metric(team2, prob[2]) 
-col5.image(data.loc[team2, 'LinkBandeiraPequena'])
+col5.image(data.loc[team2, 'LinkBandeiraGrande'])
 
 st.markdown('---')
 st.markdown("## 📊 Scoreboards' Probabilities") 
