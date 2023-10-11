@@ -191,8 +191,8 @@ def match_probs(team1, team2):
 
 ######## START OF APP
 
-st.markdown("<h1 style='text-align: center; color: blue;'>2022 FIFA WORLD CUP PREDICTIONS</h1>", unsafe_allow_html=True)
-st.markdown("<h2 style='text-align: center;'>🏆 CS50 FINAL PROJECT 🏆</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center; color: blue;'>🏆 2022 FIFA WORLD CUP PREDICTIONS 🏆</h1>", unsafe_allow_html=True)
+# st.markdown("<h2 style='text-align: center;'>🏆 CS50 FINAL PROJECT 🏆</h1>", unsafe_allow_html=True)
 
 st.markdown('---')
 st.markdown("## ⚽ Matches' Probabilities")
@@ -256,5 +256,5 @@ for i in wc_games.index:
 st.table(wc_games)
 
 st.markdown('---')
-st.markdown("<p style='text-align: right;'>I'm Bruno Motta</p>", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: right;'>This was CS50!</h1>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: right;'>Thanks for using this app!</h2>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: right;'>Bruno Motta</p>", unsafe_allow_html=True)
