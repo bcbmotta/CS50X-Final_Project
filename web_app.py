@@ -192,7 +192,7 @@ def match_probs(team1, team2):
 ######## START OF APP
 
 st.markdown("<h1 style='text-align: center; color: blue;'>🏆 2022 FIFA WORLD CUP 🏆</h1>", unsafe_allow_html=True)
-st.markdown("<h1 style='text-align: center; color: blue;'>PREDICTIONS</h1>", unsafe_allow_html=True)
+st.markdown("<h2 style='text-align: center; color: blue;'>PREDICTIONS</h2>", unsafe_allow_html=True)
 # st.markdown("<h2 style='text-align: center;'>🏆 CS50 FINAL PROJECT 🏆</h1>", unsafe_allow_html=True)
 
 st.markdown('---')
