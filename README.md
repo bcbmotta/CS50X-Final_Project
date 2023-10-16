@@ -1,6 +1,4 @@
-# CS50X-Final_Project
-
-## FIFA World Cup 2022 games score prediction tool
+# FIFA World Cup 2022 games score prediction tool
 Web app based on statistical distributions and relational databases, to predict game results during the FIFA World Cup 2022.
 
 Multiple data sets were used to create a Power status of each team's defense, offense and goalkeeper.
